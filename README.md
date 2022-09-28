@@ -1,4 +1,4 @@
-# dcat-demonstrator
+# D-CAT Demonstrator
 This is a demonstrator for the hierarchical classification of requiremnets. The purpose of this demonstrator is to show how reqirements can be classified using a classification system.
 
 ## Instruments
