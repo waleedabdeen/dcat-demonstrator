@@ -20,5 +20,5 @@ The following needs to be configured for the demonstrator to work.
    3. Open the source code with eclipse (or any IDE of your choice).
    4. Run `RecommenderDemonstratorApplication` as java applicaion.
    5. The server will run on `http://localhost:8080/`, then either:
-      a. Navigate to `http://localhost:8080/labeld-data` to see the recommendations vs. the true labels
-      b. Navigate to `http://localhost:8080/classifier` to classify your own requirement/text. At least one of the boxes needs to be filled for the classifier to work.
+      1. Navigate to `http://localhost:8080/labeled-data` to see the recommendations vs. the true labels
+      2. Navigate to `http://localhost:8080/classifier` to classify your own requirement/text. At least one of the boxes needs to be filled for the classifier to work.
