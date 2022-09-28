@@ -11,7 +11,7 @@ This is a demonstrator for the hierarchical classification of requiremnets. The 
 The following needs to be configured for the demonstrator to work.
 
    1. In `conf/configuration.properties` set the property `cogcomp.esa.simple.wikiIndex` to the directory of wikipedia index.
-   2. Make sure that SB11 concepts tree file is set in  `data/sb11/raw/SB11_SV_EN_20220520.csv`.
+   2. Make sure that SB11 csv file is set in `data/sb11/raw/SB11_SV_EN_20220520.csv`.
    3. Make sure that SB11 concepts tree file is set in `data/sb11/output/tree.sb11.simple.esa.concepts.newrefine.500.Byggdelar`. This file is generated from the classifier source code.
 
 ## How to run?
