@@ -24,6 +24,8 @@ hs_err_pid*
 replay_pid*
 
 
+target
+
 #data
 data/raw
 data/output
