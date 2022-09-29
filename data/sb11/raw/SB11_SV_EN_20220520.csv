@@ -1,0 +1,2083 @@
+dimension;identifier;desc_eng;details_eng;desc_swe;details_swe
+Byggdelar;0;Compound building components and installation systems;;Sammansatta byggdelar och installationssystem;
+Byggdelar;01;Dummy01;;Dummy01;
+Byggdelar;01B;Compound building components for plant;;Sammansatta byggdelar för anläggning;
+Byggdelar;01BB;Compound building components in road, plane and d;;Sammansatta byggdelar i väg, plan o d;
+Byggdelar;01BC;Compound building components in track installations;;Sammansatta byggdelar i spåranläggning;
+Byggdelar;01S;Compound building components;;Sammansatta byggdelar i hus;
+Byggdelar;01SB;Compound building components, Internal walls, Compound;;Sammansatta byggdelar i hus, Innerväggar, sammansatta;
+Byggdelar;01SC;Compound building components, external walls, Compound;;Sammansatta byggdelar i hus, Ytterväggar, sammansatta;
+Byggdelar;01SF;Compound building components, Beams, Compound;;Sammansatta byggdelar i hus, Bjälklag, sammansatta;
+Byggdelar;01SG;Compound building components, External ceilings and beams, Compound;;Sammansatta byggdelar i hus, Yttertak och ytterbjälklag, sammansatta;
+Byggdelar;01SH;Compound building components, Stairs, Compound;;Sammansatta byggdelar i hus, Trappor, sammansatta;
+Byggdelar;01SJ;Compound building components, Balconies, Compound;;Sammansatta byggdelar i hus, Balkonger, sammansatta;
+Byggdelar;01SK;Compound building components, Loft conversions, Compound;;Sammansatta byggdelar i hus, Loftgångar, sammansatta;
+Byggdelar;01SL;Compound building components, Loading docks, Compound;;Sammansatta byggdelar i hus, Lastkajer, sammansatta;
+Byggdelar;01SZ;Other compound building components;;Övriga sammansatta byggdelar i hus;
+Byggdelar;1;Compound building components;;Sammansatta byggdelar;
+Byggdelar;11;SUBGRADE;;UNDERGRUND;
+Byggdelar;11B;Unworked subgrade;;Obearbetad undergrund;
+Byggdelar;11BB;Soil terrace, unworked;;Jordterrass, obearbetad;
+Byggdelar;11BC;Mountain terrace, unworked;;Bergterrass, obearbetad;
+Byggdelar;11C;Tilled underground;;Bearbetad undergrund;
+Byggdelar;11CB;Soil terrace, cultivated;;Jordterrass, bearbetad;
+Byggdelar;11CC;Mountain terrace, cultivated;;Bergterrass, bearbetad;
+Byggdelar;11D;Terrace area;;Terrassyta;
+Byggdelar;12;Substructure;;UNDERBYGGNAD;
+Byggdelar;12B;Fillings;;Fyllningar;
+Byggdelar;12BB;Fill for road, level, track, etc.;;Fyllning för väg, plan, spåranläggning m m;
+Byggdelar;12BBB;Bank widening;;Bankbreddning;
+Byggdelar;12BC;Filling for vegetation surface;;Fyllning för vegetationsyta;
+Byggdelar;12BD;Filling for building, bridge, wall, jetty, quay, caisson, etc.;;Fyllning för byggnad, bro, mur, brygga, kaj, kassun m m;
+Byggdelar;12BDB;Filling for the foundation of buildings;;Fyllning för grundläggning av byggnadsverk;
+Byggdelar;12BDC;Filling for construction work (including bridge cones);;Fyllning mot byggnadsverk (Inklusive brokoner);
+Byggdelar;12BE;Filling for pipeline;;Fyllning för ledning;
+Byggdelar;12BZ;Miscellaneous filling;;Diverse fyllning;
+Byggdelar;12BZB;Filling for bed under foundation;;Fyllning för bädd under fundament;
+Byggdelar;12BZC;Pipeline bed;;Ledningsbädd;
+Byggdelar;12BZD;Circular filling;;Kringfyllning;
+Byggdelar;12BZE;Remaining filling;;Resterande fyllning;
+Byggdelar;12C;Sealing and levelling layer;;Tätande och avjämnande lager;
+Byggdelar;12CB;Sealing layer;;Tätande lager;
+Byggdelar;12CC;Levelling layer;;Avjämnande lager;
+Byggdelar;12E;Material separation layer;;Materialskiljande lager;
+Byggdelar;12F;Gas and liquid sealing layers;;Gas- och vätsketätande lager;
+Byggdelar;13;IN-GROUND LAYERS FOR THE PROTECTION OF STRUCTURES;;LAGER I MARK FÖR SKYDD AV BYGGNADSVERK;
+Byggdelar;13B;Drainage and capillary-breaking layers;;Dränerande och kapillärbrytande lager;
+Byggdelar;13C;Thermal insulation layers;;Termoisolerande lager;
+Byggdelar;13D;Flow-preventing fillings;;Strömningsavskärande fyllningar;
+Byggdelar;13G;Thermal insulation in soil for the protection of construction works;;Termisk isolering i mark för skydd av byggnadsverk;
+Byggdelar;13GS;Thermal insulation in soil for the protection of buildings;;Termisk isolering i mark för skydd av hus;
+Byggdelar;14;LAYERS IN SOIL FOR THE PROTECTION OF NATURE;;LAGER I MARK FÖR SKYDD AV NATUR;
+Byggdelar;14B;Filling for the protection of root systems;;Fyllning för skydd av rotsystem;
+Byggdelar;15;FOUNDATION STRUCTURES;;GRUNDKONSTRUKTIONER;
+Byggdelar;15A;Compound foundation structures;;Sammansatta grundkonstruktioner;
+Byggdelar;15B;Foundation structures for facilities;;Grundkonstruktioner för anläggning;
+Byggdelar;15BB;Piles;;Pålar;
+Byggdelar;15BC;Foundation piles;;Grundplintar;
+Byggdelar;15BE;Pile plinths and pile plates;;Pålplintar och pålplattor;
+Byggdelar;15BF;Pillar posts in base structure;;Pelarholkar i grundkonstruktion;
+Byggdelar;15BG;Foundation slabs, complete;;Grundplattor, hela;
+Byggdelar;15BH;Foundation soles;;Grundsulor;
+Byggdelar;15BJ;Foundation beams;;Grundbalkar;
+Byggdelar;15BK;Foundation walls;;Grundmurar;
+Byggdelar;15BL;Pile decks;;Påldäck;
+Byggdelar;15BT;Foundations in basic construction;;Fundament i grundkonstruktion;
+Byggdelar;15BU;Complements to the basic structure;;Kompletteringar i grundkonstruktion;
+Byggdelar;15BUB;Anchorages in the foundation;;Förankringar i grundkonstruktion;
+Byggdelar;15BZ;Other foundation structures for facility;;Övriga grundkonstruktioner för anläggning;
+Byggdelar;15S;Foundation structures for buildings;;Grundkonstruktioner för hus;
+Byggdelar;15SB;Piles;;Pålar;
+Byggdelar;15SC;Foundation piles;;Grundplintar;
+Byggdelar;15SE;Pile plinths and pile plates;;Pålplintar och pålplattor;
+Byggdelar;15SF;Pillar posts in foundation construction;;Pelarholkar i grundkonstruktion;
+Byggdelar;15SG;Foundation slabs, complete;;Grundplattor, hela;
+Byggdelar;15SH;Foundation soles;;Grundsulor;
+Byggdelar;15SJ;Foundation beams;;Grundbalkar;
+Byggdelar;15SK;Foundation walls;;Grundmurar;
+Byggdelar;15SL;Pile decks;;Påldäck;
+Byggdelar;15ST;Foundations in basic construction;;Fundament i grundkonstruktion;
+Byggdelar;15SU;Complements to the basic structure;;Kompletteringar i grundkonstruktion;
+Byggdelar;15SUB;Anchorages in the foundation;;Förankringar i grundkonstruktion;
+Byggdelar;15SZ;Other basic constructions for buildings;;Övriga grundkonstruktioner för hus;
+Byggdelar;16;SUPPORTING STRUCTURES;;STÖDKONSTRUKTIONER;
+Byggdelar;16B;Support structures in facilities;;Stödkonstruktioner i anläggning;
+Byggdelar;16BB;Sheet piling;;Spont;
+Byggdelar;16BBB;Non-watertight sheet piles;;Icke vattentät spont;
+Byggdelar;16BBC;Watertight sheet piles;;Vattentät spont;
+Byggdelar;16BC;Retaining walls;;Stödmurar;
+Byggdelar;16BD;Earth reinforcement;;Jordarmering;
+Byggdelar;16BE;Troughs;;Tråg;
+Byggdelar;16BEB;Non-watertight trough;;Icke vattentätt tråg;
+Byggdelar;16BEC;Watertight trough;;Vattentätt tråg;
+Byggdelar;16BZ;Other supporting structures;;Övriga stödkonstruktioner;
+Byggdelar;17;TUNNEL AND ROCK STRUCTURES;;TUNNEL- OCH BERGRUMSKONSTRUKTIONER;
+Byggdelar;17B;Tunnel contour;;Tunnelkontur;
+Byggdelar;17BB;Theoretical tunnel contour;;Teoretisk tunnelkontur;
+Byggdelar;17BB1;Theoretical tunnel contour-roof;;Teoretisk tunnelkontur-Tak;
+Byggdelar;17BB2;Theoretical tunnel contour-Walls;;Teoretisk tunnelkontur-Väggar;
+Byggdelar;17BB3;Theoretical tunnel contour-Bottom;;Teoretisk tunnelkontur-Botten;
+Byggdelar;17BB4;Theoretical tunnel contour-Detail shaft;;Teoretisk tunnelkontur-Detaljschakt;
+Byggdelar;17BB5;Dummy 17BB5;;Dummy 17BB5;
+Byggdelar;17BB50;Right side tunnel contour;;Höger sida tunnelkontur;
+Byggdelar;17BB51;Left side tunnel contour;;Vänster sida tunnelkontur;
+Byggdelar;17BC;Theoretical internal tunnel contour;;Teoretisk invändig tunnelkontur;
+Byggdelar;17C;Roof and wall drainage;;Tak- och väggdränering;
+Byggdelar;17D;Rock reinforcement with shotcrete;;Bergförstärkning med sprutbetong;
+Byggdelar;17E;Sealing;;Tätning;
+Byggdelar;17F;Rock anchors;;Bergförankringar;
+Byggdelar;18;CONCRETE TUNNELS;;BETONGTUNNLAR;
+Byggdelar;18B;Concrete tunnel;;Betongtunnel;
+Byggdelar;18C;Anchoring to bedrock;;Förankring mot berggrund;
+Byggdelar;18CB;Rock anchoring;;Bergförankring;
+Byggdelar;18D;Casting against rock;;Motgjutning mot berg;
+Byggdelar;18DB;Spacers;;Mellanlägg;
+Byggdelar;18DC;Insulating mat;;Isolermatta;
+Byggdelar;18E;Frost protection;;Frostsäkring;
+Byggdelar;18F;Fire insulation;;Brandisolering;
+Byggdelar;18G;Surface cladding;;Ytbeklädnad;
+Byggdelar;18H;Joints;;Fogar;
+Byggdelar;18HB;Expansion joints;;Dilatationsfogar;
+Byggdelar;18HC;Working and casting joints;;Arbets- och gjutfogar;
+Byggdelar;18J;Joint seals;;Fogtätningar;
+Byggdelar;18K;Injections;;Injekteringar;
+Byggdelar;18KB;Contact injections;;Kontaktinjekteringar;
+Byggdelar;18KC;Injection hoses;;Injekteringsslangar;
+Byggdelar;18KD;Sealing of joints with roofing felt;;Förseglingar av gjutfog med takpapp;
+Byggdelar;18L;Earthing and potential equalisation devices;;Jordning- och och potentialutjämningsanordningar;
+Byggdelar;18M;Conduit culverts;;Ledningskulvertar;
+Byggdelar;2;Support structures;;BÄRVERK;
+Byggdelar;20;COMPOUND SUPPORT STRUCTURES;;SAMMANSATTA BÄRVERK;
+Byggdelar;21;SUPPORT STRUCTURES IN FACILITY;;BÄRVERK I ANLÄGGNING;
+Byggdelar;21B;Support structures in bridges, piers, quays, etc.;;Bärverk i bro, brygga, kaj o d;
+Byggdelar;21BB;Support structures in bridges, piers, quays, etc.;;Bärverk i bro;
+Byggdelar;21BBB;Bridge substructure;;Underbyggnad för bro;
+Byggdelar;21BBBB;Bridge head;;Landfästen;
+Byggdelar;21BBBC;Support;;Stöd;
+Byggdelar;21BBBD;Sheet piling and retaining walls;;Vingmurar och stödmurar;
+Byggdelar;21BBBE;End screens;;Ändskärmar;
+Byggdelar;21BBC;Bridge superstructure;;Överbyggnad för bro;
+Byggdelar;21BBD;Support structures (layers);;Upplagsanordningar (lager);
+Byggdelar;21BBE;Main supporting structures;;Huvudbärverk;
+Byggdelar;21BBF;Other supporting structures;;Övriga bärverk;
+Byggdelar;21BBG;Runway slabs and bridge deck slabs;;Körbaneplattor och brobaneplattor;
+Byggdelar;21BBH;Edge beams;;Kantbalkar;
+Byggdelar;21BBI;Transition constructs;;Övergångskonstruktioner;
+Byggdelar;21BBJ;Tubular bridge;;Rörbro;
+Byggdelar;21BBK;Link plate;;Länkplatta;
+Byggdelar;21BC;Support structures in bridge, quay, etc.;;Bärverk i brygga, kaj o d;
+Byggdelar;21C;Support structures in tunnels, galleries, etc.;;Bärverk i tunnel, bergrum o d;
+Byggdelar;21CB;Support structures in tunnel;;Bärverk i tunnel;
+Byggdelar;21CC;Support structures in rock chamber;;Bärverk i bergrum;
+Byggdelar;21D;Support structures in masts, towers, lighthouses, etc.;;Bärverk i mast, torn, fyr o d;
+Byggdelar;21Z;Other support structures in facilities;;Övriga bärverk i anläggning;
+Byggdelar;27;SUPPORT STRUCTURES IN BUILDING FRAME;;BÄRVERK I HUSSTOMME;
+Byggdelar;27A;Compound support structures in building frame;;Sammansatta bärverk i husstomme;
+Byggdelar;27B;Inner framewalls;;Stominnerväggar;
+Byggdelar;27BA;Compound inner framewalls;;Stominnerväggar, sammansatta;
+Byggdelar;27C;Outer framewalls;;Stomytterväggar;
+Byggdelar;27CA;Compound outer framewalls;;Stomytterväggar sammansatta;
+Byggdelar;27D;Pillar frame;;Pelarstomme;
+Byggdelar;27DA;Pillars, compound;;Pelare, sammansatta;
+Byggdelar;27E;Beams;;Balkstommar;
+Byggdelar;27EA;Beams, compound;;Balkstommar, sammansatta;
+Byggdelar;27F;Pillar joists;;Stombjälklag;
+Byggdelar;27FA;Compound pilar joists;;Stombjälklag, sammansatta;
+Byggdelar;27G;External roof and beam columns;;Yttertaks- och ytterbjälklagsstommar;
+Byggdelar;27GA;Compound external roof and beam columns;;Yttertaks- och ytterbjälklagsstommar, sammansatta;
+Byggdelar;27H;Ancillary support structure in building frame;;Kompletterande bärverk i husstomme;
+Byggdelar;27HA;Compound ancillary support structure;;Kompletterande bärverk, sammansatta;
+Byggdelar;27HB;Staircase frames in building frame;;Trappstommar i husstomme;
+Byggdelar;27HC;Balustrades in building frame;;Balkongstommar i husstomme;
+Byggdelar;27HD;Loft access frames in building frame;;Loftgångsstommar i husstomme;
+Byggdelar;27HE;Loading bay frames in building frame;;Lastkajsstommar i husstomme;
+Byggdelar;27HF;Shafts in building frame;;Schaktstommar i husstomme;
+Byggdelar;27HFB;Elevator shafts in building frame;;Hisschaktstommar i husstomme;
+Byggdelar;27Z;Other supporting structures in building frames;;Övriga bärverk i husstomme;
+Byggdelar;3;SUPERSTRUCTURES AND ANCILLARY STRUCTURES;;ÖVERBYGGNADER OCH ANLÄGGNINGSKOMPLETTERINGAR;
+Byggdelar;31;SUPERSTRUCTURES;;ÖVERBYGGNADER;
+Byggdelar;31B;Superstructures for roads and flat areas;;Överbyggnader för väg och plan;
+Byggdelar;31BB;Midways;;Mittvägrenar;
+Byggdelar;31BC;Carriageways;;Körbanor;
+Byggdelar;31BD;Road verges;;Vägrenar;
+Byggdelar;31BE;Support strips;;Stödremsor;
+Byggdelar;31BF;Flat areas etc.;;Planer o d;
+Byggdelar;31BFB;Turning point;;Vändplats;
+Byggdelar;31BFC;Industrial area;;Industriyta;
+Byggdelar;31BFD;Parking space for vehicles;;Uppställningsplats för fordon;
+Byggdelar;31BFE;Square and public space;;Torg- och vistelseyta;
+Byggdelar;31BFF;Sports field;;Idrottsplan;
+Byggdelar;31BG;Pedestrian and bicycle paths;;Gång- och cykelbanor;
+Byggdelar;31BH;Centre support strip;;Mittstödremsa;
+Byggdelar;31BJ;Road superstructure, wear layer/pavement;;Överbyggnad för Väg, Slitlager/beläggning;
+Byggdelar;31BK;Road superstructure, binding layer;;Överbyggnad för Väg, Bindlager;
+Byggdelar;31BL;Road superstructure, support layer;;Överbyggnad för Väg, Bärlager;
+Byggdelar;31BM;Road superstructure, reinforcement layer;;Överbyggnad för Väg, Förstärkningslager;
+Byggdelar;31C;Track superstructures;;Överbyggnader för spåranläggning;
+Byggdelar;31CB;Superstructure for track installation in street;;Överbyggnad för spåranläggning i gata;
+Byggdelar;31CC;Superstructure for track installation on embankment;;Överbyggnad för spåranläggning på banvall;
+Byggdelar;31CCB;Underballast;Moving to 31CK?;Underballast;Flyttas till 31CK?
+Byggdelar;31CCC;Overballast;;Överballast;
+Byggdelar;31CCD;Track slab;;Spårplatta;
+Byggdelar;31CJ;Track superstructure;;Banöverbyggnad;
+Byggdelar;31CJB;Ballast;;Ballast;
+Byggdelar;31CJC;Track plate;;Spårplatta;
+Byggdelar;31CK;Underballast;;Underballast;
+Byggdelar;31CKB;Reinforcing bearings;;Förstärkningslager;
+Byggdelar;31CKC;Frost insulation;Frost insulation (sub-ballast with frost insulation function - there are also thermally insulating layers in cellular plastic which are also frost insulation);Frostisolering;Frostisolering (underballast med funktion frostisolering - finns även termoisolerande lager i cellplast som också är frostisolering)
+Byggdelar;31CZ;Other track superstructures;;Övriga spåröverbyggnader;
+Byggdelar;31D;Superstructures for airport runways;;Överbyggnader för flygplatsbanor;
+Byggdelar;31E;Superstructures for slopes;;Överbyggnader för slänter;
+Byggdelar;31EB;Inner slope;;Innerslänt;
+Byggdelar;31EBB;Inner slope for road;;Innerslänt för väg;
+Byggdelar;31EBC;Inner slope for railway;;Innerslänt för järnväg;
+Byggdelar;31EC;Surface slope;;Ytterslänt;
+Byggdelar;31ECB;Surface slope for road;;Yttterslänt för väg;
+Byggdelar;31ECC;Surface slope for railway;;Ytterslänt för järnväg;
+Byggdelar;31ED;Slope protection;;Släntskydd;
+Byggdelar;31EDB;Erosion protection;;Erosionsskydd;
+Byggdelar;31EDC;Slope cladding;;Släntbeklädnad;
+Byggdelar;31EDD;Slope drainage;;Släntdränering;
+Byggdelar;31EDE;Plant bed incl. spray sowing and plant establishment;;Växtbädd inkl sprutsådd och växtetablering;
+Byggdelar;31F;Superstructures for vegetation surfaces;;Överbyggnader för vegetationsytor;
+Byggdelar;31FB;Natural land;;Naturmark;
+Byggdelar;31FC;Grass areas;;Gräsytor;
+Byggdelar;31FCB;Intensive;;Intensiva;
+Byggdelar;31FCC;Extensive;;Extensiva;
+Byggdelar;31FD;Planting areas;;Planteringsytor;
+Byggdelar;31FE;Additions to vegetation areas;;Kompletteringar till vegetationsytor;
+Byggdelar;31FEB;Air wells;;Luftbrunnar;
+Byggdelar;31H;Road bridge superstructures;;Överbyggnader för vägbro;
+Byggdelar;31HB;Transition construction;;Övergångskonstruktion;
+Byggdelar;31HC;Edge beam;;Kantbalk;
+Byggdelar;31HD;Beam;;Balk;
+Byggdelar;31HE;Pavement for road bridge;;Beläggning för vägbro;
+Byggdelar;31HF;Waterproofing;;Tätskikt;
+Byggdelar;31J;Superstructures for railway bridges;;Överbyggnader för järnvägsbro;
+Byggdelar;31K;Superstructures for quay;;Överbyggnader för kaj o d;
+Byggdelar;31KB;Superstructures for platforms;;Överbyggnader för plattformar;
+Byggdelar;31L;Superstructures for dams, dikes, etc.;;Överbyggnader för dammar, vallar o d;
+Byggdelar;31LB;Superstructures for embankments;;Överbyggnader för vallar;
+Byggdelar;31LBB;Superstructures for noise barriers;;Överbyggnader för bullervallar;
+Byggdelar;31LC;Superstructures for dams;;Överbyggnader för dammar;
+Byggdelar;31Y;Miscellaneous ground superstructures;;Diverse överbyggnader i mark;
+Byggdelar;31YB;Sand surfaces;;Sandytor;
+Byggdelar;31YC;Surfaces covered with artificial materials;;Ytor belagda med konstmaterial;
+Byggdelar;31YD;Paved surfaces, natural stone;;Hårdgjorda ytor, natursten;
+Byggdelar;31Z;Other superstructures;;Övriga överbyggnader;
+Byggdelar;32;FACILITY COMPLETIONS;;ANLÄGGNINGSKOMPLETTERINGAR;
+Byggdelar;32B;Traffic facilities;;Trafikanordningar;
+Byggdelar;32BB;Signs;;Skyltar;
+Byggdelar;32BBB;Road traffic signs;;Skyltar för vägtrafik;
+Byggdelar;32BBC;Rail traffic signs;;Skyltar för spårbunden trafik;
+Byggdelar;32BC;Markings;;Markeringar;
+Byggdelar;32BCB;Road and surface markings;;Väg- och ytmarkeringar;
+Byggdelar;32BCBB;Visual markings;;Visuella markeringar;
+Byggdelar;32BCBC;Noise markings;;Bullermarkeringar;
+Byggdelar;32BCD;Posts, bollards, kerbstones, etc.;;Pålar, pollare, kantstolpar o d;
+Byggdelar;32BCDB;Distance posts;;Distanspålar;
+Byggdelar;32BCDC;Obstacle posts;;Hinderpålar;
+Byggdelar;32BCDD;Kerbstones;;Kantstolpar;
+Byggdelar;32BCDE;Marker posts;;Markeringsstolpar;
+Byggdelar;32BD;Barriers;;Avstängningsanordningar;
+Byggdelar;32BDB;Bars;;Bommar;
+Byggdelar;32BDC;Bollards;;Pollare;
+Byggdelar;32BDD;Road barriers;;Vägspärrar;
+Byggdelar;32BDE;Movable barriers;;Flyttbar avstängningsanordning;
+Byggdelar;32BE;Parking meters, ticket machines, etc.;;Parkeringsmätare, biljettautomater m m;
+Byggdelar;32BG;Portals, signposts, etc.;;Portaler, skyltbryggor o d;
+Byggdelar;32BGB;Protection portals;;Skyddsportaler;
+Byggdelar;32BGC;Signposts;;Skyltbryggor;
+Byggdelar;32BH;Traffic signals;;Trafiksignaler;
+Byggdelar;32C;Road devices;;Väganordningar;
+Byggdelar;32CB;Railings for road, area, etc.;;Räcken för väg, plan o d;
+Byggdelar;32CBB;Railing ends;;Räckesavslutningar;
+Byggdelar;32CC;Fences;;Stängsel;
+Byggdelar;32CD;Noise protection;;Bullerskydd;
+Byggdelar;32CE;Glare protection;;Bländskydd;
+Byggdelar;32CF;Speed bumps;;Farthinder;
+Byggdelar;32CG;Barrier elements;;Barriärelement;
+Byggdelar;32CH;Energy absorbing crash protection;;Energiupptagande krockskydd;
+Byggdelar;32CJ;Central barrier elements;;Mittbarriärelement;
+Byggdelar;32CK;Risk protection;;Riskskydd;
+Byggdelar;32CL;Road devices, Fences;;Väganordningar, Staket;
+Byggdelar;32D;Railway devices;;Järnvägsanordningar;
+Byggdelar;32DB;Protective devices;;Skyddsanordningar;
+Byggdelar;32DBB;Protective devices on crossing bridges;;Skyddsanordningar på korsande broar;
+Byggdelar;32DBC;Protection portals;;Skyddsportaler;
+Byggdelar;32DBD;Shields;;Avskärmningar;
+Byggdelar;32DC;Signs for electrical contact line systems;;Skyltning för kontaktledningssystem;
+Byggdelar;32DCB;Warning signs;;Varningsskyltar;
+Byggdelar;32DCC;Safety section panels;;Skyddssektionstavlor;
+Byggdelar;32DCD;Circuit-breaker panels and signals;;Elspärrtavlor och elspärrsignaler;
+Byggdelar;32DCE;Stop prohibition signs;;Stoppförbudstavlor;
+Byggdelar;32DCF;Signs for group limits;;Skyltning för gruppgränser;
+Byggdelar;32E;Curbs, gutters, etc.;;Kantstöd, ränndalar o d;
+Byggdelar;32EB;Curbs;;Kantstöd;
+Byggdelar;32F;Ditches;;Diken;
+Byggdelar;32FB;Road ditches;Not used in OL;Vägdiken;Används ej i OL
+Byggdelar;32FBB;Permeable road ditches;;Permeabla;
+Byggdelar;32FBC;Sealed road ditches;;Täta;
+Byggdelar;32G;Terrain steps;;Terrängtrappor;
+Byggdelar;32H;Terrain walls;;Terrängmurar;
+Byggdelar;32J;Fixed equipment in the ground;;Fasta utrustningar i mark;
+Byggdelar;32JB;Park furniture;;Parkmöbler;
+Byggdelar;32JC;Play equipment;;Lekutrustning;
+Byggdelar;32JD;Sports equipment;;Idrottsutrustning;
+Byggdelar;32JE;Pergolas, trellises, etc.;;Pergolor, spaljéer m m;
+Byggdelar;32JF;Litter bins, ashtrays, etc.;;Skräpkorgar, askkoppar m m;
+Byggdelar;32JG;Bicycle racks etc.;;Cykelställ e d;
+Byggdelar;32JH;Plant supports;;Stöd för växter;
+Byggdelar;32JJ;Protection for plants;;Skydd för växter;
+Byggdelar;32JJB;Ground grids;;Markgaller;
+Byggdelar;32JJC;Trunk protection;;Stamskydd;
+Byggdelar;32JZ;Other equipment;;Övrig utrustning;
+Byggdelar;32K;Ornaments in the ground;;Utsmyckningar i mark;
+Byggdelar;32L;Plant material;;Växtmaterial;
+Byggdelar;32M;Devices for bridge;;Anordningar för bro;
+Byggdelar;32MB;Bridge deck;;Broräcke;
+Byggdelar;32N;Facilities for jetty, quay, etc.;;Anordningar för brygga, kaj o d;
+Byggdelar;32NB;Facilities for loading quay;;Anordningar för lastkaj;
+Byggdelar;32NC;Roofing for jetty, quay, etc.;;Tak för brygga, kaj o d;
+Byggdelar;32P;Facilities for platform;;Anordningar för plattform;
+Byggdelar;32PB;Protection devices for platform;;Skyddsanordningar för plattform;
+Byggdelar;32PBB;Platform railing;;Räcke på plattform;
+Byggdelar;32PBC;Gangway/rail on platform;;Gångfålla/grind på plattform;
+Byggdelar;32PC;Platform roof;;Tak för plattform;
+Byggdelar;32Q;Railings, fences, picket fences, planks, etc.;;Räcken, stängsel, staket, plank m m;
+Byggdelar;32QB;Railings for pedestrian and cycle paths etc.;;Räcken för gång- och cykelväg o d;
+Byggdelar;32QBB;Parking rails;;Parkeringsräcken;
+Byggdelar;32QC;Stair railings, handrails, etc.;;Trappräcken, ledstänger o d;
+Byggdelar;32QD;Fencing;;Stängsel;
+Byggdelar;32QDB;Fencing for people;;Personstängsel;
+Byggdelar;32QDC;Fencing for game and animals;;Viltstängsel;
+Byggdelar;32QE;Fences;;Staket;
+Byggdelar;32QF;Plank;;Plank;
+Byggdelar;32QG;Gates, gateways etc.;;Grindar, portar o d;
+Byggdelar;32R;Noise protection;;Bullerskydd;
+Byggdelar;32Z;Other construction complements;;Övriga anläggningskompletteringar;
+Byggdelar;32ZB;Ponds, pools, etc.;;Dammar, bassänger o d;
+Byggdelar;32ZBB;Ponds;;Dammar;
+Byggdelar;32ZBBB;Pond slope;;Dammslänt;
+Byggdelar;32ZBBC;Pond bottom;;Dammbotten;
+Byggdelar;32ZBBD;Pond valley;;Dammvall;
+Byggdelar;32ZBBE;Diversion ditch;;Fördelningsdike;
+Byggdelar;32ZBBF;Flow barrier;;Flödesbarriär;
+Byggdelar;32ZBBG;Flow barrier, filling;;Flödesbarriär, fyllning;
+Byggdelar;33;TRACK FACILITIES;;SPÅRANLÄGGNINGAR;
+Byggdelar;33B;Tracks;;Spår;
+Byggdelar;33BB;Track and switch geometries;;Spår- och växelgeometrier;
+Byggdelar;33BBC;Horizontal geometry;;Horisontalgeometri;
+Byggdelar;33BBD;Measuring points;;Mätpunkter;
+Byggdelar;33BBE;Points of interchange;;Växelpunkter;
+Byggdelar;33BBEB;Mathematical crossing point;;Matematisk korsningspunkt;
+Byggdelar;33BBEC;Last longitudinal slip main track;;Sista långsliper huvudspår;
+Byggdelar;33BBED;Last longitudinal slipper side track;;Sista långsliper sidospår;
+Byggdelar;33BBEE;Tongue tip;;Tungspets;
+Byggdelar;33BBF;Vertical geometry;;Vertikalgeometri;
+Byggdelar;33BBG;Dummy 33BBG;;Dummy 33BBG;
+Byggdelar;33BBG1;Rear crossing joint in main track;;Bakre korsningsskarv i huvudspår;
+Byggdelar;33BBG2;Rear crossing joint in side track;;Bakre korsningsskarv i sidospår;
+Byggdelar;33BBH;Front support rail joint;;Främre stödrälsskarv;
+Byggdelar;33BC;Rails and rail joints;;Räler och rälsskarvar;
+Byggdelar;33BCB;Rails;;Räler;
+Byggdelar;33BCBB;Vignole rails;;Vignolräler;
+Byggdelar;33BCBC;Protection rails;;Skyddsräler;
+Byggdelar;33BCBD;Guide rails;;Ledräler;
+Byggdelar;33BCBE;Track rails;;Spårvägsräl;
+Byggdelar;33BCD;Rail joints;;Rälsskarvar;
+Byggdelar;33BCDB;Expansion joint;;Dilatationsskarv;
+Byggdelar;33BCDC;Moving bridge joint;;Rörlig broskarv;
+Byggdelar;33BCDD;Splice rail joint;;Rälsskarv i skarvspår;
+Byggdelar;33BCDE;Insulated joint;;Isolerskarv;
+Byggdelar;33BCDF;Rail weld;;Rälssvets;
+Byggdelar;33BD;Sleepers (railroad ties);;Sliprar;
+Byggdelar;33BDB;Ballast sleepers (railroad ties);Filed as 33BCB-. This appears to be a misspelling, adjusted to the current code.;Sliprar i ballast;Låg inlagd som 33BCB-. Detta verkar vara en felskrivning, justerad till nuvarande kod.
+Byggdelar;33BDC;Sleepers (railroad ties) for ballast free track;;Sliprar för ballastfritt spår;
+Byggdelar;33BE;Fasteners for rails;;Fästanordningar för räler;
+Byggdelar;33BEB;Fasteners;;Befästningar;
+Byggdelar;33BEC;Rail gauge;;Spårhållare;
+Byggdelar;33BED;Rail migration barriers;;Rälsvandringshinder;
+Byggdelar;33BF;Spacers;;Mellanlägg;
+Byggdelar;33BFB;Wedges;;Kilar;
+Byggdelar;33BFC;Clamping plates;;Klämplattor;
+Byggdelar;33BFD;Spacers;;Mellanlägg;
+Byggdelar;33BG;Devices at switches and crossings;;Anordningar i växlar och spårkorsningar;
+Byggdelar;33BGB;Tongue devices;;Tunganordningar;
+Byggdelar;33BGC;Spacers;;Mellanpartier;
+Byggdelar;33BGD;Counter rails;;Moträler;
+Byggdelar;33BGE;Crossings;;Korsningar;
+Byggdelar;33BH;Diversion devices;;Omläggningsanordningar;
+Byggdelar;33BHB;Switch motor;;Växeldriv;
+Byggdelar;33BHC;Switch boxes;;Växelställ;
+Byggdelar;33BHD;Links;;Länkar;
+Byggdelar;33BHE;Fittings;;Fästanordningar;
+Byggdelar;33BHF;Balls and levers;;Klot och hävarmar;
+Byggdelar;33BHG;Splitting locks;;Klykväxellås;
+Byggdelar;33BHH;Stands;;Stativ;
+Byggdelar;33BJ;Control devices;;Kontrollanordningar;
+Byggdelar;33BK;Locking devices;;Låsanordningar;
+Byggdelar;33C;Track accessories;;Spårkompletteringar;
+Byggdelar;33CB;Road plates;;Vägplattor;
+Byggdelar;33CC;Lubricators;;Smörjapparater;
+Byggdelar;33CD;Snow guards;;Snöskydd;
+Byggdelar;33D;Railway equipment;;Bangårdsutrustningar;
+Byggdelar;33DB;Stop blocks;;Stoppbockar;
+Byggdelar;33DBB;Additive elements for stop block;;Tillsatselement till stoppbock;
+Byggdelar;33DBF;Stop buck fixed;;Stoppbock fast;
+Byggdelar;33DBG;Sliding stop block;;Stoppbock glidbar;
+Byggdelar;33DC;Trolley scales;;Vagnvågar;
+Byggdelar;33DD;Ranger brakes;;Rangerbromsar;
+Byggdelar;33DE;Obstacle posts;;Hinderpålar;
+Byggdelar;33DF;Turntables;;Vändskivor;
+Byggdelar;33DG;Track barriers;;Spårspärrar;
+Byggdelar;33DH;Cranes;;Kranar;
+Byggdelar;33DJ;Wagon scales (change to vehicle scales);;Vagnvågar (byt till Fordonsvåg);
+Byggdelar;33DK;Load templates;;Lastmallar;
+Byggdelar;33DL;Coil plates;;Spolplattor;
+Byggdelar;4;ROOM-FORMING COMPONENTS, HOUSE COMPLETIONS, FINISHES AND ROOM COMPLETIONS;;RUMSBILDANDE BYGGDELAR, HUSKOMPLETTERINGAR, YTSKIKT OCH RUMSKOMPLETTERINGAR;
+Byggdelar;40;COMPOUND SPACE-FORMING COMPONENTS, BUILDING COMPLETIONS, FINISHES AND ROOM COMPLETIONS;;SAMMANSATTA RUMSBILDANDE BYGGDELAR, HUSKOMPLETTERINGAR, YTSKIKT OCH RUMSKOMPLETTERINGAR;
+Byggdelar;41;CLIMATE SEPARATING ELEMENTS AND ADDITIONS TO EXTERNAL ROOFS AND BEAMS;;KLIMATSKILJANDE DELAR OCH KOMPLETTERINGAR I YTTERTAK OCH YTTERBJÄLKLAG;
+Byggdelar;41A;Compound elements for climate separation and completion of external roofs and beams;;Sammansatta klimatskiljande delar och kompletteringar i yttertak och ytterbjälklag;
+Byggdelar;41B;Supplementary supporting structures in external ceilings;;Kompletterande bärverk i yttertak;
+Byggdelar;41C;External climate screens in external ceilings and beams;;Ytterklimatskärmar i yttertak och ytterbjälklag;
+Byggdelar;41D;Internal air-conditioning screens in external roofs and beams;;Innerklimatskärmar i yttertak och ytterbjälklag;
+Byggdelar;41E;Opening completions in external roofs and beams;;Öppningskompletteringar i yttertak och ytterbjälklag;
+Byggdelar;41EB;Skylights;;Takfönster;
+Byggdelar;41EC;Roof light domes;;Takljuskupoler;
+Byggdelar;41ED;Lanterns;;Lanterniner;
+Byggdelar;41EE;Light panels;;Ljuspaneler;
+Byggdelar;41EF;Fire gas ventilator;;Brandgasventilator;
+Byggdelar;41EG;Shutters;;Takluckor;
+Byggdelar;41EH;Movable ceilings;;Rörliga tak;
+Byggdelar;41F;Complements to external roofs and beams;;Kompletteringar till yttertak och ytterbjälklag;
+Byggdelar;41FB;External drainage systems from external roofs and beams;;Utvändiga avvattningssystem från yttertak och ytterbjälklag;
+Byggdelar;41FC;Internal drainage systems from external roofs and beams;;Invändiga avvattningssystem från yttertak och ytterbjälklag;
+Byggdelar;41FD;Safety devices on external roofs and beams;;Säkerhetsanordningar på yttertak och ytterbjälklag;
+Byggdelar;41FE;Access devices on external roofs and beams;;Tillträdesanordningar på yttertak och ytterbjälklag;
+Byggdelar;41FY;Miscellaneous accessories for external roofs and beams;;Diverse kompletteringar till yttertak och ytterbjälklag;
+Byggdelar;41Z;Other components and fittings for external roofs and beams;;Övriga klimatskiljande delar och kompletteringar i yttertak och ytterbjälklag;
+Byggdelar;42;CLIMATE SEPARATING ELEMENTS AND ADDITIONS IN EXTERNAL WALL;;KLIMATSKILJANDE DELAR OCH KOMPLETTERINGAR I YTTERVÄGG;
+Byggdelar;42A;Compound elements and additions to external wall;;Sammansatta klimatskiljande delar och kompletteringar i yttervägg;
+Byggdelar;42B;External air-conditioning screens in external wall;;Ytterklimatskärmar i yttervägg;
+Byggdelar;42C;Internal air-conditioning screens in external wall;;Innerklimatskärmar i yttervägg;
+Byggdelar;42D;Opening extensions in external wall;;Öppningskompletteringar i yttervägg;
+Byggdelar;42DB;Windows;;Fönster;
+Byggdelar;42DC;Window parts, climate separating;;Fönsterpartier, klimatavskiljande;
+Byggdelar;42DD;Wall sections, climate separating;;Väggpartier, klimatavskiljande;
+Byggdelar;42DE;External doors;;Ytterdörrar;
+Byggdelar;42DF;Doors;;Portar;
+Byggdelar;42E;External wall extensions;;Ytterväggskompletteringar;
+Byggdelar;42Z;Other climate separating elements and additions to external walls;;Övriga klimatskiljande delar och kompletteringar i yttervägg;
+Byggdelar;43;INTERNAL SPACE-FORMING BUILDING ELEMENTS;;INRE RUMSBILDANDE BYGGDELAR;
+Byggdelar;43A;Compound internal space-forming components;;Sammansatta inre rumsbildande byggdelar;
+Byggdelar;43B;Supplementary wall constructions;;Kompletterande väggkonstruktioner;
+Byggdelar;43C;Internal walls (excluding internal cavity walls) and opening completions;;Innerväggar (ej stominnerväggar) och öppningskompletteringar;
+Byggdelar;43CA;Compound internal walls;;Innerväggar, sammansatta;
+Byggdelar;43CB;Internal walls (excluding internal cavity walls);;Innerväggar (ej stominnerväggar);
+Byggdelar;43CC;Opening extensions in internal walls;;Öppningskompletteringar i innervägg;
+Byggdelar;43CCD;Wall sections;;Väggpartier;
+Byggdelar;43CCE;Internal doors;;Innerdörrar;
+Byggdelar;43CCF;Doors;;Portar;
+Byggdelar;43D;Beam superstructures and opening extensions;;Bjälklagsöverbyggnader och öppningskompletteringar;
+Byggdelar;43DA;Compound  beam superstructures and opening extensions;;Sammansatta bjälklagsöverbyggnader och öppningskompletteringar;
+Byggdelar;43DB;Floors;;Golv;
+Byggdelar;43DC;Subfloors;;Undergolv;
+Byggdelar;43DD;Protective coatings;;Skyddsbeläggningar;
+Byggdelar;43DE;Opening extensions in joists;;Öppningskompletteringar i bjälklag;
+Byggdelar;43DEG;Shutters;;Luckor;
+Byggdelar;43E;Ceilings;;Innertak;
+Byggdelar;43Z;Other internal components;;Övriga inre rumsbildande byggdelar;
+Byggdelar;44;INTERNAL FINISHES;;INVÄNDIGA YTSKIKT;
+Byggdelar;44A;Compound internal finishes;;Sammansatta invändiga ytskikt;
+Byggdelar;44B;Floor and stair finishes;;Ytskikt på golv och trappor;
+Byggdelar;44BB;Floor finishes;;Ytskikt på golv;
+Byggdelar;44BC;Finishes on stairs;;Ytskikt på trappor;
+Byggdelar;44C;Wall finishes;;Ytskikt på väggar;
+Byggdelar;44D;Ceiling finishes;;Ytskikt på innertak;
+Byggdelar;44Z;Other internal finishes;;Övriga invändiga ytskikt;
+Byggdelar;45;HOUSE EXTENSIONS;;HUSKOMPLETTERINGAR;
+Byggdelar;45A;Compound building extensions;;Sammansatta huskompletteringar;
+Byggdelar;45B;Exterior building completions;;Utvändiga huskompletteringar;
+Byggdelar;45BB;Balconies;;Balkonger;
+Byggdelar;45BC;Loft corridors;;Loftgångar;
+Byggdelar;45BD;Sheltered roofs;;Skärmtak;
+Byggdelar;45BE;Entrance stairs;;Entrétrappor;
+Byggdelar;45BF;Facade ladders;;Fasadstegar;
+Byggdelar;45BG;Skylights;;Vindskupor;
+Byggdelar;45BH;Ramps;;Ramper;
+Byggdelar;45BY;Miscellaneous building extensions;;Diverse huskompletteringar;
+Byggdelar;45C;Internal building extensions;;Invändiga huskompletteringar;
+Byggdelar;45CB;Internal staircases;;Invändiga trappor;
+Byggdelar;45Z;Other building extensions;;Övriga huskompletteringar;
+Byggdelar;46;ROOM EXTENSIONS;;RUMSKOMPLETTERINGAR;
+Byggdelar;46A;Compound room extensions;;Sammansatta rumskompletteringar;
+Byggdelar;46B;Interiors;;Inredningar;
+Byggdelar;46C;Equipment;;Utrustningar;
+Byggdelar;46Z;Other room extensions;;Övriga rumskompletteringar;
+Byggdelar;49;OTHER ROOM-FORMING COMPONENTS, BUILDING EXTENSIONS, FINISHES AND ROOM EXTENSIONS;;ÖVRIGA RUMSBILDANDE BYGGDELAR, HUSKOMPLETTERINGAR, YTSKIKT OCH RUMSKOMPLETTERINGAR;
+Byggdelar;49B;Shaft in buildings;;Schackt i hus;
+Byggdelar;5;PLUMBING, HEATING, COOLING AND PROCESS MEDIA SYSTEMS;;VA-, VVS-, KYL- OCH PROCESSMEDIESYSTEM;
+Byggdelar;51;WATER, SEWAGE, DISTRICT HEATING AND GAS PIPING SYSTEMS, ETC., PLANT;;VATTEN-, AVLOPPS-, FJÄRRVÄRME- OCH GASLEDNINGSSYSTEM M M, ANLÄGGNING;
+Byggdelar;51B;Water supply piping systems;;Vattenledningssystem;
+Byggdelar;51C;Sewage piping systems;;Avloppsledningssystem;
+Byggdelar;51CB;Wastewater system;;Spillvattensystem;
+Byggdelar;51CC;Stormwater system;;Dagvattensystem;
+Byggdelar;51CD;Drainage water system;;Dränvattensystem;
+Byggdelar;51D;Piping system for district heating;;Ledningssystem för fjärrvärme;
+Byggdelar;51E;Piping system for district cooling;;Ledningssystem för fjärrkyla;
+Byggdelar;51F;Piping system for energy gas;;Ledningssystem för energigas;
+Byggdelar;51G;Piping system for oil and fuel;;Ledningssystem för olja och drivmedel;
+Byggdelar;51H;Piping system for tunnel;;Ledningssystem för tunnel;
+Byggdelar;51HB;Tunnel waste water system;;Spillvattensystem för tunnel;
+Byggdelar;51HC;Tunnel storm water system;;Dagvattensystem för tunnel;
+Byggdelar;51HD;Tunnel drainage system;;Dränvattensystem för tunnel;
+Byggdelar;51J;Piping system for bridge;;Ledningssystem för bro;
+Byggdelar;52;LIQUID OR GASEOUS MEDIUM SUPPLY SYSTEM;;FÖRSÖRJNINGSSYSTEM FÖR FLYTANDE ELLER GASFORMIGT MEDIUM;
+Byggdelar;52B;Tap water system;;Tappvattensystem;
+Byggdelar;52BB;Cold water system;;Kallvattensystem;
+Byggdelar;52BC;Hot water system;;Varmvattensystem;
+Byggdelar;52D;Process water system;;Processvattensystem;
+Byggdelar;52E;Steam system;;Ångsystem;
+Byggdelar;52F;Compressed air system;;Tryckluftssystem;
+Byggdelar;52FB;Compressed air systems without special purity requirements;;Tryckluftssystem utan särskilt krav på renhet;
+Byggdelar;52FC;Compressed air systems with special purity requirements;;Tryckluftssystem med särskilt krav på renhet;
+Byggdelar;52G;Vacuum systems;;Vakuumsystem;
+Byggdelar;52H;Gas systems;;Gassystem;
+Byggdelar;52HB;Medical gas systems;;System för medicinsk gas;
+Byggdelar;52HC;Industrial gas systems;;Industrigassystem;
+Byggdelar;52HD;Energy gas systems;;Energigassystem;
+Byggdelar;52HDB;Natural gas systems;;Naturgassystem;
+Byggdelar;52HDC;City gas systems;;Stadsgassystem;
+Byggdelar;52HDD;LPG systems;;Gasolsystem;
+Byggdelar;52HDE;Biogas system;;Biogassystem;
+Byggdelar;52HE;Special gas system;;Specialgassystem;
+Byggdelar;52HEB;High purity gas systems;;System för högrena gaser;
+Byggdelar;52HEC;Cryogenic gas systems;;Kryogassystem;
+Byggdelar;52J;Oil and fuel systems;;Olje- och drivmedelssystem;
+Byggdelar;53;WASTEWATER AND PNEUMATIC WASTE TRANSPORT SYSTEMS ETC.;;AVLOPPSVATTENSYSTEM OCH PNEUMATISKA AVFALLSTRANSPORTSYSTEM E D;
+Byggdelar;53B;Sewage systems;;Avloppsvattensystem;
+Byggdelar;53BB;Wastewater systems;;Spillvattensystem;
+Byggdelar;53BBB;Normal wastewater systems;;Normalspillvattensystem;
+Byggdelar;53BBC;Process wastewater systems;;Processpillvattensystem;
+Byggdelar;53BBD;Hazardous wastewater system;;Riskspillvattensystem;
+Byggdelar;53BC;Stormwater system;;Dagvattensystem;
+Byggdelar;53C;Garbage and vacuum system;;Sop- och dammsugningssystem;
+Byggdelar;53CB;Sewage collection system;;Sopsugningssystem;
+Byggdelar;53CC;Vacuum cleaning system;;Dammsugningssystem;
+Byggdelar;53D;Suction systems for industrial processes;;Sugsystem för industriella processer;
+Byggdelar;53E;Laundry suction systems;;Tvättsugningssystem;
+Byggdelar;54;FIRE EXTINGUISHING SYSTEMS;;BRANDSLÄCKNINGSSYSTEM;
+Byggdelar;54A;Compound extinguishing systems;;Sammansatta släcksystem;
+Byggdelar;54B;Water extinguishing systems;;Vattensläcksystem;
+Byggdelar;54C;Foam extinguishing systems;;Skumsläcksystem;
+Byggdelar;54D;Gas extinguishing systems;;Gassläcksystem;
+Byggdelar;55;COOLING SYSTEMS;;KYLSYSTEM;
+Byggdelar;55B;Refrigerant system;;Köldmediesystem;
+Byggdelar;55C;Refrigerant system;;Köldbärarsystem;
+Byggdelar;55D;Refrigerant system;;Kylmedelsystem;
+Byggdelar;55E;Heat carrier system;;Värmebärarsystem;
+Byggdelar;55F;Recovery system;;Återvinningssystem;
+Byggdelar;56;HEATING SYSTEMS;;VÄRMESYSTEM;
+Byggdelar;56B;Heating water system;;Värmevattensystem;
+Byggdelar;56C;Steam heating system;;Ångvärmesystem;
+Byggdelar;56D;Hot oil heating system;;Hetoljevärmesystem;
+Byggdelar;57;AIR TREATMENT SYSTEMS;;LUFTBEHANDLINGSSYSTEM;
+Byggdelar;57B;General ventilation systems;;Allmänventilationssystem;
+Byggdelar;57C;Process ventilation systems;;Processventilationssystem;
+Byggdelar;57CB;Protective ventilation systems;;Skyddsventilationssystem;
+Byggdelar;57F;Air heating systems;;Luftvärmesystem;
+Byggdelar;6;ELECTRICAL AND TELECOMMUNICATIONS SYSTEMS;;EL- OCH TELESYSTEM;
+Byggdelar;61;DUCTING AND PIPING SYSTEMS;;KANALISATIONS- OCH FÖRLÄGGNINGSSYSTEM;
+Byggdelar;61C;Poles, etc.;;Stolpar m m;
+Byggdelar;61CB;Poles for pipes;;Stolpar för ledningar;
+Byggdelar;61CBB;Poles for power and telecommunications lines;;Stolpar för kraftledningar och teleledningar;
+Byggdelar;61CBC;Electricity contact line poles;;Kontaktledningsstolpar;
+Byggdelar;61CC;Lighting poles and masts;;Stolpar och master för belysning;
+Byggdelar;61CCB;Poles and masts for road lighting etc.;;Stolpar och master för vägbelysning e d;
+Byggdelar;61CCC;Lighting poles for sports facilities, industrial plants, etc.;;Belysningsmaster i sportanläggning, industrianläggning e d;
+Byggdelar;61CCD;Poles and masts for track lighting, etc.;;Stolpar och master för spårområdesbelysning e d;
+Byggdelar;61CD;Brace material etc. for poles etc.;;Stagmaterial m m till stolpar e d;
+Byggdelar;61CDB;Brace material for poles for power and telecommunications lines;;Stagmateriel till stolpar för kraftledningar och teleledningar;
+Byggdelar;61CDC;Brace material for for poles, etc. for lighting fittings;;Stagmateriel till stolpar e d för ljusarmaturer;
+Byggdelar;61CDD;Brace material and accessories for electricity contact line poles;;Stagmateriel och tillbehör till kontaktledningsstolpar;
+Byggdelar;61CDDB;Braces for electricity contact lines;;Stag till kontaktledningsstolpar;
+Byggdelar;61CDDC;Struts for electricity contact line poles;;Strävor till kontaktledningsstolpar;
+Byggdelar;61CDDD;Pole extensions for electricity contact line poles;;Stolpförlängare till kontaktledningsstolpar;
+Byggdelar;61CDDE;Safety nets for electricity contact line poles;;Skyddsnät till kontaktledningsstolpar;
+Byggdelar;61CE;Pole brackets, fitting crowns, etc. for lighting poles;;Stolparmar, armaturkronor m m till belysningsstolpar e d;
+Byggdelar;61CEB;Pole brackets;;Stolparmar;
+Byggdelar;61CEC;Fitting crowns for lighting poles, etc.;;Armaturkronor till belysningsstolpar e d;
+Byggdelar;61CED;Pole inserts;;Stolpinsatser;
+Byggdelar;61CF;Electricity contact line bridges;;Kontaktledningsbryggor;
+Byggdelar;61CG;Miscellaneous poles, etc.;;Diverse stolpar m m;
+Byggdelar;61CGB;Poles for traffic control systems;;Stolpar för trafikstyrande system;
+Byggdelar;61CGC;Poles for car heating sockets;;Stolpar till bilvärmaruttag;
+Byggdelar;61CGD;Poles for signs in electrical systems;;Stolpar till skyltar i elsystem;
+Byggdelar;61CGE;Cable marking posts;;Kabelmarkeringspålar;
+Byggdelar;61D;Cable ladders, cable trays, cage rails, etc.;;Kabelstegar, kabelrännor, bärskenor o d;
+Byggdelar;61DB;Cable ladders and wire ladders;;Kabelstegar och trådstegar;
+Byggdelar;61DC;Cable trays;;Kabelrännor;
+Byggdelar;61DCB;Light fitting trays;;Ljusarmaturrännor;
+Byggdelar;61DCC;Multi-compartment cable trays;;Flerfackskabelrännor;
+Byggdelar;61DD;Carrier wire and high voltage wire;;Bärtråd och bärlinor;
+Byggdelar;61DDL;High voltage wire;;Bärlina;
+Byggdelar;61DDT;High voltage wire;;Bärtråd;
+Byggdelar;61DE;Installation cable clamps;;Skenor för installationskabel;
+Byggdelar;61DF;Cable conduit;;Kabelrör;
+Byggdelar;61E;Boxes;;Dosor;
+Byggdelar;61EB;Junction boxes;;Anslutningsdosor;
+Byggdelar;61EC;Device boxes;;Apparatdosor;
+Byggdelar;61ED;Junction boxes for cables in electrical power systems;;Kopplingsdosor för kablar i elkraftsystem;
+Byggdelar;61EE;Junction boxes for cables in telecommunications systems;;Kopplingsdosor för kablar i telesystem;
+Byggdelar;61F;Duct systems;;Kanalsystem;
+Byggdelar;61FB;Electricity systems;;Ellistsystem;
+Byggdelar;61FC;Floor duct systems;;Golvkanalsystem;
+Byggdelar;61FD;Duct systems;;Installationskanalsystem;
+Byggdelar;61FE;Care room panels;;Vårdrumspaneler;
+Byggdelar;61FF;Electrical duct systems;;Elkanalsystem;
+Byggdelar;61G;Outlet rods and boxes;;Uttagsstavar och uttagsboxar;
+Byggdelar;61GB;Outlet rods;;Uttagsstavar;
+Byggdelar;61GC;Outlet boxes;;Uttagsboxar;
+Byggdelar;61GD;Outlet panels;;Uttagspaneler;
+Byggdelar;61GE;Furniture integrated boxes;;Möbelintegrerade boxar;
+Byggdelar;61GF;Media panels;;Mediapaneler;
+Byggdelar;61GH;Floor boxes;;Golvboxar;
+Byggdelar;61H;Device boxes, junction boxes, etc.;;Apparatlådor, kopplingsboxar m m;
+Byggdelar;61HB;Device boxes;;Apparatlådor;
+Byggdelar;61HC;Junction boxes;;Kopplingsboxar;
+Byggdelar;61HD;Mounting frames;;Monteringsramar;
+Byggdelar;61J;Cable glands;;Kabelgenomföringar;
+Byggdelar;61JB;Cable glands in walls or beams;;Kabelgenomföringar i vägg eller bjälklag;
+Byggdelar;61JBB;Gastight cable glands in walls or ceilings;;Gastäta kabelgenomföringar i vägg eller bjälklag;
+Byggdelar;61JBC;Shielded cable glands in wall or ceiling;;Skärmande kabelgenomföringar i vägg eller bjälklag;
+Byggdelar;61JBD;Fire separating cable glands in walls or beams;;Brandavskiljande kabelgenomföringar i vägg eller bjälklag;
+Byggdelar;61JBE;Miscellaneous cable glands in walls or beams;;Diverse kabelgenomföringar i vägg eller bjälklag;
+Byggdelar;61K;Stands;;Stativ;
+Byggdelar;61KB;Stands for electrical equipment;;Stativ för elutrustning;
+Byggdelar;61KC;Stands for telecommunications equipment;;Stativ för teleutrustning;
+Byggdelar;61L;Fixings for devices, electrical and telecommunications cables, conductors, etc.;;Fästdon för apparater, el- och telekablar, ledare m m;
+Byggdelar;61LB;Fixings for devices, electric and telecommunication cables, conductors, etc. in buildings;;Fästdon för apparater, el- och telekablar, ledare m m i hus;
+Byggdelar;61LBB;Fixings for devices;;Fästdon för apparater;
+Byggdelar;61LBC;Fittings for electrical and telecommunications cables, conduits, etc.;;Fästdon för el- och telekablar, elinstallationsrör o d;
+Byggdelar;61LBCC;Abstain;;Avhåll;
+Byggdelar;61LBCE;Floating contact wire crossings;;Svävande kontakttrådskrydd;
+Byggdelar;61LBCF;Suspensions for contact rail;;Upphängningar för kontaktskena;
+Byggdelar;61LC;Tensioning and anchoring devices;;Avspänningar och förankringar;
+Byggdelar;61LCB;Suspension devices;;Upphängningsanordningar;
+Byggdelar;61LCBB;Outriggers;;Utliggare;
+Byggdelar;61LCBD;Riders;;Ryttare;
+Byggdelar;61LCC;Electrivity diversion devices;;Avspänningsanordningar;
+Byggdelar;61LCD;Anchorage point;;Förankringspunkt;
+Byggdelar;61M;Manholes for electrical conduits;;Brunnar för elkanalisation;
+Byggdelar;61MB;Manholes in buildings;;Dragbrunnar i hus;
+Byggdelar;61N;Cable protection and marking;;Kabelskydd och kabelmarkeringar;
+Byggdelar;61NB;Cable protection;;Kabelskydd;
+Byggdelar;61NC;Cable markings;;Kabelmarkeringar;
+Byggdelar;61Q;Ducting of electrical installation pipes, flex pipes, etc.;;Kanalisation av elinstallationsrör, flexrör e d;
+Byggdelar;61QB;Surface mounted electrical conduit;;Ytmonterade elinstallationsrör;
+Byggdelar;61QC;Recessed electrical conduit;;Infällda elinstallationsrör;
+Byggdelar;61QD;Electrical conduit in ducting systems;;Elinstallationsrör i ledningskanalsystem;
+Byggdelar;61QE;Electrical conduit on cable ladders, cable trays, etc.;;Elinstallationsrör på kabelstege, kabelränna e d;
+Byggdelar;61R;Supporting structures for electrical contact line systems;;Bärverk för kontaktledningsssystem;
+Byggdelar;61RB;Electrical contact line bridges;;Kontaktledningsbryggor;
+Byggdelar;61RC;Suspended structures;;Hängverk;
+Byggdelar;62;COMMON COMPONENTS OF POWER SYSTEMS, TELECOMMUNICATION SYSTEMS AND SYSTEMS FOR VOLTAGE EQUALISATION AND ELECTRICAL SEPARATION;;GEMENSAMMA KOMPONENTER I ELKRAFTSYSTEM, TELESYSTEM OCH SYSTEM FÖR SPÄNNINGSUTJÄMNING OCH ELEKTRISK SEPARATION;
+Byggdelar;62C;Electricity and telecommunications cables, etc.;;El- och telekablar m m;
+Byggdelar;62CA;Compound cables;;Kablar av sammansatt typ;
+Byggdelar;62CB;Power cables;;Kraftkablar;
+Byggdelar;62CC;Installation cables;;Installationskablar;
+Byggdelar;62CD;Flexible cables for electric power;;Flexibla kablar för elkraft;
+Byggdelar;62CE;Special cables for electric power;;Specialkablar för elkraft;
+Byggdelar;62CF;Telecommunications and data cables;;Tele- och datakablar;
+Byggdelar;62CG;Fire alarm cables;;Brandlarmskablar;
+Byggdelar;62CH;Coaxial cables;;Koaxialkablar;
+Byggdelar;62CJ;Fibre optic cables;;Fiberoptiska kablar;
+Byggdelar;62CK;Connecting cables for telecommunications and data equipment;;Anslutningskablar för tele- och datautrustning;
+Byggdelar;62CL;Special cables for telecommunications and data equipment;;Specialkablar för tele- och datautrustning;
+Byggdelar;62CM;Cables for control, measurement and indication;;Kablar för styrning, mätning och indikering;
+Byggdelar;62CN;Cables for bus systems;;Kablar för bussystem;
+Byggdelar;62CP;Lift cables;;Hisskorgskablar;
+Byggdelar;62CQ;Suspension cables;;Hängkablar;
+Byggdelar;62CR;Suspension cables;;Hängspiralkablar;
+Byggdelar;62D;Splices, connectors, etc.;;Skarvar, förbindningsdon o d;
+Byggdelar;62DB;Electrical connections;;Elektriska förbindningar;
+Byggdelar;62DC;Splices;;Skarvar;
+Byggdelar;62DE;Connections on railway rails;;Anslutningar på järnvägsräler;
+Byggdelar;62DF;Cable terminations;;Kabelavslutningar;
+Byggdelar;62DG;Telecommunication transmission connectors;;Överföringsdon i telesystem;
+Byggdelar;62DH;Switchboards;;Kopplingsplintar;
+Byggdelar;62DJ;Distribution boards;;Spridningsplintar;
+Byggdelar;62DK;Interconnectors;;Sammankopplingsdon;
+Byggdelar;62DL;Cross-connection panels;;Korskopplingspaneler;
+Byggdelar;62DM;Cable connectors;;Kabelanslutningsdon;
+Byggdelar;62DN;Main earthing rails;;Huvudjordningsskenor;
+Byggdelar;62DP;Test clamps;;Provningsklämmor;
+Byggdelar;62DQ;Plugs, sockets, etc.;;Stickproppar, skarvuttag o d;
+Byggdelar;62E;Relays and protection, measuring and monitoring devices;;Reläer och skydd samt apparater för mätning och övervakning;
+Byggdelar;62EB;Relays and relay protectors;;Reläer och reläskydd;
+Byggdelar;62EBB;Auxiliary relays;;Hjälpreläer;
+Byggdelar;62EBC;Signal relays;;Signalreläer;
+Byggdelar;62EBD;Time relays;;Tidreläer;
+Byggdelar;62EBE;Current-measuring and voltage-measuring relays;;Strömmätande och spänningsmätande reläer;
+Byggdelar;62EBF;Product relays, ratio relays and frequency relays;;Produktreläer, kvotreläer och frekvensreläer;
+Byggdelar;62EBG;Impedance relays;;Impedansreläer;
+Byggdelar;62EBH;Overcurrent protection;;Överströmsskydd;
+Byggdelar;62EBJ;Earth leakage protection;;Jordfelsskydd;
+Byggdelar;62EBK;Voltage protection;;Spänningsskydd;
+Byggdelar;62EBL;Differential protection;;Differentialskydd;
+Byggdelar;62EBM;Power metering protection;;Effektmätande skydd;
+Byggdelar;62EBN;Frequency measuring protection;;Frekvensmätande skydd;
+Byggdelar;62EBP;Impedance measuring protection;;Impedansmätande skydd;
+Byggdelar;62EC;Fuses and miniature circuit breakers;;Säkringar och dvärgbrytare;
+Byggdelar;62ECB;Fuses;;Säkringar;
+Byggdelar;62ECC;Miniature switches;;Dvärgbrytare;
+Byggdelar;62ECD;Fine-wire fuses;;Finsäkringar;
+Byggdelar;62ED;Earth leakage switches;;Jordfelsbrytare;
+Byggdelar;62EE;Surge arresters etc.;;Överspänningsledare o d;
+Byggdelar;62EEB;Valve conductors;;Ventilavledare;
+Byggdelar;62EEC;Varistor-type surge arrester;;Överspänningsavledare av varistortyp;
+Byggdelar;62EED;Spark gaps;;Gnistgap;
+Byggdelar;62EEE;Gas discharge tube overvoltage arresters;;Överspänningsskydd med gasurladdningsrör;
+Byggdelar;62EEF;Surge protectors;;Överspänningsskydd;
+Byggdelar;62EF;Measuring instruments and meters for electrical quantities;;Mätinstrument och mätare för elektriska storheter;
+Byggdelar;62EFB;Measuring instruments for electrical quantities;;Mätinstrument för elektriska storheter;
+Byggdelar;62EFC;Electricity meters;;Elmätare;
+Byggdelar;62EG;Alarm and monitoring devices;;Larm- och övervakningsapparater;
+Byggdelar;62EGB;Electrical or telecommunication system operation display;;Driftpresentationsapparater i el- eller telesystem;
+Byggdelar;62EGC;Operational alarm systems;;Driftlarmcentraler;
+Byggdelar;62EGD;Alarm receivers;;Larmmottagare;
+Byggdelar;62EGE;Fault signal centres;;Felsignalcentraler;
+Byggdelar;62EGF;Signalling devices in electrical or telecommunications systems;;Signaldon i el- eller telesystem;
+Byggdelar;62EGG;Monitoring devices;;Övervakningsapparater;
+Byggdelar;62EGH;Programming units for surveillance apparatus;;Programmeringsenheter för övervakningsapparater;
+Byggdelar;62EH;Guards;;Vakter;
+Byggdelar;62EJ;Time-of-use meters and counters;;Drifttidsmätare och räknare;
+Byggdelar;62EJB;Operating time meters;;Drifttidsmätare;
+Byggdelar;62EJC;Counters;;Räknare;
+Byggdelar;62F;Computers, peripherals, software, etc.;;Datorer, kringutrustning, programvaror m m;
+Byggdelar;62G;System components, software, etc. of bus systems;;Systemkomponenter, program m m i bussystem;
+Byggdelar;62H;Electrical power generation equipment;;Utrustning för elenergiproduktion;
+Byggdelar;62J;Devices and equipment for storage, transformation, phase compensation, rectification, etc.;;Apparater och utrustningar för lagring, transformering, faskompensering, omriktning m m;
+Byggdelar;62JB;Batteries;;Batterier;
+Byggdelar;62JC;Transformers;;Transformatorer;
+Byggdelar;62JCB;Power transformers;;Krafttransformatorer;
+Byggdelar;62JCB1;Auxiliary power transformers;;Hjälpkrafttransformator;
+Byggdelar;62JCB2;Train heat transformer;;Tågvärmetransformator;
+Byggdelar;62JCB3;Locomotive heat transformer;;Lokvärmetransformator;
+Byggdelar;62JCC;Isolating transformers;;Isolertransformatorer;
+Byggdelar;62JCD;Protection transformers;;Skyddstransformatorer;
+Byggdelar;62JCE;Isolating transformers;;Skiljetransformatorer;
+Byggdelar;62JCF;Measuring transformers;;Mättransformatorer;
+Byggdelar;62JCG;Rotary transformers;;Vridtransformatorer;
+Byggdelar;62JCH;Interference protection transformers;;Störskyddstransformatorer;
+Byggdelar;62JCJ;Suction transformers;;Sugtranformatorer;
+Byggdelar;62JCK;Autotransformers;;Autotransformatorer;
+Byggdelar;62JCL;Alternating heat transformer;;Växelvärmetransformator;
+Byggdelar;62JD;Power supply units;;Strömförsörjningsaggregat;
+Byggdelar;62JE;Capacitor equipment;;Kondensatorutrustningar;
+Byggdelar;62JF;Inverters;;Omriktare;
+Byggdelar;62JFB;Rectifiers for battery operation;;Likriktare för samdrift med batterier;
+Byggdelar;62JFC;Rectifiers for direct operation;;Likriktare för direktdrift;
+Byggdelar;62JFD;Inverters;;Växelriktare;
+Byggdelar;62JFE;Frequency inverters;;Frekvensomriktare;
+Byggdelar;62JFF;Power converters;;Strömriktare;
+Byggdelar;62JG;Reactors, etc.;;Reaktorer m m;
+Byggdelar;62JH;Voltage stabilizers;;Spänningsstabilisatorer;
+Byggdelar;62JK;Harmonic filter;;Övertonsfilter;
+Byggdelar;62K;Switchgear and switchboard assemblies;;Kopplingsutrustningar och kopplingsapparater;
+Byggdelar;62KB;Switchgear and control gear;;Kopplingsutrustningar;
+Byggdelar;62KBB;Outdoor switchgear;;Utomhusställverk;
+Byggdelar;62KBC;Indoor switchgear;;Inomhusställverk;
+Byggdelar;62KBD;Cable cabinets;;Kabelskåp;
+Byggdelar;62KBE;Enclosed switchgear;;Kapslade kopplingsutrustningar;
+Byggdelar;62KBF;Device cabinets, device panels, etc.;;Apparatskåp, apparattavlor m m;
+Byggdelar;62KBG;Meter cabinets, meter boards, etc.;;Mätarskåp, mätartavlor o d;
+Byggdelar;62KBH;Miscellaneous switchgear and controlgear;;Diverse kopplingsutrustningar;
+Byggdelar;62KC;Rail systems;;Skensystem;
+Byggdelar;62KCB;Channel rail distributions;;Kanalskenfördelningar;
+Byggdelar;62KCC;Contact rail systems;;Kontaktskensystem;
+Byggdelar;62KCD;Installation railsystems;;Installationsskensystem;
+Byggdelar;62KF;Electrical switches in switchgear etc.;;Elkopplare i kopplingsutrustning m m;
+Byggdelar;62KFB;Circuit breakers;;Effektbrytare;
+Byggdelar;62KFC;Disconnectors;;Frånskiljare;
+Byggdelar;62KFD;Circuit breakers and switch disconnectors;;Lastbrytare och lastfrånskiljare;
+Byggdelar;62KFE;Earthing switches;;Jordningskopplare;
+Byggdelar;62KFF;Starting switches, pulling switches, etc. for 1 kV or less;;Startkopplare, pådrag m m för högst 1 kV;
+Byggdelar;62KFG;Contactors;;Kontaktorer;
+Byggdelar;62KFH;Safety switches;;Säkerhetsbrytare;
+Byggdelar;62KY;Miscellaneous devices and equipment for switchgear;;Diverse apparater och utrustningar för kopplingsutrustning;
+Byggdelar;62KYB;Earthing and actuating equipment;;Don för jordning och manövrering;
+Byggdelar;62KYC;Equipment for testing in switchgear;;Don för provning i kopplingsutrustning;
+Byggdelar;62KYD;Protective screens;;Skyddsskärmar;
+Byggdelar;62L;Devices and equipment for actuation and automatic control in electrical systems;;Apparater och utrustningar för manövrering och automatisk styrning i elsystem;
+Byggdelar;62LB;Control devices;;Styrdon;
+Byggdelar;62LC;Light relays;;Ljusreläer;
+Byggdelar;62LD;Light sensors;;Ljusgivare;
+Byggdelar;62LE;Motion detectors;;Rörelsedetektorer;
+Byggdelar;62LF;Presence detectors;;Närvarodetektorer;
+Byggdelar;62LG;Rail temperature sensors;;Rälstemperaturgivare;
+Byggdelar;62LH;Snow detector;;Snödetektor;
+Byggdelar;62LJ;Voltage regulation device;;Don för spänningsreglering;
+Byggdelar;62LK;Voltage stabilisation device;;Don för spänningsstabilisering;
+Byggdelar;62LM;Phasing devices;;Fasningsdon;
+Byggdelar;62LN;Reconnectors;;Återinkopplingsdon;
+Byggdelar;62M;Outlets in electrical power systems;;Uttag i elkraftsystem;
+Byggdelar;62MB;Socket Outlet Centres;;Uttagscentraler;
+Byggdelar;62N;Light fittings, light sources, etc.;;Ljusarmaturer, ljuskällor m m;
+Byggdelar;62NB;Fixed light fittings;;Fasta ljusarmaturer;
+Byggdelar;62NC;Movable light fittings;;Flyttbara ljusarmaturer;
+Byggdelar;62ND;Guiding light fittings;;Vägledningsarmaturer;
+Byggdelar;62NE;Floodlights;;Strålkastare;
+Byggdelar;62NF;Spotlights;;Spotlights;
+Byggdelar;62NG;Light chains;;Ljuskedjor;
+Byggdelar;62NH;Indication lights;;Indikeringsljus;
+Byggdelar;62NJ;Incandescent lamps;;Glödlampor;
+Byggdelar;62NK;Fluorescent lamps;;Lysrör;
+Byggdelar;62NL;Fluorescent lamps;;Lysrörslampor;
+Byggdelar;62NM;Discharge lamps;;Urladdningslampor;
+Byggdelar;62NN;Induction lamps;;Induktionslampor;
+Byggdelar;62NP;Signal lamps, etc.;;Signallampor m m;
+Byggdelar;62NQ;LED lamps;;LED-lampor;
+Byggdelar;62NR;Miscellaneous light sources;;Diverse ljuskällor;
+Byggdelar;62NS;Connection devices, igniters and operation devices;;Förkopplingsdon, tänddon och driftdon;
+Byggdelar;62NT;Glare shields and reflectors;;Bländskydd och reflektorer;
+Byggdelar;62NU;Fixtures and fittings for light fittings;;Fäst- och upphängningsanordningar för ljusarmaturer;
+Byggdelar;62NV;Holders for light sources, etc.;;Hållare för ljuskällor m m;
+Byggdelar;62P;Electrical devices and equipment for heating;;Elapparater och utrustningar för uppvärmning;
+Byggdelar;62PB;Electric space-heating devices;;Elektriska rumsvärmeapparater;
+Byggdelar;62PC;Electric heating cables;;Elvärmekablar;
+Byggdelar;62PD;Heating foil elements;;Värmefolieelement;
+Byggdelar;62PE;Electric fan heaters;;Elektriska fläktvärmare;
+Byggdelar;62PF;Electric tubular elements;;Elektriska rörelement;
+Byggdelar;62PG;Miscellaneous appliances and equipment for electric heating;;Diverse apparater och utrustningar för eluppvärmning;
+Byggdelar;62Q;Rotary electrical machines;;Roterande elmaskiner;
+Byggdelar;62QB;Direct current generators;;Likströmsgeneratorer;
+Byggdelar;62QC;Direct current motors;;Likströmsmotorer;
+Byggdelar;62QD;Synchronous machines;;Synkronmaskiner;
+Byggdelar;62QE;Asynchronous machines;;Asynkronmaskiner;
+Byggdelar;62R;Devices for voltage equalisation and electrical separation;;Anordningar för spänningsutjämning och elektrisk separation;
+Byggdelar;62RB;Grounding electrodes;;Jordelektroder;
+Byggdelar;62RC;Grounding conductors;;Jordtagsledare;
+Byggdelar;62RD;Conductors in lightning protection systems;;Ledare i åskskyddssystem;
+Byggdelar;62RE;Grounding conductors;;Jordledare;
+Byggdelar;62RE-;Dummy 62RE-;;Dummy 62RE-;
+Byggdelar;62RE-C;Longitudinal earth conductors Cable;;Längsgående jordledare Kabel;
+Byggdelar;62RE-L;Longitudinal earth conductor Overhead line;;Längsgående jordledare Friledning;
+Byggdelar;62RE-O;Longitudinal earth conductor Bracket;;Längsgående jordledare Konsol;
+Byggdelar;62RE-V;Longitudinal earth conductor Tension;;Längsgående Jordledare Avspänning;
+Byggdelar;62REA;Collective earth conductor;;Samlingsjordledare;
+Byggdelar;62REAC;Collector Cable;;Samlingsjordledare Kabel;
+Byggdelar;62REAL;Collective earth conductor Overhead line;;Samlingsjordledare Friledning;
+Byggdelar;62REAO;Collective earth conductor Console;;Samlingsjordledare Konsol;
+Byggdelar;62REAV;Collective earthing conductor Tension;;Samlingsjordledare Avspänning;
+Byggdelar;62REB;Longitudinal earth wire;;Längsgående jordlina;
+Byggdelar;62REC;Contact connection over rail joint in S-rail;;Kontaktförbindning över rälsskarv i S-räl;
+Byggdelar;62RED;Contact connection in switch junction;;Kontaktförbindning i spårväxelkorsning;
+Byggdelar;62REE;Contact connection in switches tongue root;;Kontaktförbindning i växelns tungrot;
+Byggdelar;62REF;Z-connection (S-rail);;Z-förbindning (S-räl);
+Byggdelar;62REG;Cross-connection;;Tvärförbindning;
+Byggdelar;62RF;Potential equalisation conductor;;Potentialutjämningsledare;
+Byggdelar;62RG;Protective compensator;;Skyddsutjämningsledare;
+Byggdelar;62RH;Voltage compensator;;Spänningsutjämningsledare;
+Byggdelar;62RJ;Diverter conductor;;Ledare för avledare;
+Byggdelar;62RK;Static electricity eliminators;;Eliminatorer för statisk elektricitet;
+Byggdelar;62RL;Devices for emergency protection;;Anordningar för nempskydd;
+Byggdelar;62RM;Conductors for discharging electric fields;;Ledare för avledning av elektriska fält;
+Byggdelar;62RN;Electric field shielding devices;;Anordningar för skärmning av elektriska fält;
+Byggdelar;62RO;Mains disconnectors;;Nätbortkopplare;
+Byggdelar;62RP;Stray current reduction devices;;Anordningar för minskning av vagabonderande strömmar;
+Byggdelar;62RQ;Devices for geometrical distribution of current paths;;Anordningar för geometrisk fördelning av strömbanor;
+Byggdelar;62RR;Magnetic field shielding devices;;Anordningar för skärmning av magnetiska fält;
+Byggdelar;62RS;Electrical separation devices;;Anordningar för elektrisk separation;
+Byggdelar;62S;Uninsulated conductors;;Oisolerade ledare;
+Byggdelar;62SB;Auxiliary power lines;;Hjälpkraftledningar;
+Byggdelar;62SC;Recirculation systems;;Återledningar;
+Byggdelar;62SD;Bypasses;;Förbiledningar;
+Byggdelar;62SE;Booster cables;;Förstärkningsledningar;
+Byggdelar;62SF;Feeder lines;;Matarledningar;
+Byggdelar;62SG;AT feeder lines;;AT-matarledningar;
+Byggdelar;62SGL;AT line, free line;;AT-ledning, friledning;
+Byggdelar;62SH;Contact cables (suspension);;Kontaktledningar (hängverk);
+Byggdelar;62SJ;Contact rails;;Kontaktskenor;
+Byggdelar;62SK;Conductor rails;;Strömskenor;
+Byggdelar;63;ELECTRICAL SYSTEMS;;ELKRAFTSYSTEM;
+Byggdelar;63B;Electricity distribution network;;Eldistributionsnät;
+Byggdelar;63BB;High-voltage networks;;Högspänningsnät;
+Byggdelar;63BBB;High-voltage alternating current networks;;Högspänningsnät för växelström;
+Byggdelar;63BBC;High-voltage direct current networks;;Högspänningsnät för likström;
+Byggdelar;63BC;Low-voltage networks;;Lågspänningsnät;
+Byggdelar;63BCB;Low-voltage alternating current networks, up to 1 000 V;;Lågspänningsnät för växelström, högst 1 000 V;
+Byggdelar;63BCC;Low-voltage direct current network, maximum 1 500 V;;Lågspänningsnät för likström, högst 1 500 V;
+Byggdelar;63BD;Low voltage networks;;Klenspänningsnät;
+Byggdelar;63BDB;Alternating current low voltage network, maximum 50 V;;Klenspänningsnät för växelström, högst 50 V;
+Byggdelar;63BDC;Direct current low voltage network, maximum 120 V;;Klenspänningsnät för likström, högst 120 V;
+Byggdelar;63C;Transformer and distribution systems;;Transformator- och fördelningssystem;
+Byggdelar;63D;Power rectifier stations;;Strömriktarstationer;
+Byggdelar;63DB;Rectifier stations;;Likriktarstationer;
+Byggdelar;63DC;Inverter stations;;Växelriktarstationer;
+Byggdelar;63E;Overhead electricity contact line and busbar systems for railway installations;;Kontaktlednings- och strömskenesystem för spåranläggning;
+Byggdelar;63EH;Railway electricity contact line systems;;Kontaktledningssystem för järnväg;
+Byggdelar;63EHB;Interlock system for overhead electricity contact lines;;Förreglingssystem för kontaktledningar;
+Byggdelar;63F;Lighting systems;;Belysnings- och ljussystem;
+Byggdelar;63FB;Industrial or port area lighting systems;;Belysningssystem inom industri- eller hamnområde;
+Byggdelar;63FC;Lighting systems for roads, etc.;;Belysningssystem vid väg e d;
+Byggdelar;63FCB;Lighting system at road;;Belysningssystem vid väg;
+Byggdelar;63FCBB;Lighting system at motor vehicle lanes;;Belysningssystem vid motorfordonskörfält;
+Byggdelar;63FCBC;Pedestrian and cycle path lighting systems;;Belysningssystem vid gång- och cykelväg;
+Byggdelar;63FCC;Lighting system on bridge;;Belysningssystem på bro;
+Byggdelar;63FCD;Lighting systems in open spaces;;Belysningssystem på öppen plats;
+Byggdelar;63FCDB;Parking lot lighting system;;Belysningssystem på parkeringsplats;
+Byggdelar;63FCDC;Lighting systems in squares etc.;;Belysningssystem på torg e d;
+Byggdelar;63FCE;Lighting systems in tunnels;;Belysningssystem i tunnel;
+Byggdelar;63FCEB;Lighting systems in road tunnels;;Belysningssystem i vägtrafiktunnel;
+Byggdelar;63FCEC;Lighting system in pedestrian or bicycle tunnel;;Belysningssystem i gång- eller cykeltunnel;
+Byggdelar;63FD;Lighting system in courtyard or park;;Belysningssystem på gård eller i park;
+Byggdelar;63FE;Facade lighting system etc.;;Belysningssystem vid fasad e d;
+Byggdelar;63FF;General lighting and workplace lighting systems in buildings;;System för allmänbelysning och arbetsplatsbelysning i hus;
+Byggdelar;63FG;Lighting systems in sports facilities;;Belysningssystem i sportanläggning;
+Byggdelar;63FGB;Indoor sports facility lighting systems;;Belysningssystem i sportanläggning inomhus;
+Byggdelar;63FGC;Outdoor sports facility lighting systems;;Belysningssystem i sportanläggning utomhus;
+Byggdelar;63FH;Emergency and back-up lighting systems;;Nödbelysnings- och reservbelysningssystem;
+Byggdelar;63FHB;Emergency lighting systems;;Nödbelysningssystem;
+Byggdelar;63FHC;Backup lighting systems;;Reservbelysningssystem;
+Byggdelar;63FJ;Lighting systems for directional signage, etc.;;Belysningssystem för vägledande skyltning m m;
+Byggdelar;63FK;Airport lighting systems;;Flygplatsljussystem;
+Byggdelar;63FKB;Obstruction lighting systems;;Hinderljussystem;
+Byggdelar;63FKC;Approach lighting systems;;Inflygningsljussystem;
+Byggdelar;63FKD;Visual glide path indicator systems;;System för visuell glidbaneindikering;
+Byggdelar;63FKE;Runway lighting systems;;Banljussystem;
+Byggdelar;63FKF;Taxiway lighting systems;;Ljussystem för taxibanljus;
+Byggdelar;63FKG;Runway guidance light sign system;;Ljusskyltssystem för banvägledning;
+Byggdelar;63FKH;Visual docking light systems;;Visuella dockningsljussystem;
+Byggdelar;63FL;Lighting systems for track traffic;;Belysningssystem för spårtrafik;
+Byggdelar;63FM;Warning lighting systems;;Varningsljussystem;
+Byggdelar;63FMB;Aviation warning light systems;;Varningsljussystem för luftfart;
+Byggdelar;63G;Light distribution systems;;Ljusdistributionssystem;
+Byggdelar;63GB;Fibre optic lighting systems;;Fiberoptiska ljussystem;
+Byggdelar;63GC;Light tube systems;;Ljustubssystem;
+Byggdelar;63H;Electric heating systems;;Elvärmesystem;
+Byggdelar;63HB;Electric heating systems in track installations;;Elvärmesystem i spåranläggning;
+Byggdelar;63HG;Industrial electric heating systems;;Industriella elvärmesystem;
+Byggdelar;63J;Motor drive systems;;Motordriftsystem;
+Byggdelar;63JB;Motor drive systems without speed control;;Drivsystem med motor utan hastighetsreglering;
+Byggdelar;63JC;Drive systems with multi-speed motor;;Drivsystem med flerhastighetsmotor;
+Byggdelar;63JD;Drive systems with speed-controlled motor;;Drivsystem med varvtalsstyrd motor;
+Byggdelar;63JE;Electric motor braking systems;;Bromssystem för elmotor;
+Byggdelar;63K;Phase compensation systems;;Faskompenseringssystem;
+Byggdelar;63L;Inverter systems;;Omriktarsystem;
+Byggdelar;63M;Power supply systems for electric power systems;;Strömförsörjningssystem för elkraftsystem;
+Byggdelar;63N;Systems for standby, uninterruptible or emergency power;;System för reservkraft, avbrottsfri kraft eller nödkraft;
+Byggdelar;63NB;Standby power system;;System för reservkraft;
+Byggdelar;63NC;Uninterruptible power system;;System för avbrottsfri kraft;
+Byggdelar;63ND;Emergency power system;;System för nödkraft;
+Byggdelar;64;TELECOMMUNICATION SYSTEMS;;TELESYSTEM;
+Byggdelar;64B;Multi-function networks in telecommunications systems;;Flerfunktionsnät i telesystem;
+Byggdelar;64BB;Multi-function networks for telecom operators and others;;Flerfunktionsnät för teleoperatörer m fl;
+Byggdelar;64BBB;Public telecommunications networks;;Allmänt tillgängliga telenät;
+Byggdelar;64BBC;Digital television networks for telecommunications operators;;Digitala tv-nät för teleoperatörer;
+Byggdelar;64BBD;Cable television networks for telecommunications operators;;Kabel-tv-nät för teleoperatörer;
+Byggdelar;64BC;Multi-function networks in buildings;;Flerfunktionsnät i fastighet;
+Byggdelar;64BCB;Multi-function networks for security systems;;Flerfunktionsnät för säkerhetssystem;
+Byggdelar;64BCC;Multi-function networks for signalling systems;;Flerfunktionsnät för signalsystem;
+Byggdelar;64BCD;Multi-function networks for telecommunications systems;;Flerfunktionsnät för telekommunikationssystem;
+Byggdelar;64C;Telecommunications security systems;;Teletekniska säkerhetssystem;
+Byggdelar;64CB;Telecommunication alarm systems;;Teletekniska larmsystem;
+Byggdelar;64CBB;Fire detection and fire alarm systems;;Branddetekterings- och brandlarmsystem;
+Byggdelar;64CBC;Gas alarm systems;;Gaslarmsystem;
+Byggdelar;64CBE;Burglar and assault alarm systems;;Inbrottslarmsystem och överfallslarmsystem;
+Byggdelar;64CBEB;Burglar alarm systems;;Inbrottslarmsystem;
+Byggdelar;64CBEC;Assault alarm systems;;Överfallslarmsystem;
+Byggdelar;64CBF;Perimeter alarm systems;;Områdeslarmsystem;
+Byggdelar;64CBG;Breakout alarm systems;;Utbrytningslarmsystem;
+Byggdelar;64CBH;Emergency signalling systems;;Nödsignalsystem;
+Byggdelar;64CBJ;Security alarm system;;Trygghetslarmsystem;
+Byggdelar;64CBK;Evacuation alarm system;;Utrymningslarmsystem;
+Byggdelar;64CBL;Alarm systems for rail traffic;;Larmsystem för spårtrafik;
+Byggdelar;64CC;Teletechnical control systems;;Teletekniska kontrollsystem;
+Byggdelar;64CCB;Entrance and access control systems;;Entré- och passerkontrollsystem;
+Byggdelar;64CCC;Door control systems;;Dörrkontrollsystem;
+Byggdelar;64CD;Teletechnical object detection systems;;Teletekniska system för detektering av föremål;
+Byggdelar;64CDB;Metal detection systems;;System för metalldetektering;
+Byggdelar;64CDC;X-ray detection systems;;System för röntgendetektering;
+Byggdelar;64CDD;Trace element detection systems;;System för spårämnesdetektering;
+Byggdelar;64CDE;Product alarm systems;;System för varularm;
+Byggdelar;64D;Teletechnical signalling systems;;Teletekniska signalsystem;
+Byggdelar;64DB;Event-triggered signalling systems;;Händelseaktiverade signalsystem;
+Byggdelar;64DBB;Entrance signalling systems;;Entrésignalsystem;
+Byggdelar;64DBC;Call signalling systems;;Kallelsesignalsystem;
+Byggdelar;64DBD;Result marking systems;;Resultatmarkeringssystem;
+Byggdelar;64DBE;Queuing systems;;Kösignalsystem;
+Byggdelar;64DBF;Paging system;;Personsökningssystem;
+Byggdelar;64DBG;Booking system;;Bokningssystem;
+Byggdelar;64DBGB;Reservation system in laundry rooms;;Bokningssystem i tvättstugor;
+Byggdelar;64DBH;Wireless signalling system - assault alarm system;;Trådlöst signalsystem - överfallslarmsystem;
+Byggdelar;64DC;Time-activated signalling systems;;Tidsaktiverade signalsystem;
+Byggdelar;64DCB;Timing systems;;Tidgivningssystem;
+Byggdelar;64DCC;Time registration system;;Tidregistreringssystem;
+Byggdelar;64DCCB;Attendance time system;;Närvarotidsystem;
+Byggdelar;64DCCC;Sports time registration systems;;Tidredovisningssystem för sport;
+Byggdelar;64DCD;Time signalling systems;;Tidsignaleringssystem;
+Byggdelar;64DCDB;Time signal system;;Rastsignalsystem;
+Byggdelar;64DCDC;Wake-up system;;Väckningssystem;
+Byggdelar;64E;Telecommunication systems;;Telekommunikationssystem;
+Byggdelar;64EA;Compound telecommunication systems;;Sammansatta telekommunikationssystem;
+Byggdelar;64EB;Telephone system;;Telefonsystem;
+Byggdelar;64EBB;Publicly available telephone systems in the building;;Allmänt tillgängliga telefonsystem i fastighet;
+Byggdelar;64EBC;Internal telephone system;;Interntelefonsystem;
+Byggdelar;64EBD;Door phone system;;Porttelefonsystem;
+Byggdelar;64EBG;Fast telephone system;;Snabbtelefonsystem;
+Byggdelar;64EBH;Auxiliary telephone system;;Hjälptelefonsystem;
+Byggdelar;64EBHB;Lift telephone system;;Hisstelefonsystem;
+Byggdelar;64EBI;Mobile phone systems;;Mobila telefonsystem;
+Byggdelar;64EBJ;Teleconferencing systems;;Telefonkonferenssystem;
+Byggdelar;64EC;Audio and video transmission systems;;Ljudöverföringssystem och bildöverföringssystem;
+Byggdelar;64ECB;Sound transmission systems;;Ljudöverföringssystem;
+Byggdelar;64ECC;Image transmission systems;;Bildöverföringssystem;
+Byggdelar;64ECD;Image display systems;;Bildvisningssystem;
+Byggdelar;64ECE;Radio communication systems;;Radiokommunikationssystem;
+Byggdelar;64ED;Data communication systems;;Datakommunikationssystem;
+Byggdelar;64EDB;Local area network systems;;Lokala datanätsystem;
+Byggdelar;64EE;Telephone exchange systems;;Telefonväxelsystem;
+Byggdelar;64M;Common power supply systems for telecommunications systems;;Gemensamma strömförsörjningssystem för telesystem;
+Byggdelar;64MB;Direct current supply systems;;System för likströmsförsörjning;
+Byggdelar;64MC;Alternating current supply systems;;System för växelströmsförsörjning;
+Byggdelar;64Q;Telecommunications control systems;;Teletekniska styrsystem;
+Byggdelar;64QB;Systems for opening fire ventilators, etc.;;System för öppning av brandventilatorer m m;
+Byggdelar;64QC;Fire damper closing systems, etc.;;System för stängning av brandspjäll m m;
+Byggdelar;64QD;System for starting flue gas fans;;System för start av rökgasfläktar;
+Byggdelar;64QE;Fan shutdown systems during fire;;System för fläktavstängning vid brand;
+Byggdelar;64QF;Fire door closing system;;System för stängning av branddörrar;
+Byggdelar;64QG;System for activating automatic fire extinguishing systems;;System för aktivering av automatiska brandsläckningssystem;
+Byggdelar;64QH;AV system control system;;System för manöver av AV-system;
+Byggdelar;64T;Devices and equipment of telecommunications and data communications systems;;Apparater och utrustning i tele- och datakommunikationssystem;
+Byggdelar;64TB;Devices of telecommunications and data communications systems;;Apparater i tele- och datakommunikationssystem;
+Byggdelar;64TBB;Central equipment;;Centralapparater;
+Byggdelar;64TBC;Auxiliary equipment;;Tillsatsapparater;
+Byggdelar;64TBD;Sub-centres;;Undercentraler;
+Byggdelar;64TBE;Control devices;;Manöverapparater;
+Byggdelar;64TC;Detectors and alarms;;Detektorer och larmutlösare;
+Byggdelar;66;VOLTAGE EQUALISATION AND ELECTRICAL SEPARATION SYSTEMS;;SYSTEM FÖR SPÄNNINGSUTJÄMNING OCH ELEKTRISK SEPARATION;
+Byggdelar;66B;Voltage equalisation systems for electrical power systems;;System för spänningsutjämning i elkraftsystem;
+Byggdelar;66BB;Earthing systems in electrical power systems;;System för jordning i elkraftsystem;
+Byggdelar;66BBB;System grounding in electrical power systems;;Systemjordning i elkraftsystem;
+Byggdelar;66BC;Earthing systems in track installations;;System för jordning i spåranläggning;
+Byggdelar;66BCB;Earthing systems - railway;;System för jordning - järnväg;
+Byggdelar;66C;Voltage equalisation systems in telecommunications systems;;System för spänningsutjämning i teletekniskt system;
+Byggdelar;66CB;Earthing system in telecommunications system;;System för jordning i teletekniskt system;
+Byggdelar;66D;Lightning protection systems;;Åskskyddssystem;
+Byggdelar;66DB;Initial protection system;;System för inledningsskydd;
+Byggdelar;66DC;Impact protection system;;System för inslagsskydd;
+Byggdelar;66E;Static electricity protection systems;;System för skydd mot statisk elektricitet;
+Byggdelar;66F;Electromagnetic interference protection systems;;System för skydd mot elektromagnetisk störning;
+Byggdelar;66FB;Radio interference protection systems, etc.;;System för skydd mot radiostörning m m;
+Byggdelar;66FC;NEMP protection systems;;System för NEMP-skydd;
+Byggdelar;66FD;LEMP protection systems;;System för LEMP-skydd;
+Byggdelar;66FE;Electromagnetic sabotage protection systems;;System för skydd mot elektromagnetiskt sabotage;
+Byggdelar;66G;Potential equalisation systems;;System för potentialutjämning;
+Byggdelar;66GB;Protection equalisation systems;;System för skyddsutjämning;
+Byggdelar;66GC;Functional grounding and levelling systems;;System för funktionsjordning och funktionsutjämning;
+Byggdelar;66H;Electric or magnetic field limiting systems;;System för begränsning av elektriska eller magnetiska fält;
+Byggdelar;66HB;Electric field limiting systems;;System för begränsning av elektriska fält;
+Byggdelar;66HC;Magnetic field limiting systems;;System för begränsning av magnetiska fält;
+Byggdelar;7;TRANSPORT SYSTEMS, ETC.;;TRANSPORTSYSTEM M M;
+Byggdelar;71;LIFT SYSTEM;;HISSYSTEM;
+Byggdelar;71B;Driving systems for lifts;;Drivsystem i hissinstallation;
+Byggdelar;71BB;Driving systems in rope lift installations;;Drivsystem i linhissinstallation;
+Byggdelar;71BC;Drive systems in hydraulic lift installations;;Drivsystem i hydraulhissinstallation;
+Byggdelar;71BD;Drive system in screw lift installation;;Drivsystem i skruvhissinstallation;
+Byggdelar;71BE;Drive system in chain lift installation;;Drivsystem i kedjehissinstallation;
+Byggdelar;71BF;Drive system in rack and pinion lift installation;;Drivsystem i kuggstångshissinstallation;
+Byggdelar;71BG;Drive system in rack and pinion lift installation;;Drivsystem i kuggremshissinstallation;
+Byggdelar;71E;Control functions for lift traffic;;Styrfunktioner för trafik med hiss;
+Byggdelar;71EA;Control systems in lift installations;;Styrsystem i hissinstallation;
+Byggdelar;71EAB;Control systems in installations with passenger lifts;;Styrsystem i installation med persontillåtna hissar;
+Byggdelar;71EABB;Control systems in single passenger lift installations;;Styrsystem i installation med ensam persontillåten hiss;
+Byggdelar;71EABC;Control systems in installations with grouped passenger lifts;;Styrsystem i installation med persontillåtna hissar i grupp;
+Byggdelar;71EAC;Control systems in installations with unattended lifts;;Styrsystem i installation med personförbjudna hissar;
+Byggdelar;71EACB;Control system in goods lift installation;;Styrsystem i varuhissinstallation;
+Byggdelar;71EB;Priority driving functions;;Prioritetskörningsfunktioner;
+Byggdelar;71EC;Fire alarm function;;Brandlarmsfunktion;
+Byggdelar;71ED;Fully occupied control function;;Fullsattkontrollfunktion;
+Byggdelar;71EE;Door opening function;;Dörröppningsfunktion;
+Byggdelar;71EF;Reset function;;Efterinställningsfunktion;
+Byggdelar;71EG;Cover safety function;;Säkerhetsfunktion för täcklock;
+Byggdelar;71EH;Emergency or backup power operation function;;Funktion för körning med nödkraft eller reservkraft;
+Byggdelar;71EHB;Automatic emergency power operation;;Automatisk nödströmskörning;
+Byggdelar;71EHC;Automatic emergency lowering;;Automatisk nödsänkning;
+Byggdelar;71EJ;Indication functions;;Indikeringsfunktioner;
+Byggdelar;71EJB;Acknowledgement indication function;;Funktion för kvitteringsindikering;
+Byggdelar;71EJC;Busy indication function;;Funktion för upptagenindikering;
+Byggdelar;71EJD;Arrival indication function;;Funktion för ankomstindikering;
+Byggdelar;71EJE;Direction of travel indicator function;;Funktion för färdriktningsindikering;
+Byggdelar;71EJF;Referral indication function;;Funktion för hänvisningsindikering;
+Byggdelar;71EJG;Off indication function;;Funktion för avstängdindikering;
+Byggdelar;71EJH;Stop indication function;;Funktion för stannplansindikering;
+Byggdelar;71F;Operation monitoring system in lift installation;;Driftövervakningssystem i hissinstallation;
+Byggdelar;71FB;Operational alarm and indication systems in lift installations;;Driftlarmsystem och driftindikeringssystem i hissinstallation;
+Byggdelar;71FBB;Differentiated operational alarm systems in lift installation;;Differentierade driftlarmsystem i hissinstallation;
+Byggdelar;71FBC;Buzzer alarm systems in lift installations;;Summalarmsystem i hissinstallation;
+Byggdelar;71FBD;Differentiated operational alarm systems in lift installations with several lift groups;;Differentierade driftlarmsystem i hissinstallation med flera hissgrupper;
+Byggdelar;71G;Emergency signalling systems in lift installations;;Nödsignalsystem i hissinstallation;
+Byggdelar;71H;Communication systems in lift installations;;Kommunikationssystem i hissinstallation;
+Byggdelar;73;ESCALATOR AND MOVING WALKWAY SYSTEMS;;RULLTRAPPSSYSTEM OCH RULLRAMPSSYSTEM;
+Byggdelar;73B;Drive systems in escalator or moving walkway installations;;Drivsystem i installation med rulltrappa eller rullramp;
+Byggdelar;73E;Control and monitoring systems in escalator or moving walkway installations;;Styr- och övervakningssystem i installation med rulltrappa eller rullramp;
+Byggdelar;73EB;Control systems in escalator or moving walkway installations;;Styrsystem i installation med rulltrappa eller rullramp;
+Byggdelar;73EBB;Control systems for continuous operation in escalator or moving walker installations;;Styrsystem för kontinuerlig drift i installation med rulltrappa eller rullramp;
+Byggdelar;73EBC;Control system for continuous operation at standby speed in escalator or moving walkway installations;;Styrsystem för kontinuerlig drift med beredskapshastighet i installation med rulltrappa eller rullramp;
+Byggdelar;73EBD;Control system for intermittent operation in escalator or moving walkway installations;;Styrsystem för intermittent drift i installation med rulltrappa eller rullramp;
+Byggdelar;73EBE;Control system functions in escalator or moving walkway installations;;Funktioner i styrsystem i installation med rulltrappa eller rullramp;
+Byggdelar;73EBEB;Fire alarm function;;Brandlarmsfunktion;
+Byggdelar;73EBEC;Direction indication function for road users;;Funktion för färdriktningsindikering för trafikanter;
+Byggdelar;73EBED;Remote control function;;Fjärrmanöverfunktion;
+Byggdelar;73EC;Operation monitoring system in escalator or moving walkway installations;;Driftövervakningssystem i installation med rulltrappa eller rullramp;
+Byggdelar;73ECB;Operational alarm system and operational indication system in escalator or moving walkway installations;;Driftlarmssystem och driftindikeringssystem i installation med rulltrappa eller rullramp;
+Byggdelar;73ECBB;Differentiated operational alarms;;Differentierade driftlarm;
+Byggdelar;73ECBC;Buzzer alarm;;Summalarm;
+Byggdelar;73ECBD;Remote fault diagnosis system;;Fjärrdiagnossystem för fel;
+Byggdelar;74;CRANE SYSTEMS;;KRANSYSTEM;
+Byggdelar;75;TUBE POST SYSTEMS;;RÖRPOSTSYSTEM;
+Byggdelar;76;SYSTEMS WITH MACHINE OPERATED GATE, DOOR, ETC.;;SYSTEM MED MASKINDRIVEN PORT, GRIND, DÖRR M M;
+Byggdelar;76B;Machine operated gate system;;System med maskindriven port;
+Byggdelar;76C;System with powered gate, bar etc.;;System med maskindriven grind, bom e d;
+Byggdelar;76D;System with machine operated door;;System med maskindriven dörr;
+Byggdelar;76E;System with power-operated movable wall m m;;System med maskindriven rörlig vägg m m;
+Byggdelar;76F;System with power-operated solar shading device, blackout curtain, etc.;;System med maskindriven solavskärmningsanordning, mörkläggningsgardin m m;
+Byggdelar;76G;System with powered dock leveller;;System med maskindriven lastbrygga;
+Byggdelar;76H;System with powered weather seal;;System med maskindriven vädertätning;
+Byggdelar;76J;Automatic docking systems;;Automatiska dockningssystem;
+Byggdelar;78;VARIOUS TRANSPORT SYSTEMS;;DIVERSE TRANSPORTSYSTEM;
+Byggdelar;78B;Suspended scaffolding and facade bridge systems;;System med hängställningar och fasadbryggor;
+Byggdelar;78C;Machine-operated lifting table systems etc.;;System med maskindrivet lyftbord e d;
+Byggdelar;78D;Conveyor belt systems, conveyor ramps, etc.;;System med transportband, transportramper m m;
+Byggdelar;78E;Small goods lift systems;;System med småvaruhiss;
+Byggdelar;78F;Garbage elevator system;;System med soptransporthiss;
+Byggdelar;8;CONTROL AND MONITORING SYSTEMS;;STYR- OCH ÖVERVAKNINGSSYSTEM;
+Byggdelar;81;CONTROL AND MONITORING SYSTEMS FOR BUILDING OPERATION;;STYR- OCH ÖVERVAKNINGSSYSTEM FÖR FASTIGHETSDRIFT;
+Byggdelar;82;CONTROL AND MONITORING SYSTEMS FOR PROCESS INSTALLATIONS;;STYR- OCH ÖVERVAKNINGSSYSTEM FÖR PROCESSINSTALLATIONER;
+Byggdelar;84;TRAFFIC CONTROL AND MONITORING SYSTEMS;;STYR- OCH ÖVERVAKNINGSSYSTEM FÖR TRAFIK;
+Byggdelar;84B;Control and monitoring systems for rail traffic;;Styr- och övervakningssystem för spårbunden trafik;
+Byggdelar;84BB;Signalling systems for trackbound traffic;;Signalsystem för spårbunden trafik;
+Byggdelar;84BBB;Signal box and line block systems;;Signalställverks- och linjeblockssystem;
+Byggdelar;84BBBB;Encoders;;Kodare;
+Byggdelar;84BBBC;Switchgear system components;;Komponenter i ställverkssystem;
+Byggdelar;84BBBD;Decoding units;;Avkodningsenheter;
+Byggdelar;84BBBE;Evaluation units;;Utvärderingsenheter;
+Byggdelar;84BBC;Local switchgear operating system;;Lokalt manöversystem för ställverk;
+Byggdelar;84BBCB;Control units;;Manöverapparater;
+Byggdelar;84BBCC;Computer-based control equipment;;Datorbaserad manöverutrustning;
+Byggdelar;84BBD;External signalling system from track;;System för yttre signalering från bana;
+Byggdelar;84BBDB;Track-side signals;;Signaler vid spår;
+Byggdelar;84BBDC;Railway signalling panels;;Signaltavlor vid järnväg;
+Byggdelar;84BBDD;Accessories for signals;;Tillbehör m m till signaler;
+Byggdelar;84BBE;Track-side train supervision message systems;;System för tågövervakningsbesked från bana;
+Byggdelar;84BBEB;Balises;;Baliser;
+Byggdelar;84BBF;Track section detection and obstruction control systems;;System för detektering och hinderkontroll av spåravsnitt;
+Byggdelar;84BBFB;Track management systems;;Spårledningssystem;
+Byggdelar;84BBFC;Axle counter system;;Axelräknarsystem;
+Byggdelar;84BBFD;Rail switches magnetic locks;;Rälskontakter magnetlås;
+Byggdelar;84BBG;Switch and track lock control systems;;System för styrning av växlar och spårspärrar;
+Byggdelar;84BBGB;Equipment for electrically controlled switches and track barriers;;Utrustningar för elektriskt styrda växlar och spårspärrar;
+Byggdelar;84BBGC;Equipment for non-electrically controlled switches and track locks;;Utrustningar för icke elektriskt styrda växlar och spårspärrar;
+Byggdelar;84BBH;Road protection systems;;System för vägskydd;
+Byggdelar;84BBHB;Roadside signals;;Signaler vid väg;
+Byggdelar;84BBHC;Roadside panels;;Tavlor vid väg;
+Byggdelar;84BBHD;Disconnection equipment;;Utrustning för frånkoppling;
+Byggdelar;84BBHE;Obstacle detectors;;Hinderdetektorer;
+Byggdelar;84BBHF;Railway barrier equipment;;Fällbomsutrustning;
+Byggdelar;84BBI;Radio block systems;;Radioblockssystem;
+Byggdelar;84BC;Signalling systems for shunting, depots, etc.;;Signalsystem för rangering, depåer e d;
+Byggdelar;84BD;Remote control systems;;Fjärrstyrningssystem;
+Byggdelar;84BDB;Remote control systems for electrical installations;;Fjärrstyrningssystem för elanläggningar;
+Byggdelar;84BDC;Remote control systems for signalling installations;;Fjärrstyrningssystem för signalanläggningar;
+Byggdelar;84BE;Control and monitoring systems for power supply installations;;Styr- och övervakningssystem för kraftförsörjningsanläggning;
+Byggdelar;84C;Control and monitoring systems for road traffic;;Styr- och övervakningssystem för vägtrafik;
+Byggdelar;84CB;Road traffic signalling systems;;Signalsystem för vägtrafik;
+Byggdelar;84F;Remote control of traffic control and monitoring systems;;Fjärrstyrning av styr- och övervakningssystem för trafik;
+Byggdelar;84FB;Remote control systems for railways;;Fjärrstyrning för järnväg;
+Byggdelar;84FBB;Remote control of railway electrical installations;;Fjärrstyrning av elanläggning för järnväg;
+Byggdelar;84FBBB;Device for the remote control of overhead contact line installations;;Apparater för fjärrstyrning av kontaktledningsanläggningar;
+Byggdelar;84FBBC;Remote control cables;;Fjärrstyrningskablar;
+Byggdelar;84FBBD;Switch boxes;;Kopplingslådor;
+Byggdelar;84FBC;Remote control of railway signalling equipment;;Fjärrstyrning av signalanläggning för järnväg;
+Byggdelar;84FBCB;Devices for the remote control of signalling installations;;Apparater för fjärrstyrning av signalanläggningar;
+Landskapsinformation;ADMAMP;General measuring point;General measuring point, miscellaneous point;Allmän mätpunkt;Allmän mätpunkt, diversepunkt
+Landskapsinformation;ADMARK;Archaeological surveys;;Arkeologiska undersökningar;
+Landskapsinformation;ADMBIO;Biotope protection;;Biotopskydd;
+Landskapsinformation;ADMBMI;State monument;;Statligt byggnadsminne;
+Landskapsinformation;ADMBUE;Noise - Equivalent sound level for noise propagation;Equivalent sound level for noise propagation (according to TDOK 2014:1021);Buller - Ekvivalent ljudnivå för bullerutbredning;Ekvivalent ljudnivå för bullerutbredning (enligt TDOK 2014:1021)
+Landskapsinformation;ADMBUM;Noise - Maximum noise propagation level;Maximum noise propagation level (according to TDOK 2014:1021);Buller - Maxnivå för bullerutbredning;Maxnivå för bullerutbredning (enligt TDOK 2014:1021)
+Landskapsinformation;ADMFGR;Property boundary;Line between property boundary points;Fastighetsgräns;Linje mellan fastighetsgränspunkter
+Landskapsinformation;ADMFIB;Level fix use point;Height fixed point of use;Nivåfix brukspunkt;Höjdfix brukspunkt
+Landskapsinformation;ADMFIK;Kombifix;Combination fix;Kombifix;Kombifix
+Landskapsinformation;ADMFIX;Levelfix;Height point;Nivåfix;Stompunkt i höjd
+Landskapsinformation;ADMFLA;In-depth landscape analysis;;Fördjupad Landskapsanalys;
+Landskapsinformation;ADMFOM;Contaminated land;;Förorenad mark;
+Landskapsinformation;ADMFRI;Free station;Overdetermined use point;Fri station;Överbestämd brukspunkt
+Landskapsinformation;ADMFRN;Ancient monument;;Fornlämning;
+Landskapsinformation;ADMGRP;Boundary point;Boundary pipes, boulders, etc.;Gränspunkt;Gränsrör, råsten etc.
+Landskapsinformation;ADMISV;Inner protection zone for water supply;Line between boundary points of inner protection zone of water source;Inre skyddszon för vattentäkt;Linje mellan gränspunkter för inre skyddszon vattentäkt
+Landskapsinformation;ADMKGR;Municipal boundary;Line between municipal boundary points;Kommungräns;Linje mellan kommungränspunkter
+Landskapsinformation;ADMKPU;Control point;Double measured control point;Kontrollpunkt;Dubbelinmätt kontrollpunkt
+Landskapsinformation;ADMLGR;County boundary;Line between county boundary points;Länsgräns;Linje mellan länsgränspunkter
+Landskapsinformation;ADMMAF;Groundwater bodies, mooring areas and ditches;;Markavvattningsföretag, båtnadsområden samt diken;
+Landskapsinformation;ADMMON;Monument;;Monument;
+Landskapsinformation;ADMNAN;Natura 2000 Habitats;;Natura 2000 Naturtyper;
+Landskapsinformation;ADMNAT;Natura 2000;;Natura 2000;
+Landskapsinformation;ADMNVA;Nature value class 1a;;Naturvärdes klass 1a;
+Landskapsinformation;ADMNVB;Nature value class 1b;;Naturvärdes klass 1b;
+Landskapsinformation;ADMNVE;Natural value class 3;;Naturvärdesklass 3;
+Landskapsinformation;ADMNVT;Nature value class 2;;Naturvärdesklass 2;
+Landskapsinformation;ADMPIK;Piké;Polar determined use point;Piké;Polärt bestämd brukspunkt
+Landskapsinformation;ADMPPB;Polygon point use point;Polygon point, use point;Polygonpunkt brukspunkt;Polygonpunkt, brukspunkt
+Landskapsinformation;ADMPPT;Planfix;;Planfix;
+Landskapsinformation;ADMPPV;Polygon point wall mounted;Wall-mounted polygon point;Polygonpunkt väggmonterad;Väggmonterad polygonpunkt
+Landskapsinformation;ADMREK;Recreation areas;;Rekreationsområden;
+Landskapsinformation;ADMRES;Reserves;;Reservat;
+Landskapsinformation;ADMRIF;National interest for outdoor life;;Riksintresse för friluftsliv;
+Landskapsinformation;ADMRIK;National interest for cultural environment;;Riksintresse för kulturmiljö;
+Landskapsinformation;ADMRIN;National interest for natural environment;;Riksintresse för naturmiljö;
+Landskapsinformation;ADMSNR;Protected nature;;Skyddad natur;
+Landskapsinformation;ADMSOC;Parish boundary;Line between parish boundary points not coincident with tract boundary;Sockengräns;Linje mellan sockengränspunkter ej sammanfallande med traktgräns
+Landskapsinformation;ADMTGR;Tract boundary;Line between tract boundary points;Traktgräns;Linje mellan traktgränspunkter
+Landskapsinformation;ADMTOG;Plot boundary;Line between plot boundary points;Tomtgräns;Linje mellan tomtgränspunkter
+Landskapsinformation;ADMTRI;Triangle point;Triangle point;Triangelpunkt;Triangelpunkt
+Landskapsinformation;ADMVGR;Road boundary;Line along road boundary;Vägområdesgräns;Linje utmed vägområdesgräns
+Landskapsinformation;ADMVLE;Hiking trail;;Vandringsled;
+Landskapsinformation;ADMYSV;Outer protection zone of water source;Line between boundary points of outer protection zone of water catchment;Yttre skyddszon för vattentäkt;Linje mellan gränspunkter för yttre skyddszon vattentäkt
+Landskapsinformation;ANLASF;Asphalt edge;Line along asphalt edge;Asfaltkant;Linje utefter asfaltkant
+Landskapsinformation;ANLBBD;Bench;Line along outer contour of benches + tables;Bänkbord;Linje utefter ytterkontur bänkar + bord
+Landskapsinformation;ANLBCL;Concrete wall, CL;Line at centre of concrete wall, CL;Betongmur, CL;Linje i centrum på betongmur, CL
+Landskapsinformation;ANLBMF;Concrete wall, wall base;Line along base of concrete wall;Betongmur, murfot;Linje utefter murfot på betongmur
+Landskapsinformation;ANLBPL;Concrete pile;;Betongpåle;
+Landskapsinformation;ANLBRE;Mailbox (private);Point at letterbox;Brevlåda (privat);Punkt vid brevlåda
+Landskapsinformation;ANLBRY;Dock;Line along bridge edge;Brygga;Linje utefter bryggkant
+Landskapsinformation;ANLBTG;Concrete edge;Line along concrete edge;Betongkant;Linje utefter betongkant
+Landskapsinformation;ANLBTM;Concrete wall, wall crest;Line along the crest of a concrete wall;Betongmur, murkrön;Linje utefter murkrön på betongmur
+Landskapsinformation;ANLCYK;Bicycle rack;Line along outer contour of bicycle rack;Cykelställ;Linje utefter ytterkontur cykelställ
+Landskapsinformation;ANLFLA;Flagpole;Point at centre of flagpole;Flaggstång;Punkt i centrum på flaggstång
+Landskapsinformation;ANLFYL;Filling edge;Line along fill edge;Fyllningskant;Linje utefter fyllningskant
+Landskapsinformation;ANLGAF;Gabion wall foot;;Gabionmur fot;
+Landskapsinformation;ANLGAK;Gabion wall crest;;Gabionmur krön;
+Landskapsinformation;ANLGNG;Swing;Line along the outer contour of the swing frame;Gunga;Linje utefter ytterkontur gungställning
+Landskapsinformation;ANLGRI;Gate post;Point in centre of gate post;Grindstolpe;Punkt i centrum på grindstolpe
+Landskapsinformation;ANLGRK;Lawn edge;Line along grass edge;Gräskant;Linje utefter gräskant
+Landskapsinformation;ANLGRU;Gravel edge;Line along gravel edge;Gruskant;Linje utefter gruskant
+Landskapsinformation;ANLGST;Paving stone edge;Line along border of paved areas;Gatstenskant;Linje utefter gräns till gatstenslagda ytor
+Landskapsinformation;ANLINF;Info board;Line along information board;Infotavla;Linje utmed informationstavla
+Landskapsinformation;ANLKAJ;Quay edge;Line along quay edge;Kajkant;Linje utefter kajkant
+Landskapsinformation;ANLKLP;Limestone pillar;;Kalkpelare;
+Landskapsinformation;ANLLEK;Play equipment;Line along outer contour of play equipment;Lekutrustning;Linje utefter ytterkontur lekutrustning
+Landskapsinformation;ANLMFT;Wall foot;Line along the foot of a retaining wall;Murfot;Linje utefter foten på en stödmur
+Landskapsinformation;ANLMKR;Brick crest;Line along the crest of a retaining wall;Murkrön;Linje utefter krönet på en stödmur
+Landskapsinformation;ANLMST;Paving stone edge;Line along boundary of paved areas;Markstenskant;Linje utefter gräns till markstenbelagda ytor
+Landskapsinformation;ANLMUR;Wall;Line along wall;Mur;Linje utmed mur
+Landskapsinformation;ANLPAP;Wastepaper basket;Point in the centre of a litter bin;Papperskorg;Punkt i centrum på papperskorg
+Landskapsinformation;ANLPBO;Parking table;Line along outer contour of table;Parkbord;Linje utefter ytterkontur bord
+Landskapsinformation;ANLPBX;Storage box (Post Office);Point at storage box (Post Office grey or green);Förvaringsbox (Postens);Punkt vid förvaringsbox (Postens grå eller gröna)
+Landskapsinformation;ANLPIS;Whipping post;Line along outer contour of whip rack;Piskställning;Linje utefter ytterkontur piskställ
+Landskapsinformation;ANLPLA;Plank;Line along plank;Plank;Linje utefter plank
+Landskapsinformation;ANLPLK;Flat edge;Line along edge of paved surfaces;Plattkant;Linje utefter gräns till plattbelagda ytor
+Landskapsinformation;ANLPOL;Bollard;Point at centre of bollard;Pollare;Punkt i centrum på pollare
+Landskapsinformation;ANLPOS;Mailbox (Post Office);Point at post box (yellow or equivalent);Postlåda (Postens);Punkt vid postlåda (Postens gula el motsvarande)
+Landskapsinformation;ANLPRK;Parking railing;Line along the hub of a car park;Parkeringsräcke;Linje utefter navplanka på en parkering
+Landskapsinformation;ANLPSO;Park bench;Line along the outer contour of a bench;Parksoffa;Linje utefter ytterkontur soffa
+Landskapsinformation;ANLRAC;Railings;Line along railing, handrail;Räcke;Linje utefter räcke, handledare
+Landskapsinformation;ANLREK;Billboard;Line along advertising sign;Reklamskylt;Linje utmed reklamskylt
+Landskapsinformation;ANLSAN;Sand edge;Line along sand edge;Sandkant;Linje utefter sandkant
+Landskapsinformation;ANLSAR;Coffin edge;Line along coffin, type sandbox etc.;Sargkant;Linje utefter sarg, typ sandlåda etc.
+Landskapsinformation;ANLSCH;Shaft edge;Line along shaft edge;Schaktkant;Linje utefter schaktkant
+Landskapsinformation;ANLSCL;Stone wall, CL;Line in centre of stone wall, CL;Stenmur, CL;Linje i centrum på stenmur, CL
+Landskapsinformation;ANLSDM;Retaining wall;Line along retaining wall, general;Stödmur;Linje utefter stödmur, allmän
+Landskapsinformation;ANLSMF;Stone wall, wall base;Line along base of stone wall;Stenmur, murfot;Linje utefter murfot på stenmur
+Landskapsinformation;ANLSMG;Small stone edge;Line along boundary of small paved areas;Smågatstenskant;Linje utefter gräns till smågatstenslagda ytor
+Landskapsinformation;ANLSMR;Stone wall;Line along stone wall, general;Stenmur;Linje utefter stenmur, allmän
+Landskapsinformation;ANLSPE;Pillar;Point in centre of post;Stolpe;Punkt i centrum på stolpe
+Landskapsinformation;ANLSTG;Paving stone edge;Line along boundary of stone paved areas;Storgatstenskant;Linje utefter gräns till storgatstenslagda ytor
+Landskapsinformation;ANLSTM;Stone wall, crest;Line along crest of stone wall;Stenmur, murkrön;Linje utefter murkrön på stenmur
+Landskapsinformation;ANLSTN;Fence;Line along fence;Stängsel;Linje utefter stängsel
+Landskapsinformation;ANLSTT;Fence;Line along fence;Staket;Linje utefter staket
+Landskapsinformation;BYGADU;Balancing stud;Point on the weighing stud;Avvägningsdubb;Punkt på avvägningsdubb
+Landskapsinformation;BYGAHU;House, general;Line around house, general;Hus, allmänt;Linje runt hus, allmänt
+Landskapsinformation;BYGBAL;Beam;Point on beam;Balk;Punkt på balk
+Landskapsinformation;BYGBAS;Pool/Pond;Line around pool/pond;Bassäng/Damm;Linje runt bassäng/damm
+Landskapsinformation;BYGBAT;Water tower;Line around water tower;Vattentorn;Linje runt vattentorn
+Landskapsinformation;BYGBBR;Concrete bridge;Line after edge beam on concrete bridge;Betongbro;Linje efter kantbalk på betongbro
+Landskapsinformation;BYGBHU;Residential house;Line around residential building;Bostadshus;Linje runt bostadshus
+Landskapsinformation;BYGBKE;Bridge deck;Line along bridge deck;Broräcke;Linje utefter broräcke
+Landskapsinformation;BYGBRO;Bridge;Line along bridge, general;Bro;Linje utefter bro, allmänt
+Landskapsinformation;BYGBTH;Concrete corner;Point on corner of art building;Betonghörn;Punkt på hörn på konstbyggnad
+Landskapsinformation;BYGDIL;Expansion joint;Line in expansion joint;Dilatationsfog;Linje i dilatationsfog
+Landskapsinformation;BYGENP;Entrance corner;Point on corner at entrance;Entréhörn;Punkt på hörn vid entréöppning
+Landskapsinformation;BYGENZ;Entrance level;Height point indicating floor level;Entrénivå;Höjdpunkt som anger golvnivå
+Landskapsinformation;BYGFKZ;Window frame level;Point on window frame;Fönsterkarmnivå;Punkt på fönsterkarm
+Landskapsinformation;BYGFUN;Foundation;Line around foundation;Fundament;Linje runt fundament
+Landskapsinformation;BYGGOZ;Floor level;Point at floor level;Golvnivå;Punkt på golvnivå
+Landskapsinformation;BYGHFP;Facade point;Point on facade life;Fasadpunkt;Punkt på fasadliv
+Landskapsinformation;BYGHHL;The outside of a finished exterior wall;Line with house corners as break points;Fasadliv;Linje med hushörn som brytpunkter
+Landskapsinformation;BYGHHP;House corners;Point on house corners;Hushörn;Punkt på hushörn
+Landskapsinformation;BYGHOM;Building above ground;Line after facade life;Byggnad över mark;Linje efter fasadliv
+Landskapsinformation;BYGHUM;Building below ground;Line after outer edge of basement wall;Byggnad under mark;Linje efter ytterkant källarvägg
+Landskapsinformation;BYGIND;Industrial building;Line around industrial building;Industribyggnad;Linje runt industribyggnad
+Landskapsinformation;BYGJKA;Basement;Line around basement;Jordkällare;Linje runt jordkällare
+Landskapsinformation;BYGKBA;Edge beam;Line along edge beam of bridge;Kantbalk;Linje utefter kantbalk på bro
+Landskapsinformation;BYGKYR;Church;;Kyrka;
+Landskapsinformation;BYGLBY;Loading dock;Line after loading bridge;Lastbrygga;Linje efter lastbrygga
+Landskapsinformation;BYGLJU;Light shaft;Line after outer edge of light shaft;Ljusschakt;Linje efter ytterkant ljusschakt
+Landskapsinformation;BYGPEC;Pillar centre;Point in centre of pillar;Pelare centrum;Punkt i pelarcentrum
+Landskapsinformation;BYGPEH;Pillar corner;Point on corner of pillar;Pelarhörn;Punkt på pelarhörn
+Landskapsinformation;BYGPEL;Pillar;Line around pillar;Pelare;Linje runt pelare
+Landskapsinformation;BYGRAM;Ramp;Line after outer edge of ramp;Ramp;Linje efter ytterkant ramp
+Landskapsinformation;BYGSBR;Stone bridge;"Line after ""edge beam"" on stone bridge";Stenbro;"Linje efter ""kantbalk"" på stenbro"
+Landskapsinformation;BYGSKL;School;Line around school;Skola;Linje runt skola
+Landskapsinformation;BYGSKO;Chimney;;Skorsten;
+Landskapsinformation;BYGSOH;Plinth corner;Point on corner of plinth;Sockelhörn;Punkt på sockelhörn
+Landskapsinformation;BYGSOL;The outside of a plinth;Line with plinth corners as break points;Sockelliv;Linje med sockelhörn som brytpunkter
+Landskapsinformation;BYGSOP;Plinth point;Point on plinth life;Sockelpunkt;Punkt på sockelliv
+Landskapsinformation;BYGSOZ;Plinth level;High point indicating plinth level;Sockelnivå;Höjdpunkt som anger sockelnivå
+Landskapsinformation;BYGSPI;Staircase, spiral;Point at centre of spiral staircase;Trappa, spiral;Punkt i centrum på spiraltrappa
+Landskapsinformation;BYGSPL;Coil plate;;Spolplatta;
+Landskapsinformation;BYGSRO;Steel bridge;Line after edge beam on steel bridge;Stålbro;Linje efter kantbalk på stålbro
+Landskapsinformation;BYGTAK;Canopy;Line after canopy;Skärmtak;Linje efter skärmtak
+Landskapsinformation;BYGTBR;Wooden bridge;"Line after ""edge beam"" on wooden bridge";Träbro;"Linje efter ""kantbalk"" på träbro"
+Landskapsinformation;BYGTNK;Tank, cistern;Line after outer edge of tank, cistern;Tank, cistern;Linje efter ytterkant på tank, cistern
+Landskapsinformation;BYGTRA;Stairs;Line after outer edge of staircase;Trappa;Linje efter ytterkant trappa
+Landskapsinformation;BYGTUP;Tunnel opening;Point on corner at tunnel opening;Tunnelöppning;Punkt på hörn vid tunnelöppning
+Landskapsinformation;BYGUHH;Development corner;Line around extension;Utbyggnadshörn;Linje runt utbyggnad
+Landskapsinformation;BYGUHU;Outbuilding;Line around outbuilding;Uthus;Linje runt uthus
+Landskapsinformation;BYGVHU;Greenhouse;Line around greenhouse;Växthus;Linje runt växthus
+Landskapsinformation;BYGVLV;Arched drum/bridge;Line along drum or bridge;Valvbåge trumma/bro;Linje utefter trumma eller bro
+Landskapsinformation;BYGVMO;Road-bridge wing top;;Väg-bro vinge överkant;
+Landskapsinformation;BYGVMR;Wing wall;Line at centre of wing wall, CL;Vingmur;Linje i centrum på vingmur, CL
+Landskapsinformation;EGTAFL;Free line code A;Free line code A;Fri linjekod A;Fri linjekod A
+Landskapsinformation;EGTAFP;Free point code A;Free point code A;Fri punktkod A;Fri punktkod A
+Landskapsinformation;EGTBFL;Free line code B;Free line code B;Fri linjekod B;Fri linjekod B
+Landskapsinformation;EGTBFP;Free point code B;Free point code B;Fri punktkod B;Fri punktkod B
+Landskapsinformation;EGTCFL;Free line code C;Free line code C;Fri linjekod C;Fri linjekod C
+Landskapsinformation;EGTCFP;Free point code C;Free point code C;Fri punktkod C;Fri punktkod C
+Landskapsinformation;EGTDFL;Free line code D;Free line code D;Fri linjekod D;Fri linjekod D
+Landskapsinformation;EGTDFP;Free point code D;Free point code D;Fri punktkod D;Fri punktkod D
+Landskapsinformation;EGTEFL;Free line code E;Free line code E;Fri linjekod E;Fri linjekod E
+Landskapsinformation;EGTEFP;Free point code E;Free point code E;Fri punktkod E;Fri punktkod E
+Landskapsinformation;EGTFFL;Free line code F;Free line code F;Fri linjekod F;Fri linjekod F
+Landskapsinformation;EGTFFP;Free point code F;Free point code F;Fri punktkod F;Fri punktkod F
+Landskapsinformation;EGTGFL;Free line code G;Free line code G;Fri linjekod G;Fri linjekod G
+Landskapsinformation;EGTGFP;Free point code G;Free point code G;Fri punktkod G;Fri punktkod G
+Landskapsinformation;EGTJFL;Free line code J;Free line code J;Fri linjekod J;Fri linjekod J
+Landskapsinformation;EGTJFP;Free point code J;Free point code J;Fri punktkod J;Fri punktkod J
+Landskapsinformation;EGTKFL;Free line code K;Free line code K;Fri linjekod K;Fri linjekod K
+Landskapsinformation;EGTKFP;Free point code K;Free point code K;Fri punktkod K;Fri punktkod K
+Landskapsinformation;EGTLFL;Free line code L;Free line code L;Fri linjekod L;Fri linjekod L
+Landskapsinformation;EGTLFP;Free point code L;Free point code L;Fri punktkod L;Fri punktkod L
+Landskapsinformation;EL-BEL;Lighting column;Point in centre of lighting column;Belysningsstolpe;Punkt i centrum på belysningsstolpe
+Landskapsinformation;EL-BEM;Lighting column;Point in centre of lighting column;Belysningsmast;Punkt i centrum på belysningsmast
+Landskapsinformation;EL-BEP;Lighting bollard;Centre point of lighting bollard;Belysningspollare;Punkt i centrum på belysningspollare
+Landskapsinformation;EL-BFA;Lighting on facade;;Belysning på fasad;
+Landskapsinformation;EL-BOX;Junction box;Point at junction box;Kopplingsbox;Punkt vid kopplingsbox
+Landskapsinformation;EL-DSE;Electric distance sign;Point at distance sign for electric cable;Distansskylt el;Punkt vid distansskylt för elkabel
+Landskapsinformation;EL-EBK;Square electric outlet;Line around electric outlet;Elbrunn fyrkantig;Linje runt elbrunn
+Landskapsinformation;EL-EKR;Power line pole;Point in the centre of a power line pole;Kraftledningsstolpe;Punkt i centrum på kraftledningsstolpe
+Landskapsinformation;EL-ELE;Electricity cabinet line;Line around electrical cabinet;Elskåp linje;Linje runt elskåp
+Landskapsinformation;EL-ELK;Square electrical cabinet;Point at centre of square electrical cabinet;Elskåp kvadratiskt;Punkt i centrum på kvadratiskt elskåp
+Landskapsinformation;EL-ELL;Power line air;Line along overhead power line with EST or EKR as breakpoints;Elledning luft;Linje utefter elledning i luft med EST eller EKR som brytpunkter
+Landskapsinformation;EL-ELM;Power cable ground;Line along exposed power cable in ground;Elkabel mark;Linje utefter utsatt elkabel i mark
+Landskapsinformation;EL-ELS;Electrical cabinet;Point in the centre of an electrical cabinet;Elskåp;Punkt i centrum på elskåp
+Landskapsinformation;EL-ELU;Electrical socket;Point at centre of electrical socket, engine heater etc.;Eluttag;Punkt i centrum på eluttag, motorvärmare etc
+Landskapsinformation;EL-ENB;Round electric outlet;Point at centre of electrical outlet cover;Elbrunn rund;Punkt i centrum på betäckning elbrunn
+Landskapsinformation;EL-EPK;Electricity point on cable;Point on power cable in shaft;El punkt på kabel;Punkt på elkabel i schakt
+Landskapsinformation;EL-EST;Electricity pole;Point at centre of electricity pole;Elstolpe;Punkt i centrum på elstolpe
+Landskapsinformation;EL-ETR;Transformer;Point at transformer;Transformator;Punkt vid transformator
+Landskapsinformation;EL-HSL;High voltage overhead line;Line along overhead line (ground points);Högspänning luftledning;Linje utefter luftledning (markpunkter)
+Landskapsinformation;EL-HSM;High voltage ground cable;Line along high voltage power cable;Högspänningskabel mark;Linje utefter ök högspänningskabel
+Landskapsinformation;EL-LSL;Low voltage overhead line;Line along overhead line (ground points);Lågspänning luftledning;Linje utefter luftledning (markpunkter)
+Landskapsinformation;EL-LSM;Low voltage ground cable;Line along the low voltage cable;Lågspänningskabel mark;Linje utefter ök lågspänningskabel
+Landskapsinformation;EL-MOV;Motor heater;Point at centre of engine heater;Motorvärmare;Punkt i centrum på motorvärmare
+Landskapsinformation;EL-SEL;Tripod electricity pole;Point at brace to power pole;Stag elstolpe;Punkt vid stag till elstolpe
+Landskapsinformation;GEO--K;Sampling instrument;Associated with symbols from Autograf;Kannprovtagare;Hör ihop med symboler från Autograf
+Landskapsinformation;GEO-90;Stop code 90;;Stoppkod 90;
+Landskapsinformation;GEO-91;Stop code 91;;Stoppkod 91;
+Landskapsinformation;GEO-92;Stop code 92;;Stoppkod 92;
+Landskapsinformation;GEO-93;Stop code 93;;Stoppkod 93;
+Landskapsinformation;GEO-94;Stop code 94;;Stoppkod 94;
+Landskapsinformation;GEO-96;Stop code 96;;Stoppkod 96;
+Landskapsinformation;GEO-GK;Groundwater pipes - short-term observation;;Grundvattenrör - korttidsobservation;
+Landskapsinformation;GEO-GL;Groundwater pipe - long-term observation;;Grundvattenrör - långtidsobservation;
+Landskapsinformation;GEO-PS;Disturbed sampling with sampling tip;Associated with symbols from Autograf;Störd provtagning med provtagningsspets;Hör ihop med symboler från Autograf
+Landskapsinformation;GEO-TR;Pressure probing;Associated with symbols from Autograf;Trycksondering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEO-VB;Spring tests;Matches symbols from Autograf;Vingförsök;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOAGK;Groundwater pipe - short-term observation Completed;;Grundvattenrör - korttidsobservation Avslutad;
+Landskapsinformation;GEOBPT;Geotechnical drill point (measured at ground surface);General geotechnical drill point;Geoteknisk borrpunkt (mäts i markyta);Allmän geoteknisk borrpunkt
+Landskapsinformation;GEOCPT;CPT probing;Associated with symbols from Autograf;CPT-sondering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOGPG;Test pit;Point in centre of test pit;Provgrop;Punkt i centrum på provgrop
+Landskapsinformation;GEOGPO;Port pressure gauge;;Portrycksmätare;
+Landskapsinformation;GEOGVA;Groundwater lowering delineation area;;Avgränsningsområde avseende grundvattensänkning;
+Landskapsinformation;GEOGVM;Groundwater pipe, my;Point at groundwater pipe, level at ground surface;Grundvattenrör, my;Punkt vid Grundvattenrör, nivå vid markyta
+Landskapsinformation;GEOGVP;Groundwater impact area boundary;;Begränsning för grundvatten påverkansområde;
+Landskapsinformation;GEOGVT;Groundwater pipe, rise;Groundwater pipe, rise top;Grundvattenrör, ök;Grundvattenrör, ök topp
+Landskapsinformation;GEOGVV;Limitation for groundwater condition area;;Begränsning för grundvatten villkorsområde;
+Landskapsinformation;GEOHFA;Dynamic probing;Associated with symbols from Autograph;Hejarsondering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJ1R;Earth-rock probing with registration;Associated with symbols from Autograf;Jb-sondering med registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJ1U;Earth-rock probing without registration;Associated with symbols from Autograf;Jb-sondering utan registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJ2R;Earth-rock2 probing  with registration;Associated with symbols from Autograf;Jb2-sondering med registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJ2U;Earth-rock2 probing  without registration;Matches symbols from Autograf;Jb2-sondering utan registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJ3R;Earth-rock3 probing  with registration;Matches symbols from Autograf;Jb3-sondering med registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJ3U;Earth-rock3 probing  without registration;Matches symbols from Autograf;Jb3-sondering utan registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOJTR;Earth-rock total probing  with registration;Matches symbols from Autograf;Jb-totalsondering med registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOK95;Stop code 95 sounding shorter than 3 m in rock;Matches symbols from Autograf;Stoppkod 95 sondering kortare än 3 m i berg;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOKBH;Core boreholes;;Kärnborrhål;
+Landskapsinformation;GEOKV1;Piston drill type 1;Matches symbols from Autograf;Kolvborr typ 1;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOKV2;Piston drill type 2;Matches symbols from Autograf;Kolvborr typ 2;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOL95;Stop code 95 probing 3 m or more in rock;Matches symbols from Autograf;Stoppkod 95 sondering 3 m eller längre i berg;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOLIN;Survey line;Line along general geotechnical survey line;Undersökningslinje;Linje utefter allmän geoteknisk undersökningslinje
+Landskapsinformation;GEOMFG;Environmental sampling with field analysis, gas;Associated with symbols from Autograf;Miljöteknisk provtagning med fältanalys, gas;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOMFL;Environmental sampling with field analysis, liquid;Associated with symbols from Autograf;Miljöteknisk provtagning med fältanalys, vätska;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOMFS;Environmental sampling with field analysis, solid phase;Associated with symbols from Autograf;Miljöteknisk provtagning med fältanalys, fast fas;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOMLG;Environmental sampling with laboratory analysis, gas;Associated with symbols from Autograf;Miljöteknisk provtagning med laboratorieanalys, gas;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOMLL;Environmental sampling with laboratory analysis, liquid;Associated with symbols from Autograf;Miljöteknisk provtagning med laboratorieanalys, vätska;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOMLS;Environmental sampling with laboratory analysis, solid phase;Matches symbols from Autograf;Miljöteknisk provtagning med laboratorieanalys, fast fas;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOPKB;Interpreted rock;Geosuites GS_3DB_Berg;Tolkat berg;Geosuites GS_3DB_Berg
+Landskapsinformation;GEOPKC;Interpreted rock/stone;Geosuites GS_3DB_Block;Tolkad block/sten;Geosuites GS_3DB_Block
+Landskapsinformation;GEOPKD;OUTPUT - Interpreted rock;Geosuites GS_3DB_Sten;UTGÅR - Tolkat sten;Geosuites GS_3DB_Sten
+Landskapsinformation;GEOPKE;Interpreted gravel layer;Geosuites GS_3DB_Grus;Tolkad gruslager;Geosuites GS_3DB_Grus
+Landskapsinformation;GEOPKF;Interpreted friction soil;Geosuites GS_3DB_Friction soil;Tolkad friktionsjord;Geosuites GS_3DB_Friktionsjord
+Landskapsinformation;GEOPKH;Interpreted humus layer;;Tolkat humusskikt;
+Landskapsinformation;GEOPKK;Interpreted cohesive soil;Geosuites GS_3DB_Clay;Tolkad kohessionsjord;Geosuites GS_3DB_Lera
+Landskapsinformation;GEOPKL;Interpreted clay;Geosuites GS_3DB_Torrskorpa;Tolkad lera;Geosuites GS_3DB_Torrskorpa
+Landskapsinformation;GEOPKN;Interpreted moraine;Geosuites GS_3DB_Moraine;Tolkad morän;Geosuites GS_3DB_Morän
+Landskapsinformation;GEOPKO;Interpreted other soils/unknown material;Geosuites GS_3DB_Unknown material;Tolkat övriga jordarter/okänt material;Geosuites GS_3DB_Okänt material
+Landskapsinformation;GEOPKR;Interpreted dry crustal clay;;Tolkad torrskorpelera;
+Landskapsinformation;GEOPKS;Interpreted sand;Geosuites GS_3DB_Sand;Tolkad sand;Geosuites GS_3DB_Sand
+Landskapsinformation;GEOPKT;Survey point;Point at general geotechnical investigation point;Undersökningspunkt;Punkt vid allmän geoteknisk undersökningspunkt
+Landskapsinformation;GEOPKY;Interpreted fill;Geosuites GS_3DB_Fill;Tolkad fyllning;Geosuites GS_3DB_Fyllning
+Landskapsinformation;GEORAG;Radon measurement, gas;;Radonmätning, gas;
+Landskapsinformation;GEOSKR;Disturbed screw sampling;Related to symbols from Autograph;Störd provtagning med skruv;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOSLR;Impact probing with recording;Associated with symbols from Autograf;Slagsondering med registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOSLU;Impact probing without recording;Associated with symbols from Autograf;Slagsondering utan registrering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOSTI;Sting probing;Associated with symbols from Autograf;Sticksondering;Hör ihop med symboler från Autograf
+Landskapsinformation;GEOVYT;Water surface in sampling hole;;Vattenyta i provtagningshål;
+Landskapsinformation;GEOWST;Weight probing;Matches symbols from Autograf;Viktsondering;Hör ihop med symboler från Autograf
+Landskapsinformation;JVGAXL;Axle counter;;Axelräknare;
+Landskapsinformation;JVGB1B;Rear crossing joint in main track;;Bakre korsningsskarv i huvudspår;
+Landskapsinformation;JVGB2B;Rear crossing joint in side track;;Bakre korsningsskarv i sidospår;
+Landskapsinformation;JVGBAB;Ballast break line;;Ballast brytlinje;
+Landskapsinformation;JVGBAF;Ballast foot;;Ballast fot;
+Landskapsinformation;JVGBAK;Ballast crest;;Ballast krön;
+Landskapsinformation;JVGBAL;Balise;;Balis;
+Landskapsinformation;JVGBJK;Railway-bridge edge beam;;Jvg-bro kantbalk;
+Landskapsinformation;JVGBJL;Railway-bridge anchored wing, top edge;;Jvg-bro landfäste vinge, överkant;
+Landskapsinformation;JVGBJP;Railway-bridge pillar support;;Jvg-bro pelare stöd;
+Landskapsinformation;JVGBOF;Protection portal;;Skyddsportal;
+Landskapsinformation;JVGBRS;Ktl-bridge roundstay;;Ktl-brygga rundstag;
+Landskapsinformation;JVGBSB;Bridge end track centre;;Broände spårmitt;
+Landskapsinformation;JVGBUB;Bridge underside tunnel roof;;Bro underkant tunnel tak;
+Landskapsinformation;JVGBUL;Noise barrier plank;;Bullerskärm plank;
+Landskapsinformation;JVGBUT;Noise barrier track;;Bullerskärm spår;
+Landskapsinformation;JVGBVN;Road-bridge pillar support, nearest edge;;Väg-bro pelare stöd, närmast kant;
+Landskapsinformation;JVGBVS;Road-bridge pillar support;;Väg-bro pelare stöd;
+Landskapsinformation;JVGCOM;Rail lubricator device;;Rälssmörjningsapparat;
+Landskapsinformation;JVGDET;Track centre detector;;Detektor spårmitt;
+Landskapsinformation;JVGDIL;Dilatation device;;Dilatationsanordning;
+Landskapsinformation;JVGDIS;Spacer pile;;Distanspåle;
+Landskapsinformation;JVGDYN;Dynamic sign;;Dynamisk skylt;
+Landskapsinformation;JVGELU;Elur;;Elur;
+Landskapsinformation;JVGERS;Erosion protection;;Erosionsskydd;
+Landskapsinformation;JVGFSB;Front support rail joint;;Främre stödrälsskarv;
+Landskapsinformation;JVGGOF;Walkway;;Gångfålla;
+Landskapsinformation;JVGGRI;Locked gate bar;;Grind bom låst;
+Landskapsinformation;JVGHIP;Obstacle pile;;Hinderpåle;
+Landskapsinformation;JVGISB;Insulating rail;;Isolerskarv;
+Landskapsinformation;JVGJBF;Schoulder base;Line along the foot of the railway;Bankfot;Linje utefter bankfot för järnväg
+Landskapsinformation;JVGJBK;Schoulder crown;Line along the railroad track;Bankkrön;Linje utefter bankkrön för järnväg
+Landskapsinformation;JVGJJB;Railway beam;Line along railway beam;Järnvägsbom;Linje utefter järnvägsbom
+Landskapsinformation;JVGJKM;Mileage board;Point in the centre of the mileage chart;Kilometertavla;Punkt i centrum på kilometertavla
+Landskapsinformation;JVGJKR;Cable tray;Line in the centre of a cable run;Kabelränna;Linje i centrum på ök kabelränna
+Landskapsinformation;JVGJKS;Electricity Contact line pole;Point in centre of contact line pole;Kontaktledningsstolpe;Punkt i centrum på kontaktledningsstolpe
+Landskapsinformation;JVGJLS;Sound/Light signal;Point in centre of sound/light signal post;Ljud/Ljussignal;Punkt i centrum på ljud/ljussignalstolpe
+Landskapsinformation;JVGJOP;Optical cable;Line along exposed opto cable, railway;Optokabel;Linje utefter utsatt optokabel, banverket
+Landskapsinformation;JVGJPO;Point on opto cable;Point on opto cable in shaft;Punkt på optokabel;Punkt på optokabel i schakt
+Landskapsinformation;JVGJPS;Point on signal cable;Point on signal cable in shaft;Punkt på signalkabel;Punkt på signalkabel i schakt
+Landskapsinformation;JVGJSM;Track center;Line in track centre;Spårmitt;Linje i spårmitt
+Landskapsinformation;JVGKAS;Cable joint trench;;Kabelskarvränna;
+Landskapsinformation;JVGKB1;Cable trench less than 300;;Kabelränna mindre än 300;
+Landskapsinformation;JVGKB2;Cable trench 300-400 mm nk;;Kabelränna 300-400 mm nk;
+Landskapsinformation;JVGKB3;Cable trench 400-600 mm nk;;Kabelränna 400-600 mm nk;
+Landskapsinformation;JVGKB4;Cable trench greater than 600;;Kabelränna större än 600;
+Landskapsinformation;JVGKBB;Cable duct less than 150, edge closest to track;;Kabelbrunn mindre än 150, kant närmast spår;
+Landskapsinformation;JVGKBC;Cable duct less than 150, centre;;Kabelbrunn mindre än 150, centrum;
+Landskapsinformation;JVGKBS;Cable duct larger than 150;;Kabelbrunn större än 150;
+Landskapsinformation;JVGKIO;Kiosk;;Kiosk;
+Landskapsinformation;JVGKKN;Ktl pole normal nk;;Ktl-stolpe normal nk;
+Landskapsinformation;JVGKKO;Ktl pole twisted nk;;Ktl-stolpe omvriden nk;
+Landskapsinformation;JVGKKT;Ktl pole three-leg nk;;Ktl-stolpe trebent nk;
+Landskapsinformation;JVGKTB;Ktl-bridge;;Ktl-brygga;
+Landskapsinformation;JVGKTF;Ktl brace foundation;;Ktl sträva stag fundament;
+Landskapsinformation;JVGKTL;Electric contact wire;;Kontaktledning;
+Landskapsinformation;JVGKTO;Ktl post twisted centre;;Ktl-stolpe omvriden centrum;
+Landskapsinformation;JVGKTT;Ktl-pillar three-legged centre;;Ktl-stolpe trebent centrum;
+Landskapsinformation;JVGKUL;Culvert;;Kulvert;
+Landskapsinformation;JVGKUR;Course;;Kur;
+Landskapsinformation;JVGLKT;Loading bay roof;;Lastkaj tak;
+Landskapsinformation;JVGLOS;Local switch;;Lokalställare;
+Landskapsinformation;JVGMOK;Telecommunication cable Middle city cable;;Telekabel Mellanortskabel;
+Landskapsinformation;JVGMOT;Monitor;;Monitor;
+Landskapsinformation;JVGOMR;Railway area - corridor;;Järnvägsområde - korridor;
+Landskapsinformation;JVGOPD;Opto cable splice well;;Optokabel skarvbrunn;
+Landskapsinformation;JVGPFD;Platform detail;;Plattformsdetalj;
+Landskapsinformation;JVGPFS;Platform loading dock - ceiling support;;Plattform lastkaj -takstöd;
+Landskapsinformation;JVGPFT;Platform roof;;Plattform tak;
+Landskapsinformation;JVGPLB;Platform;;Plattform;
+Landskapsinformation;JVGPSK;Personnel protection gate/boom, platform;;Personskydd grind/bom, platform;
+Landskapsinformation;JVGRAB;Ranger brake, not defined;;Rangerbroms, ej definierad;
+Landskapsinformation;JVGRMS;Radio tower;;Radiotorn;
+Landskapsinformation;JVGROH;Rail top right;Line on top of rail right in length measurement;Räl överkant höger;Linje på överkant räl höger i längdmätning
+Landskapsinformation;JVGROK;Rail upper edge;Line along top of rail;Räl överkant;Linje utefter överkant räl
+Landskapsinformation;JVGROV;Rail upper edge left;Line on top of rail left in longitudinal measurement;Räl överkant vänster;Linje på överkant räl vänster i längdmätning
+Landskapsinformation;JVGRSK;Rail joint;;Rälsskarv;
+Landskapsinformation;JVGRSV;Rail weld;;Rälssvets;
+Landskapsinformation;JVGRUK;Rail bottom;Point on bottom of rail;Räl underkant;Punkt på räl underkant
+Landskapsinformation;JVGS1B;Last long rail main track;;Sista långsliper huvudspår;
+Landskapsinformation;JVGS2B;Last longitudinal siding;;Sista långsliper sidospår;
+Landskapsinformation;JVGSBB;Concrete stop block;;Stoppbock betong;
+Landskapsinformation;JVGSBF;Stop block fixed;;Stoppbock fast;
+Landskapsinformation;JVGSBG;Sliding stop block;;Stoppbock glidbar;
+Landskapsinformation;JVGSD;Miniature signal free-standing;;Dvärgsignal fristående;
+Landskapsinformation;JVGSEI;Section isolator fork;;Sektionsisolator gaffel;
+Landskapsinformation;JVGSEK;Section;;Sektion;
+Landskapsinformation;JVGSGF;Rod centre;;Stag centrum;
+Landskapsinformation;JVGSIG;Signal cable;Line along exposed signal cable, trackwork;Signalkabel;Linje utefter utsatt signalkabel, banverket
+Landskapsinformation;JVGSKR;Protective rail end;;Skyddsräl ände;
+Landskapsinformation;JVGSLB;Loop well;;Slingbrunn;
+Landskapsinformation;JVGSLI;Slip end;;Slipersände;
+Landskapsinformation;JVGSPS;Track barrier;;Spårspärr;
+Landskapsinformation;JVGSRF;Strut center;;Sträva centrum;
+Landskapsinformation;JVGSRK;Strut nk;;Sträva nk;
+Landskapsinformation;JVGSSL;End of track;;Spårslut;
+Landskapsinformation;JVGSTE;Sectioning fences fences;;Sektionering stängsel staket;
+Landskapsinformation;JVGSTF;Suction transformer pole centre;;Sugtransformatorstolpe centrum;
+Landskapsinformation;JVGSTN;Station house;;Stationshus;
+Landskapsinformation;JVGSVG;Suction transformer pole bottom;;Sugtransformatorstolpe nederkant;
+Landskapsinformation;JVGSVK;Slewing crane;;Svängkran;
+Landskapsinformation;JVGTEB;Technical building;;Teknikhus;
+Landskapsinformation;JVGTFN;Free-standing telephone;;Telefon fristående;
+Landskapsinformation;JVGTMB;Tunnel estuary track centre;;Tunnelmynning spårmitt;
+Landskapsinformation;JVGTPB;Measured tangent point;;Inmätt tangeringspunkt;
+Landskapsinformation;JVGTRS;Gantry crane symbol;;Portalkran symbol;
+Landskapsinformation;JVGTSB;Tongue tip;;Tungspets;
+Landskapsinformation;JVGTSP;Traverse track;;Traversspår;
+Landskapsinformation;JVGTUB;Tunnel cover;;Tunnelpåslag;
+Landskapsinformation;JVGTUG;Tunnel concrete;;Tunnel betong;
+Landskapsinformation;JVGTUN;Tunnel rock;;Tunnel berg;
+Landskapsinformation;JVGTVP;Train heating station;;Tågvärmepost;
+Landskapsinformation;JVGTVS;Free-standing panel;;Tavla fristående;
+Landskapsinformation;JVGTYC;Splice box Tele;;Skarvbox Tele;
+Landskapsinformation;JVGUBB;Ktl-bridge, Bridge beam bottom;;Ktl-brygga, Bryggbalk underkant;
+Landskapsinformation;JVGUTL;Outrigger contact line;;Utliggare kontaktledning;
+Landskapsinformation;JVGVGV;Carriage scale;;Vagnvåg;
+Landskapsinformation;JVGVKS;Crossing kerb - track centre;;Korsning vägkant-spårmitt;
+Landskapsinformation;JVGVSK;Turntable;;Vändskiva;
+Landskapsinformation;JVGVST;Road protection device post/bollard;;Vägskyddsanordning stolpe/bomdriv;
+Landskapsinformation;JVGVSY;Windbreak;;Vindskydd;
+Landskapsinformation;TELDAT;Data cable ground;Line along exposed data cable in ground;Datakabel mark;Linje utefter utsatt datakabel i mark
+Landskapsinformation;TELDST;Distance sign tele;Point at distance sign for telecommunication cable;Distansskylt tele;Punkt vid distansskylt för telekabel
+Landskapsinformation;TELDTD;Data cable distance sign;Point at distance sign for data cable;Distansskylt datakabel;Punkt vid distansskylt för datakabel
+Landskapsinformation;TELDVT;Distance sign television cable;Point at distance sign for television cable;Distansskylt tv-kabel;Punkt vid distansskylt för tv-kabel
+Landskapsinformation;TELSTS;Telecom pole strut;Point at brace to telecom pole;Stag telestolpe;Punkt vid stag till telestolpe
+Landskapsinformation;TELTEB;Telecom outlet square;Line around square telecom outlet;Telebrunn kvadratisk;Linje runt kvadratisk telebrunn
+Landskapsinformation;TELTEC;Telecom outlet round;Point at centre of cover;Telebrunn rund;Punkt i centrum på betäckning
+Landskapsinformation;TELTEK;Telephone kiosk;Line around telephone kiosk;Telefonkiosk;Linje runt telefonkiosk
+Landskapsinformation;TELTEL;Telecom line air;Line along overhead cable with TST as break points;Teleledning luft;Linje utefter teleledning i luft med TST som brytpunkter
+Landskapsinformation;TELTEM;Telecom cable ground;Line along exposed telephone cable in ground;Telekabel mark;Linje utefter utsatt telekabel i mark
+Landskapsinformation;TELTJK;Tele ground cable;;Tele jordkabel;
+Landskapsinformation;TELTKO;Telecom switchboard;Point in the centre of telecommunications switchboard;Tele kopplingsplint;Punkt i centrum på tele kopplingsplint
+Landskapsinformation;TELTOP;Telecom opto cable;Line along exposed opto cable in ground;Tele optokabel;Linje utefter utsatt optokabel i mark
+Landskapsinformation;TELTPK;Telecom point on cable;Point on telecom cable in shaft;Tele punkt på kabel;Punkt på telekabel i schakt
+Landskapsinformation;TELTST;Telecom pole;Point in the centre of telepole;Telestolpe;Punkt i centrum på telestolpe
+Landskapsinformation;TELTVM;TV cable ground;Line along exposed TV cable in ground;Tv-kabel mark;Linje utefter utsatt tv-kabel i mark
+Landskapsinformation;TERAGO;Property line;Line between surfaces with different attributes should be completed with surface attributes;Ägoslagsgräns;Linje mellan ytor med olika attribut bör kompletteras med ytattribut
+Landskapsinformation;TERAHZ;Single point;General elevation point;Singelpunkt;Allmän höjdpunkt
+Landskapsinformation;TERAMI;River center;Line in centre of river;Åmitt;Linje i åmitt
+Landskapsinformation;TERATL;Public line;Line with AHZ as breakpoints;Allmän linje;Linje med AHZ som brytpunkter
+Landskapsinformation;TERBAK;Stream edge;Line along stream edge, stream >1.0m width;Bäckkant;Linje utefter bäckkant, bäck >1.0m bredd
+Landskapsinformation;TERBAM;Stream middle;Line in stream centre, stream < 1.0m width;Bäckmitt;Linje i bäckmitt, bäck < 1.0m bredd
+Landskapsinformation;TERBCK;Stream;Line in stream;Bäck;Linje i bäck
+Landskapsinformation;TERBGF;Mountain base;Line along base of stream;Bergfot;Linje utefter bergfot
+Landskapsinformation;TERBGK;Ridge;Line along ridge;Bergkrön;Linje utefter bergkrön
+Landskapsinformation;TERBHZ;Mountain peak;General elevation on mountain;Berg höjdpunkt;Allmän höjdpunkt på berg
+Landskapsinformation;TERBID;Exposed bedrock;Line with BHZ as breakpoints;Berg i dagen;Linje med BHZ som brytpunkter
+Landskapsinformation;TERBLK;Boulders;Line around boulders boulders > 600 mm;Stenblock;Linje runt stenblock flyttblock > 600 mm
+Landskapsinformation;TERBSF;Mountain base, blasted;;Bergfot, sprängd;
+Landskapsinformation;TERBSK;Ridge, blasted;;Bergkrön, sprängt;
+Landskapsinformation;TERBYZ;Bottom level;Point on bottom surface;Bottennivå;Punkt på bottenyta
+Landskapsinformation;TERDGV;Design groundwater level;;Dimensionerande nivå grundvatten;
+Landskapsinformation;TERDIB;Ditch bottom;Line in ditch bottom;Dikesbotten;Linje i dikesbotten
+Landskapsinformation;TERDIK;Ditch crest;Line along ditch crest;Dikeskrön;Linje utefter dikeskrön
+Landskapsinformation;TERDIM;Ditch center;Line in ditch centre;Dikesmitt;Linje i dikesmitt
+Landskapsinformation;TERDIT;Cover ditch;Line along cover ditch;Täckdike;Linje utefter täckdike
+Landskapsinformation;TERDRA;Drainage level;;Dräneringsnivå;
+Landskapsinformation;TERGMN;Minimum groundwater level;;Min nivå grundvatten;
+Landskapsinformation;TERGMX;Maximum groundwater level;;Maxnivå grundvatten;
+Landskapsinformation;TERIMP;Impediment;Line along the edge of the impediment;Impediment;Linje utefter impedimentkant
+Landskapsinformation;TERMOB;Rock model;Surface object for rock model;Bergmodell;Ytobjekt för bergmodell
+Landskapsinformation;TERMOE;Soil model, Gravel layer;OUT, Phase out Use instead GEOPKx supplemented with Presentation code EY;Jordmodell, Gruslager;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOF;Soil model friction soil;OUT, Phase out Use GEOPKx supplemented with EY Presentation Code instead;Jordmodell friktionsjord;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOG;Groundwater model;;Grundvattenmodell;
+Landskapsinformation;TERMOH;Soil model humus layer;OUT, Phase out Use GEOPKx supplemented with Presentation Code EY instead;Jordmodell humusskikt;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOJ;Soil model;Surface object for soil model;Jordmodell;Ytobjekt för jordmodell
+Landskapsinformation;TERMOK;Soil model cohesive soil;OUT, Phase out Use GEOPKx supplemented by Presentation Code EY instead;Jordmodell kohesionsjord;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOL;Soil model cohesive soil dry crust;OUT, Phase out Use GEOPKx supplemented with EY Presentation Code instead;Jordmodell kohesionsjord torrskorpa;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOM;Land model;Surface object for land model;Markmodell;Ytobjekt för markmodell
+Landskapsinformation;TERMOO;Soil model other soils;OUT, Phase out Use GEOPKx supplemented by EY Presentation Code instead;Jordmodell övriga jordarter;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOS;Soil model, Sand;OUT, Phase out Use GEOPKx supplemented with EY Presentation Code instead;Jordmodell, Sand;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TERMOT;Terrain model;Surface object for terrain model, unspecified;Terrängmodell;Ytobjekt för terrängmodell, ospecificerad
+Landskapsinformation;TERMOY;Soil model filling;OUT, Phase out Use GEOPKx supplemented by Presentation Code EY instead;Jordmodell fyllning;"UTGÅR, Fasas ut
+Använd istället GEOPKx kompletterad med Presentationskod EY"
+Landskapsinformation;TEROOR;Confined areas (Potential flood areas);;Instängda områden (Potentiella översvämningsområden);
+Landskapsinformation;TERPEG;Water level;Point on gauge (for water level measurement);Pegel;Punkt på pegel (för vattenståndsmätning)
+Landskapsinformation;TERPIL;Flow direction;Line indicating direction of flow;Flödespil;Linje som anger flödesriktning
+Landskapsinformation;TERSAK;Wetland;Line along the edge of the bed;Sankmark;Linje utefter sankmarkskant
+Landskapsinformation;TERSLF;Slope base;Line along base of slope;Släntfot;Linje utefter släntfot
+Landskapsinformation;TERSLK;Slope crest;Line along slope crest;Släntkrön;Linje utefter släntkrön
+Landskapsinformation;TERSTE;Stone;Point on rock < 600 mm;Sten;Punkt på sten < 600 mm
+Landskapsinformation;TERSTG;Path;Line in the middle of the path;Stig;Linje i stigmitt
+Landskapsinformation;TERSTR;Shoreline;Boundary line between land and water;Strandlinje;Begränsningslinje mellan land och vatten
+Landskapsinformation;TERTLI;Terrain line (break line);Line with AHZ as breakpoints;Terränglinje (brytlinje);Linje med AHZ som brytpunkter
+Landskapsinformation;TERTOM;Plot of land;Line along land;Tomtmark;Linje utefter tomtmark
+Landskapsinformation;TERVDG;Watercourse;;Vattendrag;
+Landskapsinformation;TERVYZ;Water level;Point on water surface;Vattennivå;Punkt på vattenyta
+Landskapsinformation;TERYTV;Surface water;;Ytvatten;
+Landskapsinformation;VA-AAG;Combined branching;Point ec pipe;Kombinerat avgrening;Punkt ök rör
+Landskapsinformation;VA-AAV;Combined shut-off valve;Point in the centre of coverage;Kombinerat avstängningsventil;Punkt i centrum på betäckning
+Landskapsinformation;VA-ABH;Combined well corner;Point in corner of well;Kombinerat brunnshörn;Punkt i hörn på brunn
+Landskapsinformation;VA-ABV;Combined check valve;Point on pipe;Kombinerat backventil;Punkt ök rör
+Landskapsinformation;VA-AEB;Combined element well;Point in centre of cover;Kombinerat elementbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-AFA;Combined grease trap;Point in centre of cover;Kombinerat fettavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-ALE;Combined pipe;Line island pipe;Kombinerat ledning;Linje ök ledning
+Landskapsinformation;VA-ALL;General supply piping;;Försörjningsledning allmä;
+Landskapsinformation;VA-ALP;Combined LPS station;Point in centre of LPS station;Kombinerat LPS-station;Punkt i centrum på LPS-station
+Landskapsinformation;VA-ANB;Combined descent well;Point in the centre of the cover;Kombinerat nedstigningsbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-ANL;Guidance;Line up pipe;Ångledning;Linje ök rör
+Landskapsinformation;VA-AOA;Combined oil separator;Point in the centre of the cover;Kombinerat oljeavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-APP;Combined plugging;Point on pipe;Kombinerat proppning;Punkt ök rör
+Landskapsinformation;VA-APU;Combined pumping station;Point in centre of pumping station;Kombinerat pumpstation;Punkt i centrum på pumpstation
+Landskapsinformation;VA-ARB;Combined drain well;Point in the centre of the cover;Kombinerat rensbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-ASA;Combined sludge separator;Point in the centre of the cover;Kombinerat slamavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-ASR;Combined flushing pipe;Point in the centre of the cover;Kombinerat spolrör;Punkt i centrum på betäckning
+Landskapsinformation;VA-ATB;Combined inspection well;Point in the centre of the cover;Kombinerat tillsynsbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-ATR;Combined pressure pipe;Line ök conduit;Kombinerat tryckledning;Linje ök ledning
+Landskapsinformation;VA-AUL;Combined outlet/drum;Point in the centre of the cover;Kombinerat utlopp/trumöga;Punkt i centrum på betäckning
+Landskapsinformation;VA-AVB;Sewage well;Point on drain well;Avloppsbrunn;Punkt på avloppsbrunn
+Landskapsinformation;VA-AVL;Sewerage;Line along sewer line;Avloppsledning;Linje utefter avloppsledning
+Landskapsinformation;VA-B20;Well 200 mm;Point in centre of cover;Brunn 200 mm;Punkt i centrum på betäckning
+Landskapsinformation;VA-B40;Well 400 mm;Point at centre of cover;Brunn 400 mm;Punkt i centrum på betäckning
+Landskapsinformation;VA-BRA;Well, general;Point on well, general;Brunn, allmän;Punkt på brunn, allmän
+Landskapsinformation;VA-DAG;Day branching;Point on ec pipe branch;Dag avgrening;Punkt på ök rör avgrening
+Landskapsinformation;VA-DAV;Day shut-off valve;Point at centre of cover;Dag avstängningsventil;Punkt i centrum på betäckning
+Landskapsinformation;VA-DBH;Day well corner;Point at corner of well;Dagbrunnshörn;Punkt i hörn på brunn
+Landskapsinformation;VA-DBR;Stormwater well;Point in centre of cover;Dagvattenbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-DBV;Day check valve;Point on pipe;Dag backventil;Punkt ök rör
+Landskapsinformation;VA-DDR;Stormwater drainage well;Point in centre of cover for drainage well;Dagvatten dräneringsbrunn;Punkt i centrum på betäckning för dräneringsbrunn
+Landskapsinformation;VA-DEB;Day element well;Point in centre of cover;Dag elementbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-DFA;Day grease trap;Point in centre of cover;Dag fettavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-DIF;Day infiltration well;Point in the centre of the cover;Dag infiltrationsbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-DLE;Stormwater pipe;Line along stormwater pipe;Dagvattenledning;Linje utefter dagvattenledning
+Landskapsinformation;VA-DLP;Day LPS station;Point in centre of cover;Dag LPS-station;Punkt i centrum på betäckning
+Landskapsinformation;VA-DLU;Day aeration device;Point in centre of pipe;Dag luftningsanordning;Punkt i centrum rör
+Landskapsinformation;VA-DNB;Stormwater downspout;Centre point of cover for manhole;Dagvatten nedstigningsbrunn;Punkt i centrum på betäckning för nedstigningsbrunn
+Landskapsinformation;VA-DOA;Day oil separator;Point in centre of cover;Dag oljeavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-DPB;Day percolation well;Point in the centre of the cover;Dag perkolationsbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-DPL;Stormwater point on pipe;Point on storm water pipe, increasing pipe.;Dagvatten punkt på ledning;Punkt på dagvattenledning, ök rör.
+Landskapsinformation;VA-DPP;Day plugging;Point on rising pipe;Dag proppning;Punkt på ök rör
+Landskapsinformation;VA-DPU;Day pumping station;Point in centre of cover;Dag pumpstation;Punkt i centrum på betäckning
+Landskapsinformation;VA-DRB;Stormwater cleanout;Point in the centre of the cover for the clean well;Dagvatten rensbrunn;Punkt i centrum på betäckning för rensbrunn
+Landskapsinformation;VA-DRL;Drainage pipe;Line along drainage pipe;Dräneringsledning;Linje utefter dräneringsledning
+Landskapsinformation;VA-DRS;Drainage flush well;;Dränering spolbrunn;
+Landskapsinformation;VA-DSB;Distance sign fire hydrant;Point at fire hydrant distance sign;Distansskylt brandpost;Punkt vid distansskylt för brandpost
+Landskapsinformation;VA-DSR;Day flush pipe;Point on cover;Dag spolrör;Punkt på betäckning
+Landskapsinformation;VA-DSV;Distance sign water;Point at distance sign for water or sewerage;Distansskylt va;Punkt vid distansskylt för vatten eller avlopp
+Landskapsinformation;VA-DTB;Stormwater inspection well;Point at centre of cover for monitoring well;Dagvatten tillsynsbrunn;Punkt i centrum på betäckning för tillsynsbrunn
+Landskapsinformation;VA-DTR;Day pressure pipe;Line on pipe;Dag tryckledning;Linje ök ledning
+Landskapsinformation;VA-DUL;Day outlet/drum;Point at vg outlet of drum;Dag utlopp/trumöga;Punkt i vg utlopp för trumma
+Landskapsinformation;VA-DVR;Stormwater drain;Line in centre of storm water drain;Dagvattenränna;Linje i centrum på dagvattenränna
+Landskapsinformation;VA-FJK;District heating chamber;;Fjärrvärme kammare;
+Landskapsinformation;VA-FNB;District heating descent well;Point in the centre of the cover of the district heating well;Fjärrvärme nedstigningsbrunn;Punkt i centrum på betäckning för fjärrvärmebrunn
+Landskapsinformation;VA-FPL;District heating point on pipe;Point on district heating pipeline, increase pipe;Fjärrvärme punkt på ledning;Punkt på fjärrvärmeledning, ök rör
+Landskapsinformation;VA-FTB;District heating inspection well;Point in the centre of the cover of the inspection well;Fjärrvärme tillsynsbrunn;Punkt i centrum på betäckning för tillsynsbrunn
+Landskapsinformation;VA-FVE;District heating valve;Point in centre of cover.;Fjärrvärme ventil;Punkt i centrum på betäckning.
+Landskapsinformation;VA-FVK;District heating cap;Line along district heating culvert cover;Fjärrvärme kulvertlock;Linje utefter kulvertlock till fjärrvärme
+Landskapsinformation;VA-FVL;District heating pipe;Line of additional pipes;Fjärrvärmeledning;Linje ök rör
+Landskapsinformation;VA-FVV;District heating ventilation;Point in centre of ventilation pipe;Fjärrvärme ventilation;Punkt i centrum på ventilationsrör
+Landskapsinformation;VA-GAS;Gas pipeline;Line up pipes;Gasledning;Linje ök rör
+Landskapsinformation;VA-GAV;Gas valve;Point on covering;Gasventil;Punkt på betäckning
+Landskapsinformation;VA-KDB;Rainwater well dome;Point in the centre of the covering;Dagvattenbrunn kupol;Punkt i centrum på betäckning
+Landskapsinformation;VA-KOL;Condensate pipe;Line ec pipe;Kondensatledning;Linje ök rör
+Landskapsinformation;VA-KYL;District cooling;Line up pipe;Fjärrkyla;Linje ök rör
+Landskapsinformation;VA-LUF;Compressed air;Line ec pipe;Tryckluft;Linje ök rör
+Landskapsinformation;VA-NBR;Descent well;Point in the centre of the cover;Nedstigningsbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-SAG;Spill branching;Point ec pipe;Spill avgrening;Punkt ök rör
+Landskapsinformation;VA-SAV;Spill stop valve;Point in the centre of coverage;Spill avstängningsventil;Punkt i centrum på betäckning
+Landskapsinformation;VA-SBH;Spill well corner;Point in corner of well;Spill brunnshörn;Punkt i hörn på brunn
+Landskapsinformation;VA-SBV;Spill check valve;Point on pipe;Spill backventil;Punkt ök rör
+Landskapsinformation;VA-SEB;Spill element well;Point in centre of cover;Spill elementbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-SFA;Spill grease trap;Point in centre of cover;Spill fettavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-SFP;Spill connection point;Point of pipe;Spill förbindelsepunkt;Punkt ök rör
+Landskapsinformation;VA-SKY;Protective pipes;Line at centre of protective pipe;Skyddsrör va;Linje i centrum på skyddsrör
+Landskapsinformation;VA-SLE;Waste water pipe;Line along waste water pipe;Spillvattenledning;Linje utefter spillvattenledning
+Landskapsinformation;VA-SLP;Spill LPS station;Point in centre of cover;Spill LPS-station;Punkt i centrum på betäckning
+Landskapsinformation;VA-SLU;Spill aeration device;Point in centre of pipe;Spill luftningsanordning;Punkt i centrum rör
+Landskapsinformation;VA-SNB;Spill water descent well;Centre point of cover for manhole;Spillvatten nedstigningsbrunn;Punkt i centrum på betäckning för nedstigningsbrunn
+Landskapsinformation;VA-SOA;Spill oil separator;Centre point of cover;Spill oljeavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-SPL;Spill water point on pipeline;Point on waste water line, increasing pipe;Spillvatten punkt på ledning;Punkt på spillvattenledning, ök rör
+Landskapsinformation;VA-SPP;Spill plug;Point on pipe;Spill proppning;Punkt ök rör
+Landskapsinformation;VA-SPU;Spill pumping station;Point in centre of pumping station;Spill pumpstation;Punkt i centrum på pumpstation
+Landskapsinformation;VA-SPY;Scupper;Point in the centre of the manhole;Spygatt;Punkt i centrum på spygatt
+Landskapsinformation;VA-SRB;Spill water clean well;Point in the centre of the cover for the clean well;Spillvatten rensbrunn;Punkt i centrum på betäckning för rensbrunn
+Landskapsinformation;VA-SSA;Sludge separator spill;Point in centre of cover;Spill slamavskiljare;Punkt i centrum på betäckning
+Landskapsinformation;VA-SSR;Spill flush pipe;Point in the centre of the cover;Spill spolrör;Punkt i centrum på betäckning
+Landskapsinformation;VA-STB;Waste water monitoring well;Point in the centre of the cover for the monitoring well;Spillvatten tillsynsbrunn;Punkt i centrum på betäckning för tillsynsbrunn
+Landskapsinformation;VA-STO;Spill emptying device;Point at centre of cover;Spill tömningsanordning;Punkt i centrum på betäckning
+Landskapsinformation;VA-STP;Standpipe;Point in the centre of the bilge pipe;Stuprör;Punkt i centrum på stuprör
+Landskapsinformation;VA-STR;Spill pressure line;Line ök pipe;Spill tryckledning;Linje ök ledning
+Landskapsinformation;VA-SUL;Spill outlet/drum;Point at vg outlet of drum;Spill utlopp/trumöga;Punkt i vg utlopp för trumma
+Landskapsinformation;VA-TRO;Drum trough;Point at waterway outlet for drum;Trumöga;Punkt i vattengång utlopp för trumma
+Landskapsinformation;VA-TRU;Drum;Line between drum eyes;Trumma;Linje mellan trumögon
+Landskapsinformation;VA-VAG;Water branch;Point on pipe;Vatten avgrening;Punkt ök rör
+Landskapsinformation;VA-VAP;Water connection point;Point ök pipe;Vatten anslutningspunkt;Punkt ök rör
+Landskapsinformation;VA-VAV;Shut-off valve;Point at centre of cover;Avstängningsventil;Punkt i centrum på betäckning
+Landskapsinformation;VA-VBD;Fire dam, reservoir;Line around fire dam, reservoir;Branddamm, reservoar;Linje runt branddamm, reservoar
+Landskapsinformation;VA-VBK;Well, source;Point at centre;Brunn, källa;Punkt i centrum
+Landskapsinformation;VA-VBM;Water meter well;Point in centre of cover;Vatten mätarbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-VBP;Fire hydrant;Point at centre of cover;Brandpost;Punkt i centrum på betäckning
+Landskapsinformation;VA-VBR;Fresh water well;Point at centre of cover for fresh water well;Färskvattenbrunn;Punkt i centrum på betäckning för färskvattenbrunn
+Landskapsinformation;VA-VBV;Water check valve;Point on pipe;Vatten backventil;Punkt ök rör
+Landskapsinformation;VA-VDI;Water dimensional change;Point of rise pipe;Vatten dimensionsförändring;Punkt ök rör
+Landskapsinformation;VA-VGB;Groundwater well;Point at centre of cover;Grundvattenbrunn;Punkt i centrum på betäckning
+Landskapsinformation;VA-VLE;Water pipe;Line along water pipe;Vattenledning;Linje utefter vattenledning
+Landskapsinformation;VA-VLU;Water aeration device;Point in centre of pipe;Vatten luftningsanordning;Punkt i centrum rör
+Landskapsinformation;VA-VPL;Water point on pipe;Point on water line, up pipe;Vatten punkt på ledning;Punkt på vattenledning, ök rör
+Landskapsinformation;VA-VPO;Water post;Point on water post;Vattenpost;Punkt på vattenpost
+Landskapsinformation;VA-VPP;Water plug;Point on pipe;Vatten proppning;Punkt ök rör
+Landskapsinformation;VA-VSP;Water flush post;Point in centre of cover;Vatten spolpost;Punkt i centrum på betäckning
+Landskapsinformation;VA-VSV;Service valve;Point in centre of cover;Servisventil;Punkt i centrum på betäckning
+Landskapsinformation;VA-VTO;Water draining device;Point in the centre of the cover;Vatten tömningsanordning;Punkt i centrum på betäckning
+Landskapsinformation;VA-VTS;Water pressure boosting station;Point in the centre of the cover;Vatten tryckstegringsstation;Punkt i centrum på betäckning
+Landskapsinformation;VA-VVK;Valve chamber;Point in the centre of the cover;Ventilkammare;Punkt i centrum på betäckning
+Landskapsinformation;VA-VVV;Ventilation pipes;Point in the centre of the ventilation pipe;Ventilationsrör;Punkt i centrum på ventilationsrör
+Landskapsinformation;VAGBEV;Lighting column road;Point in the centre of the lighting column road;Belysningsstolpe väg;Punkt i centrum på belysningsstolpe väg
+Landskapsinformation;VAGBLA;Break line/asphalt joint;Line along break line on asphalt or other road surface;Brytlinje/asfaltskarv;Linje utefter brytlinje på asfalt eller annan köryta
+Landskapsinformation;VAGBSK;Noise protection;Line along noise barrier;Bullerskydd;Linje utefter bullerskydd
+Landskapsinformation;VAGDER;Energy absorbing railing end;Point at energy absorbing railing end;Energiabsorberande räckesavslutning;Punkt vid energiabsorberande räckesavslutning
+Landskapsinformation;VAGFVA;Anchoring wire guardrail;Point at foundation/anchoring wire railing;Förankring vajerräcke;Punkt vid fundament/förankring vajerräcke
+Landskapsinformation;VAGGBA;Asphalt walkway;Line along walkway asphalt;Gångbana asfalt;Linje utefter gångbana asfalt
+Landskapsinformation;VAGGBG;Gravel walkway;Line along walkway gravel;Gångbana grus;Linje utefter gångbana grus
+Landskapsinformation;VAGGCM;GCM runway, general;Line along GCM track, general;GCM-bana, allmän;Linje utefter GCM-bana, allmän
+Landskapsinformation;VAGHPL;Bus stop sign;Point at bus stop sign;Hållplatsskylt;Punkt vid busshållplatsskylt
+Landskapsinformation;VAGHPP;Bus stop/P-space;Line along bus stop/P-place;Hållplats/P-plats;Linje utefter busshållplats/P-plats
+Landskapsinformation;VAGKAB;Cable;Line along cable;Kabel;Linje utefter kabel
+Landskapsinformation;VAGKBK;Carriageway edge, general;Line along carriageway edge, public;Körbanekant, allmän;Linje utefter körbanekant, allmän
+Landskapsinformation;VAGKBO;Concrete edge support, additional;Line along top edge of concrete kerb;Kantstöd betong, ök;Linje utefter överkant på kantstöd betong
+Landskapsinformation;VAGKGO;Granite edge support, additional;Line along top of kerb on granite;Kantstöd granit, ök;Linje utefter överkant på kantstöd granit
+Landskapsinformation;VAGKSB;Concrete edge support, uk;Line along bottom edge of concrete kerb;Kantstöd betong, uk;Linje utefter underkant på kantstöd betong
+Landskapsinformation;VAGKSG;Granite edge support, uk;Line along bottom of granite kerb;Kantstöd granit, uk;Linje utefter underkant på kantstöd granit
+Landskapsinformation;VAGKSP;Edge support, square, flat wheel;Line beyond edge support ec flat row;Kantstöd ök plattrad;Linje utefter kantstöd ök plattrad
+Landskapsinformation;VAGKSR;Cable conduit;Line along cable protection tube;Kabelskyddsrör;Linje utefter kabelskyddsrör
+Landskapsinformation;VAGKST;Edge post;Point at edge post/reflective post;Kantstolpe;Punkt vid kantstolpe/reflexstolpe
+Landskapsinformation;VAGKUR;Bus shelter;Line along bus stop turnaround;Busskur;Linje utefter väntkur vid busshållplats
+Landskapsinformation;VAGKYG;Driveable surface, gravel;Line along driving surface, gravel;Körbar yta, grus;Linje utefter körbar yta, grus
+Landskapsinformation;VAGLED;Wiring;Line along wire;Ledning;Linje utefter ledning
+Landskapsinformation;VAGMIL;Milestones;Point at milestone;Milsten;Punkt vid milsten
+Landskapsinformation;VAGMVA;Road painting, general;Line along road painting;Vägmålning, allmän;Linje utefter vägmålning
+Landskapsinformation;VAGMVB;Carriageway edge;Line along painted edge of carriageway;Körbanekant;Linje utefter målad körbanekant
+Landskapsinformation;VAGMVC;Lane line;Line along painted lane line;Körfältslinje;Linje utefter målad körfältslinje
+Landskapsinformation;VAGMVD;Barrier line;Line along painted barrier line;Spärrlinje;Linje utefter målad spärrlinje
+Landskapsinformation;VAGMVE;Refuge line;Line along painted crash line;Refuglinje;Linje utefter målad refuglinje
+Landskapsinformation;VAGMVF;Stop line;Line along painted stop line;Stopplinje;Linje utefter målad stopplinje
+Landskapsinformation;VAGMVG;Centre of road;Line along the painted median;Vägmitt;Linje utefter målad vägmitt
+Landskapsinformation;VAGMVH;Crossing point;Line alongside painted crossing;Övergångställe;Linje utefter målat övergångställe
+Landskapsinformation;VAGMVI;Exit and entrance;Line alongside painted exit and entrance;Av och påfart;Linje utefter målad av- och påfart
+Landskapsinformation;VAGMVJ;GCM runway;Line along painted GCM lane;GCM-bana;Linje utefter målad GCM-bana
+Landskapsinformation;VAGMVK;Lane edge right;Line along the right edge of the carriageway;Körbanekant höger;Linje utefter körbanekant höger
+Landskapsinformation;VAGMVL;Left lane edge;Line along the left edge of the carriageway;Körbanekant vänster;Linje utefter körbanekant vänster
+Landskapsinformation;VAGMVM;Unsafe lane edge, photogrammetry;Line along lane edge unsafe, photogrammetry;Körbanekant osäker, fotogrammetri;Linje utefter körbanekant osäker, fotogrammetri
+Landskapsinformation;VAGMVN;Give way;Line along leaving right of way (shark teeth);Lämna företräde;Linje utefter lämna företräde (hajtänder)
+Landskapsinformation;VAGPME;Parking meters;Point in centre of parking meter;Parkeringsmätare;Punkt i centrum på parkeringsmätare
+Landskapsinformation;VAGPOR;Portal post;Point in cc on post to portal, branded bridge;Portalstolpe;Punkt i cc på stolpe till portal,  märkesbrygga
+Landskapsinformation;VAGREF;Reference point VDB;Reference point VDB;Referenspunkt VDB;Referenspunkt VDB
+Landskapsinformation;VAGSKV;Forest road;Line along edge of forest road;Skogsväg;Linje utefter vägkant skogsväg
+Landskapsinformation;VAGTRL;Traffic sign;Line in centre on traffic sign;Trafikskylt;Linje i centrum på trafikskylt
+Landskapsinformation;VAGTRM;Traffic sign/road sign;Point in centre of traffic sign/road sign;Trafikskylt/Vägmärke;Punkt i centrum på trafikskylt /vägmärke
+Landskapsinformation;VAGTRS;Traffic signal;Point in centre of traffic signal;Trafiksignal;Punkt i centrum på trafiksignal
+Landskapsinformation;VAGTRV;Tractor road/roadway;Line along edge of tractor/roadway;Traktorväg/ägoväg;Linje utefter kant på traktorväg/ägoväg
+Landskapsinformation;VAGVAJ;Wire guardrail;Line along wire fence;Vajerräcke;Linje utefter vajerräcke
+Landskapsinformation;VAGVBF;Shoulder base;Line along the base of the shoulder;Bankfot;Linje utefter bankfot
+Landskapsinformation;VAGVBO;Road boom;Line alongside road barrier;Vägbom;Linje utefter vägbom
+Landskapsinformation;VAGVDK;Road ditch;Line beyond ditch;Vägdike;Linje utefter vägdike
+Landskapsinformation;VAGVK;Road edge;Line along road edge;Vägkant;Linje utefter vägkant
+Landskapsinformation;VAGVKA;Road edge asphalt;Line along asphalt roadside;Vägkant asfalt;Linje utefter vägkant asfalt
+Landskapsinformation;VAGVKB;Concrete road edge;Line along road edge concrete;Vägkant betong;Linje utefter vägkant betong
+Landskapsinformation;VAGVKG;Road edge gravel;Line along roadside gravel;Vägkant grus;Linje utefter vägkant grus
+Landskapsinformation;VAGVM;Road centre;Line in the middle of the road;Vägmitt;Linje i vägmitt
+Landskapsinformation;VAGVOL;Road edge oil gravel;Line along road edge oil gravel;Vägkant oljegrus;Linje utefter vägkant oljegrus
+Landskapsinformation;VAGVRE;Road surface;Line along road surface;Vägräcke;Linje utefter vägräcke
+Landskapsinformation;VAGVRS;Road surface post;Point in the centre of the road surface post;Vägräckesstolpe;Punkt i centrum på vägräckesstolpe
+Landskapsinformation;VAGVSF;Base of the slope, road;Line along base of slope;Släntfot, väg;Linje utefter släntfot
+Landskapsinformation;VAGVSK;Slope crest, road;Line along edge of slope;Släntkrön, väg;Linje utefter släntkrön
+Landskapsinformation;VAGVSR;Support strip;Line along support strip;Stödremsa;Linje utefter stödremsa
+Landskapsinformation;VAGVST;Deer fence;Line along fence;Viltstängsel;Linje utefter stängsel
+Landskapsinformation;VEGAKE;Field edge;Line along field edge;Åkerkant;Linje utefter åkerkant
+Landskapsinformation;VEGANG;Meadow edge;Line along field edge;Ängskant;Linje utefter ängskant
+Landskapsinformation;VEGBTA;Conifer;Point in centre of conifer;Barrträd;Punkt i centrum på barrträd
+Landskapsinformation;VEGBUK;Shrub edge;Line along bushes edge;Buskkant;Linje utefter buskytekant
+Landskapsinformation;VEGBUS;Shrub;Point in centre of bush;Buske;Punkt i centrum på buske
+Landskapsinformation;VEGHAK;Hedge;Line at the centre of a hedge;Häck;Linje i centrum på häck
+Landskapsinformation;VEGHYG;Deforested land ? hygge;Line along the edge of a wood;Avverkad skogsmark ? hygge;Linje utefter hyggeskant
+Landskapsinformation;VEGLTA;Deciduous trees;Centre point on deciduous tree;Lövträd;Punkt i centrum på lövträd
+Landskapsinformation;VEGPLN;Planting edge;Line along planting edge;Planteringskant;Linje utefter planteringskant
+Landskapsinformation;VEGSBA;Forest edge, coniferous forest;Line along forest edge, coniferous forest;Skogskant, barrskog;Linje utefter skogskant, barrskog
+Landskapsinformation;VEGSBL;Forest edge, mixed forest;Line along forest edge, mixed forest;Skogskant, blandskog;Linje utefter skogskant, blandskog
+Landskapsinformation;VEGSKO;Forest edge;Line along forest edge;Skogskant;Linje utefter skogskant
+Landskapsinformation;VEGSLO;Forest edge, deciduous forest;Line along forest edge, deciduous forest;Skogskant, lövskog;Linje utefter skogskant, lövskog
+Landskapsinformation;VEGTRE;Trees;Point in centre of tree;Träd;Punkt i centrum på träd
+Alternativtabell;A--KA;Design area;;Konstruktionsarea;
+Alternativtabell;A-A;Area, compound (used only when the respective area type is not recorded in separate layers);;Area, sammansatt (Används endast när respektive areatyp inte redovisas på skilda lager);
+Alternativtabell;A-BIA;Side area;;Biarea;
+Alternativtabell;A-BOA;Living area;;Boarea;
+Alternativtabell;A-BRA;Useful area;;Bruksarea;
+Alternativtabell;A-BTA;Gross area;;Bruttoarea;
+Alternativtabell;A-BYA;Building area;;Byggnadsarea;
+Alternativtabell;A-IKA;Internal construction area;;Invändig konstruktionsarea;
+Alternativtabell;A-LOA;Local area;;Lokalarea;
+Alternativtabell;A-NTA;Net area;;Nettoarea;
+Alternativtabell;A-OKA;Enclosing construction area;;Omslutande konstruktionsarea;
+Alternativtabell;A-OPA;Open area;;Öppen area;
+Alternativtabell;A-OVA;Other area (OVA according to the standard);;Övrig area (ÖVA enl. standarden);
+Alternativtabell;B-A;Fire protection, compound (Used for general information and when no further detail is provided);;Brandskydd, sammansatt (Används för allmän information och när ytterligare detaljering inte görs);
+Alternativtabell;B-B;Fire cell boundary, general;;Brandcellsgräns, generellt;
+Alternativtabell;B-E;Fire cell boundary, class E;;Brandcellsgräns, klass E;
+Alternativtabell;B-EI;Fire cell boundary, class EI;;Brandcellsgräns, klass EI;
+Alternativtabell;B-R;Fire cell boundary, class R;;Brandcellsgräns, klass R;
+Alternativtabell;B-RE;Fire cell boundary, class RE;;Brandcellsgräns, klass RE;
+Alternativtabell;B-REI;Fire cell boundary, Class REI;;Brandcellsgräns, klass REI;
+Alternativtabell;B-Suuu;Fire protection signage;;Brandskydd skyltning;
+Alternativtabell;B-Tuuu;Fire protection, tools, equipment;;Brandskydd, redskap, utrustning;
+Alternativtabell;B-Uuuu;Escape routes;;Utrymningsvägar;
+Alternativtabell;E-A;Compound contract conditions (Used only when further detailing is not done);;Entreprenadförhållanden sammansatt (Används endast när ytterligare detaljering inte görs);
+Alternativtabell;E-Buuu;Floors;;Bodar;
+Alternativtabell;E-Duuu;Work site layout;;Arbetsplatsdisposition;
+Alternativtabell;E-Euuu;Stage division;;Etappindelning;
+Alternativtabell;E-Fuuu;Storage rooms etc.;;Förråd o d;
+Alternativtabell;E-Huuu;Main parts;;Huvuddelar;
+Alternativtabell;E-Kuuu;Cranes etc.;;Kranar o d;
+Alternativtabell;E-Ouuu;Work area;;Arbetsområde;
+Alternativtabell;E-Tuuu;Temporary facilities;;Tillfälliga anordningar;
+Alternativtabell;E-Uuuu;Storage;;Upplag o d;
+Alternativtabell;E-Vuuu;Workshops;;Verkstäder o d;
+Alternativtabell;F-D;Boundary of plant part;;Gräns för anläggningsdel;
+Alternativtabell;F-O;Boundary of sub-area;;Gräns för delområde;
+Alternativtabell;G;Structures (Applies when no classification of any structure is used);;Byggnadsverk (Tillämpas när ingen klassifikation av något byggnadsverk används);
+Alternativtabell;G-A;Compound structures;;Sammansatta byggnadsverk;
+Alternativtabell;G-B;Tunnels and underground passages;;Tunnlar och bergrum;
+Alternativtabell;G-C;Channels and basins;;Kanaler och bassänger;
+Alternativtabell;G-D;Roads and open areas;;Vägar och planer;
+Alternativtabell;G-E;Bridges, piers and quays;;Broar, bryggor och kajer;
+Alternativtabell;G-F;Support structures, walls, dams, embankments and protective walls;;Stödkonstruktioner, murar, dammar, vallar och skärmar;
+Alternativtabell;G-G;Masts and towers;;Master och torn;
+Alternativtabell;G-H;Pipelines and cables;;Rörledningar och kablar;
+Alternativtabell;G-J;Engineering structures;;Maskinbyggnadsverk;
+Alternativtabell;G-K;Process structures;;Processbyggnadsverk;
+Alternativtabell;G-S;Houses etc.;;Hus e d;
+Alternativtabell;G-U;Land;;Markområden;
+Alternativtabell;G-V;Water areas;;Vattenområden;
+Alternativtabell;N-A;Locking (keys), security, compound (Used only when no further detail is provided);;Låsning (nycklar), säkerhet, sammansatt (Används endast när ytterligare detaljering inte görs);
+Alternativtabell;N-uuuu;Locking (keys), security,;;Låsning (nycklar), säkerhet,;
+Alternativtabell;S-A;Protective room, compound (Used only when no further detail is provided);;Skyddsrum, sammansatt (Används endast när ytterligare detaljering inte görs);
+Alternativtabell;S-FRED;Safe room, peacetime use;;Skyddsrum, fredsanvändning;
+Alternativtabell;S-IORD;Safe room, prepared;;Skyddsrum, iordningställt;
+Alternativtabell;S-SKLT;Safe room, signage;;Skyddsrum, skyltning;
+Alternativtabell;T-BKL1;Mountain class 1;;Bergklass 1;
+Alternativtabell;T-BKL2;Mountain class 2;;Bergklass 2;
+Alternativtabell;T-BKL3;Mountain class 3;;Bergklass 3;
+Alternativtabell;T-BKL4;Mountain class 4;;Bergklass 4;
+Alternativtabell;T-BKL5;Mountain class 5;;Bergklass 5;
+Alternativtabell;T-INJB;Grouting boreholes;For section and cut;Injekteringsborrhål;För sektion och snitt
+Alternativtabell;T-INJR;Curtain grouting;;Ridåinjektering;
+Alternativtabell;T-SOND;Boreholes;For section and cut;Sonderingshål;För sektion och snitt
+Alternativtabell;T-SPRI;Cracks in rock;;Sprickor i berg;
+Alternativtabell;T-SPRV;Water-bearing fracture zone in rock;;Vattenförande sprickzon i berg;
+Alternativtabell;T-SVH1;Zone of weakness evident;;Svaghetszon tydlig;
+Alternativtabell;T-SVH2;Zone of weakness probable;;Svaghetszon trolig;
+Alternativtabell;T-SVH3;Zone of weakness possible;;Svaghetszon möjlig;
+Alternativtabell;T-SVH4;Zone of weakness not in road line;;Svaghetszon ej i väglinje;
+Alternativtabell;T-SVH5;Zone of weakness local;;Svaghetszon lokal;
+Alternativtabell;T-SVH6;Zone of weakness plan structure;;Svaghetszon planstruktur;
+Alternativtabell;U;Space Applies when no classification of any space is used;;Rum Tillämpas när ingen klassifikation av något utrymme används;
+Alternativtabell;U1;Spaces for outdoor activities;;Utrymmen för utomhusaktiviteter;
+Alternativtabell;U11;Spaces for traffic;;Utrymmen för trafik;
+Alternativtabell;U111;Spaces for road traffic;;Utrymmen för vägtrafik;
+Alternativtabell;U111B;Walkways, stairs, etc.;;Gångbanor, trappor o d;
+Alternativtabell;U111C;Cycle paths;;Cykelbanor;
+Alternativtabell;U111D;Road lanes;;Vägbanor;
+Alternativtabell;U111E;Centre and side strips;;Mittremsor och sidoremsor;
+Alternativtabell;U111F;Lateral areas;;Sidoområden;
+Alternativtabell;U111G;Support strips;;Stödremsor;
+Alternativtabell;U112;Spaces for rail traffic;;Utrymmen för spårtrafik;
+Alternativtabell;U112B;Platforms, stairs, etc.;;Perronger, trappor o d;
+Alternativtabell;U112D;Track spaces;;Spårutrymmen;
+Alternativtabell;U113;Air traffic spaces;;Utrymmen för flygtrafik;
+Alternativtabell;U113B;Walkways, etc.;;Gångbanor o d;
+Alternativtabell;U113D;Taxiways, taxiways, etc.;;Rullbanor, taxibanor o d;
+Alternativtabell;U114;Maritime spaces;;Utrymmen för sjöfart;
+Alternativtabell;U114B;Footpaths;;Gångbanor o d;
+Alternativtabell;U114D;Fairways;;Farleder;
+Alternativtabell;U119;Other traffic spaces;;Övriga trafikutrymmen;
+Alternativtabell;U12;Spaces for commerce, agriculture, industry, etc.;;Utrymmen för handel, jordbruk, industri e d;
+Alternativtabell;U121;Spaces for trade or services;;Utrymmen för handel eller tjänsteförsäljning;
+Alternativtabell;U121B;Market places, etc.;;Torghandelsplatser o d;
+Alternativtabell;U122;Spaces for agriculture, forestry, fishing, industrial extraction, production, repair, etc.;;Utrymmen för jordbruk, skogsbruk, fiske, industriell utvinning, produktion, reperation e d;
+Alternativtabell;U122B;Spaces for agriculture;;Utrymmen för jordbruk;
+Alternativtabell;U122C;Spaces for fish farming, etc.;;Utrymmen för fiskodlig e d;
+Alternativtabell;U122D;Spaces for industrial extraction, production, repair, etc.;;Utrymmen för industriell utvinning, produktion, reperation e d;
+Alternativtabell;U124;Spaces for food preparation, serving, etc.;;Utrymmen för matberedning, servering e d;
+Alternativtabell;U124B;Food preparation premises;;Matberedningsutrymmen;
+Alternativtabell;U124C;Serving areas;;Serveringsutrymmen;
+Alternativtabell;U124D;Washing facilities;;Diskutrymmen;
+Alternativtabell;U13;Spaces for education, games, sports, recreation, culture, religious activities, etc.;;Utrymmen för undervisning, lek, idrott, rekreation, kultur, religiösa aktiviteter e d;
+Alternativtabell;U131;Spaces for training or practice;;Utrymmen för utbildning eller övning;
+Alternativtabell;U131B;Cross-country courses;;Terrängbanor;
+Alternativtabell;U131C;Traffic practice tracks;;Trafikövningsbanor;
+Alternativtabell;U131D;Shooting ranges;;Skjutbanor;
+Alternativtabell;U131E;Fire training grounds;;Brandövningsplatser;
+Alternativtabell;U132;Areas for play, sport or recreation;;Utrymmen för lek, idrott eller rekration;
+Alternativtabell;U132B;Recreation areas;;Lekutrymmen;
+Alternativtabell;U132C;Sports and exercise facilities;;Idrotts- och motionsutrymmen;
+Alternativtabell;U132D;Recreational facilities;;Rekreationsutrymmen;
+Alternativtabell;U133;Spaces for cultural activities;;Utrymmen för kulturella aktiviteter;
+Alternativtabell;U134;Spaces for religious practice;;Utrymmen för religionsutövning;
+Alternativtabell;U134B;Places of worship;;Gudstjänstplatser;
+Alternativtabell;U135;Burial places;;Begravningsplatser;
+Alternativtabell;U136;Spaces for personal hygiene, laundry;;Utrymmen för personhygien, tvätt ed;
+Alternativtabell;U136B;Personal hygiene areas;;Utrymmen för personhygien;
+Alternativtabell;U136C;Laundry facilities;;Tvättutrymmen;
+Alternativtabell;U14;Communication areas, storage areas, staging areas, etc.;;Kommunikationsutrymmen, förvaringsutrymmen, uppställningsutrymmen o d;
+Alternativtabell;U141;Communication spaces;;Kommunikationsutrymmen;
+Alternativtabell;U142;Storage areas;;Förvaringsutrymmen;
+Alternativtabell;U142B;Storage areas on land;;Förvaringsutrymmen på mark;
+Alternativtabell;U142C;Underground storage areas;;Förvaringsutrymmen i bergrum;
+Alternativtabell;U143;Line-up areas;;Uppställningsutrymmen;
+Alternativtabell;U143B;Spaces for parking road vehicles;;Utrymmen för uppställning av vägfordon;
+Alternativtabell;U143C;Spaces for stabling rail vehicles;;Utrymmen för uppställning av spårfordon;
+Alternativtabell;U143D;Spaces for parking aircraft;;Utrymmen för uppställning av flygplan;
+Alternativtabell;U143E;Spaces for parking ships;;Utrymmen för uppställning av fartyg;
+Alternativtabell;U143F;Spaces for mooring or anchoring ships or seaplanes;;Utrymmen för förtöjning eller ankring av fartyg eller sjöflygplan;
+Alternativtabell;U15;Protective and defensive spaces;;Skydds- och försvarsutrymmen;
+Alternativtabell;U151;Shelters in rock rooms or tunnels;;Skyddsrum i bergrum eller bergtunnel;
+Alternativtabell;U152;Fortification spaces;;Befästningsutrymmen;
+Alternativtabell;U16;Operating spaces, service spaces, wiring spaces, ducting spaces, etc.;;Driftutrymmen, serviceutrymmen, ledningsutrymmen, kanalisationsutrymmen o d;
+Alternativtabell;U161;Operating spaces;;Driftutrymmen;
+Alternativtabell;U161B;Operating spaces for road traffic;;Driftutrymmen för vägtrafik;
+Alternativtabell;U162;Service spaces and inspection spaces;;Serviceutrymmen och inspektionsutrymmen;
+Alternativtabell;U163;Pipeline spaces, ducting spaces, etc.;;Ledningsutrymmen, kanalisationsutrymmen o d;
+Alternativtabell;U17;Natural spaces;;Naturutrymmen;
+Alternativtabell;U171;Ground spaces;;Markutrymmen;
+Alternativtabell;U171B;Open air areas;;Friluftsområden;
+Alternativtabell;U172;Water facilities;;Vattenutrymmen;
+Alternativtabell;U172B;Fishing areas;;Fiskevårdsområden;
+Alternativtabell;U18;Miscellaneous facilities for outdoor activities;;Diverse utrymmen för utomhusaktiviteter;
+Alternativtabell;U181;Unused spaces for outdoor activities;;Outnyttjade utrymmen för utomhusaktiviteter;
+Alternativtabell;U19;Other facilities for outdoor activities;;Övriga utrymmen för utomhusaktiviteter;
+Alternativtabell;U2;Indoor activity spaces;;Utrymmen för inomhusaktiviteter;
+Alternativtabell;U21;Accommodation facilities;;Utrymmen för boende;
+Alternativtabell;U211;Spaces for personal hygiene, changing or textile care;;Utrymmen för personlig hygien, omklädning eller textilvård;
+Alternativtabell;U211B;Shower facilities;;Duschutrymmen;
+Alternativtabell;U211C;Bathing facilities;;Badutrymmen;
+Alternativtabell;U211D;Changing facilities;;Omklädningsutrymmen;
+Alternativtabell;U211E;Toilet facilities;;Toalettutrymmen;
+Alternativtabell;U211F;Sauna spaces;;Bastuutrymmen;
+Alternativtabell;U211G;Textile care facilities;;Utrymmen för textilvård;
+Alternativtabell;U212;Spaces for daily socialising;;Utrymmen för daglig samvaro;
+Alternativtabell;U213;Spaces for sleeping or resting;;Utrymmen för sömn eller vila;
+Alternativtabell;U214;Spaces for meals, cooking, food storage, etc.;;Utrymmen för måltider, matlagning, förvaring av livsmedel e d;
+Alternativtabell;U214B;Spaces for meals etc.;;Utrymmen för måltider e d;
+Alternativtabell;U214C;Spaces for cooking, food storage, etc.;;Utrymmen för matlagning, förvaring av livsmedel e d;
+Alternativtabell;U215;Space for domestic work;;Utrymmen för hemarbete;
+Alternativtabell;U216;Space for storage;;Utrymmen för förvaring;
+Alternativtabell;U217;Spaces for communal living activities;;Utrymmen för gemensamma boendeaktiviteter;
+Alternativtabell;U219;Other living spaces;;Övriga utyrmmen för boende;
+Alternativtabell;U22;Spaces for public activities;;Utrymmen för publika aktiviteter;
+Alternativtabell;U221;Spaces for temporary accommodation;;Utrymmen för tillfälligt boende;
+Alternativtabell;U221B;Hotel rooms, motel rooms, etc.;;Hotellrum, motellrum o d;
+Alternativtabell;U221C;Accommodation in boarding houses, hostels, etc.;;Logiutrymmen i pensionat, vandrarhem e d;
+Alternativtabell;U221D;Accommodation in military barracks;;Logiutrymmen i militärförläggning;
+Alternativtabell;U221E;Other temporary accommodation;;Övriga tillfälliga logiutrymmen;
+Alternativtabell;U221Z;Other temporary accommodation;;Övriga tillfälliga logiutrymmen;
+Alternativtabell;U222;Spaces for the production, display or sale of goods or services;;Utrymmen för produktion, exponering eller försäljning av varor eller tjänster;
+Alternativtabell;U222B;Spaces for office work;;Utrymmen för kontorsarbete;
+Alternativtabell;U222C;Spaces for the trade or sale of services;;Utrymmen för handel eller försäljning av tjänster;
+Alternativtabell;U222D;Spaces for exhibition, display;;Utrymmen för utställning, exponering;
+Alternativtabell;U222E;Spaces for agriculture, aquaculture, etc.;;Utrymmen för jordbruk, vattenbruk e d;
+Alternativtabell;U222F;Spaces for industrial extraction, production, repair, etc.;;Utrymmen för industriell utvinning, produktion, reperation e d;
+Alternativtabell;U222G;Spaces for food preparation, serving, etc.;;Utrymmen för matberedning, servering e d;
+Alternativtabell;U223;Spaces for public performances;;Utrymmen för publika framföranden;
+Alternativtabell;U223A;Multi-purpose performance spaces;;Framförandeutrymmen för flera ändamål;
+Alternativtabell;U223B;Performance spaces for architectural activities;;Framförandeutrymmen för kukturella aktiviteter;
+Alternativtabell;U223C;Performance spaces for judicial, political, etc. activities;;Framförandeutrymmen för rättskippning, politiska aktiviteter e d;
+Alternativtabell;U224;Spaces for education, games, sports, recreation, religious activities, etc.;;Utrymmen för undervisning, lek, idrott, rekration, religiösa aktiviteter e d;
+Alternativtabell;U224B;Spaces for childcare or education;;Utrymmen för barnomsorg eller undervisning;
+Alternativtabell;U224C;Spaces for games, sports or exercise;;Utrymmen för lek, sport eller motion;
+Alternativtabell;U224D;Spaces for religious activities;;Utrymmen för religiösa aktiviteter;
+Alternativtabell;U224E;Library;;Bibliotek;
+Alternativtabell;U224F;Spaces for recreation;;Utrymmen för rekreation;
+Alternativtabell;U225;Spaces for medical care, health services, etc.;;Utrymmen för sjukvård, hälsovård e d;
+Alternativtabell;U225B;Spaces for medical activities;;Utrymmen för medicinsk verksamhet;
+Alternativtabell;U225C;Spaces for veterinary activities;;Utrymmen för veterinärmedicinsk verksamhet;
+Alternativtabell;U226;Laboratories, testing facilities, etc.;;Laboratorieutrymmen, provningsutrymmen o d;
+Alternativtabell;U226B;Laboratory facilities;;Laboratorieutrymmen;
+Alternativtabell;U226C;Materials testing facilities;;Materialprovningsutrymmen;
+Alternativtabell;U226D;Vehicle testing facilities;;Utrymmen för provning av fordon;
+Alternativtabell;U227;Spaces for operational equipment;;Utrymmen för verksamhetsknuten utrustning;
+Alternativtabell;U227C;Cinema machinery spaces;;Biografmaskinutrymmen;
+Alternativtabell;U227D;Operating spaces for auditorium or assembly hall;;Driftutrymmen för hörsal eller samlingssal;
+Alternativtabell;U227E;Spaces for support functions;;Utrymmen för stödfunktioner;
+Alternativtabell;U227F;Workshops;;Verkstäder;
+Alternativtabell;U227V;Spaces for storage of operating equipment;;Utrymmen för förvaring av driftutrustning;
+Alternativtabell;U227X;Spaces for cleaning equipment etc.;;Utrymmen för rengöring av utrustning e d;
+Alternativtabell;U228;Miscellaneous areas for public activities;;Diverse utyrmmen för publika aktiviteter;
+Alternativtabell;U228B;Spaces for personal hygiene or changing;;Utrymmen för personlig hygien eller omklädning;
+Alternativtabell;U228C;Spaces for rest;;Utrymmen för vila;
+Alternativtabell;U228D;Textile care facilities;;Utrymmen för textilvård;
+Alternativtabell;U229;Other areas for public activities;;Övriga utyrmmen för publika aktiviteter;
+Alternativtabell;U23;Communication spaces, parking spaces, storage spaces, etc.;;Kommunikationsutrymmen, uppställningsutrymmen, förvaringsutrymmen o d;
+Alternativtabell;U231;Communication areas;;Kommunikationsutrymmen;
+Alternativtabell;U231B;Loft corridors;;Loftgångar;
+Alternativtabell;U231C;Attics;;Vindfång;
+Alternativtabell;U231D;Entrances;;Entreer;
+Alternativtabell;U231E;Corridors and passages;;Korridorer och passager;
+Alternativtabell;U231F;Stairwells;;Trapphus;
+Alternativtabell;U231G;Lift spaces;;Hissutrymmen;
+Alternativtabell;U231H;Locks;;Slussar;
+Alternativtabell;U232;Customer reception areas;;Utrymmen för kundmottagning;
+Alternativtabell;U232D;Receptions etc.;;Receptioner o d;
+Alternativtabell;U233;Indoor parking and manoeuvring spaces for vehicles or craft;;Uppställnings- och rangeringsutrymmen inomhus för fordon eller farkoster;
+Alternativtabell;U233B;Garages for road vehicles;;Garage för vägfordon;
+Alternativtabell;U233C;Engine shed;;Lokstall;
+Alternativtabell;U233D;Hangars;;Hangarer;
+Alternativtabell;U234;Storage, warehousing, archive and distribution facilities;;Lager-,förvarings,-förråds,- arkiv- och distributionsutrymmen;
+Alternativtabell;U234B;Storage facilities;;Lagerutrtmmen;
+Alternativtabell;U234C;Storage facilities;;Förrådsutrymmen;
+Alternativtabell;U234D;Archives;;Arkivutrymmen;
+Alternativtabell;U234E;Refrigeration and freezing rooms;;Kyl- och frysrum;
+Alternativtabell;U234F;Waste management areas;;Utrymmen för hantering av avfall;
+Alternativtabell;U234G;Cloakrooms, wardrobes, etc.;;Kapprum, garderoputrymmen o d;
+Alternativtabell;U234H;Distribution areas, etc.;;Distributionsutrymmen o d;
+Alternativtabell;U24;Protection and defence spaces;;Utrymmen för skydd och försvar;
+Alternativtabell;U241;Shelters;;Skyddsrum;
+Alternativtabell;U249;Other protection and defence spaces;;Övriga utrymmen för skydd och försvar;
+Alternativtabell;U26;Operating, wiring and ducting spaces;;Driftutrymmen, ledningsutrymmen och kanalisationsutrymmen;
+Alternativtabell;U261;Operating spaces;;Driftutrymmen;
+Alternativtabell;U261A;Compound technical spaces;;Sammansatta tekniska utrymmen;
+Alternativtabell;U261B;Technical spaces - VS;;Tekniska utrymmen - VS;
+Alternativtabell;U261C;Technical spaces - electrical, telecommunications, data;;Tekniska utrymmen - el, tele, data;
+Alternativtabell;U261D;Technical spaces - air handling;;Tekniska utrymmen - luftbehandling;
+Alternativtabell;U261E;Lift machine spaces;;Hissmaskinutrymmen;
+Alternativtabell;U261F;Control rooms, monitoring rooms, etc.;;Driftcentraler, övervakningsutrymmen o d;
+Alternativtabell;U262;Wiring spaces, ducting spaces, etc.;;Ledningsutrymmen, kanalisationsutrymmen o d;
+Alternativtabell;U262A;Compound shafts;;Sammansatta schakt;
+Alternativtabell;U262B;Shafts - VS;;Schackt - VS;
+Alternativtabell;U262C;Shafts - electrical, telecommunications and data;;Schackt - el, tele, och data;
+Alternativtabell;U262D;Shafts - air handling;;Schackt - luftbehandling;
+Alternativtabell;U262E;Lift shafts;;Hisschakt;
+Alternativtabell;U262F;Waste shafts;;Avfallsschakt;
+Alternativtabell;U262G;Dirty laundry shafts;;Schakt för smutstvätt;
+Alternativtabell;U28;Miscellaneous spaces for indoor activities;;Diverse utrymmen för inomhusaktiviteter;
+Alternativtabell;U281;Unused and unfurnished spaces for indoor activities;;Outnyttjade och oinredda utrymmen för inomhusaktiviteter;
+Alternativtabell;U281B;Spaces with undefined function;;Utrymmen med obestämd funktion;
+Alternativtabell;U281C;Attic spaces;;Vindsutrymmen;
+Alternativtabell;U281D;Crawl spaces;;Krypgrunder;
+Alternativtabell;U29;Other indoor activity spaces;;Övriga utrymmen för inomhusaktiviteter;
